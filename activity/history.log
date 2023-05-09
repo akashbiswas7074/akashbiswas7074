@@ -3,3 +3,4 @@
 [2023-05-08 17:30:19] sync: fix(api): resolve async connection pooling edge case (7468)
 [2023-05-08 18:57:54] sync: perf(db): add compound index for fast query lookups (9226)
 [2023-05-08 21:36:57] sync: feat(graphql): add batched dataloader for resolvers (3415)
+[2023-05-09 10:13:51] sync: test(e2e): enhance integration coverage for auth flows (3067)
