@@ -5,3 +5,4 @@
 [2023-05-08 21:36:57] sync: feat(graphql): add batched dataloader for resolvers (3415)
 [2023-05-09 10:13:51] sync: test(e2e): enhance integration coverage for auth flows (3067)
 [2023-05-09 11:02:27] sync: fix(api): resolve async connection pooling edge case (8133)
+[2023-05-09 16:12:52] sync: docs(readme): clarify setup steps and architecture flow (5225)
