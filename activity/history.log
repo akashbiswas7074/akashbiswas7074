@@ -1,3 +1,4 @@
 # Developer Activity Log
 [2023-05-10 21:50:04] feat(ml): fine-tune embedding projection dimensions #382
 [2023-05-10 18:23:20] perf(ui): memoize heavy component renders and reduce re-flows #956
+[2023-05-10 14:34:25] feat(shader): custom volumetric fog and lighting pass #858
