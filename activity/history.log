@@ -1,2 +1,3 @@
 # Developer Activity Log
 [2023-05-10 21:50:04] feat(ml): fine-tune embedding projection dimensions #382
+[2023-05-10 18:23:20] perf(ui): memoize heavy component renders and reduce re-flows #956
