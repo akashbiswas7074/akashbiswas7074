@@ -9,3 +9,4 @@
 [2023-05-11 12:41:11] feat(ui): responsive layout components and dynamic styling #584
 [2023-05-11 17:09:49] feat(ml): add multi-head cross-attention layer #141
 [2023-05-11 22:24:32] feat(api): streaming response handlers with chunked transfer #437
+[2023-05-11 18:41:17] fix(systemd): adjust daemon restart policy on unhandled panic #911
