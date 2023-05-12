@@ -10,3 +10,4 @@
 [2023-05-11 17:09:49] feat(ml): add multi-head cross-attention layer #141
 [2023-05-11 22:24:32] feat(api): streaming response handlers with chunked transfer #437
 [2023-05-11 18:41:17] fix(systemd): adjust daemon restart policy on unhandled panic #911
+[2023-05-12 11:50:59] refactor(ui): extract reusable glassmorphic UI primitives #280
