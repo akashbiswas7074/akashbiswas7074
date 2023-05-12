@@ -10,3 +10,4 @@
 [2023-05-09 21:24:35] sync: perf(simd): vectorize matrix dot product operations (6343)
 [2023-05-11 13:33:29] sync: feat(engine): optimize frame budget and draw calls (9561)
 [2023-05-11 22:50:26] sync: chore(deps): bump toolchain packages and lint rules (7790)
+[2023-05-12 10:59:06] sync: test(bench): benchmark p99 latency under sustained load (2654)
