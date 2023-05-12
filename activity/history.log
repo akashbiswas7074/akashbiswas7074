@@ -12,3 +12,4 @@
 [2023-05-11 18:41:17] fix(systemd): adjust daemon restart policy on unhandled panic #911
 [2023-05-12 11:50:59] refactor(ui): extract reusable glassmorphic UI primitives #280
 [2023-05-12 13:36:10] chore(deps): bump toolchain packages and compiler versions #979
+[2023-05-12 17:42:09] feat(ml): implement attention mechanism in transformer layer #959
