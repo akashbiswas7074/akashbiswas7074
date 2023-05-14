@@ -31,3 +31,4 @@
 [2023-05-14 14:15:23] sync: fix(concurrency): lock contention in task scheduler (8308)
 [2023-05-14 15:11:55] sync: fix(concurrency): lock contention in task scheduler (6730)
 [2023-05-14 17:22:10] sync: perf(cache): lru eviction policy with atomic locks (2480)
+[2023-05-14 18:18:01] sync: perf(simd): vectorize matrix dot product operations (1813)
