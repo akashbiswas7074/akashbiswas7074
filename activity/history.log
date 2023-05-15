@@ -41,3 +41,4 @@
 [2023-05-15 15:19:43] sync: feat(graphql): add batched dataloader for resolvers (7506)
 [2023-05-15 16:37:06] sync: feat(engine): optimize frame budget and draw calls (9380)
 [2023-05-15 17:42:53] sync: feat(crypto): add ed25519 signature verification (5631)
+[2023-05-15 18:19:43] sync: chore(deps): bump toolchain packages and lint rules (8892)
