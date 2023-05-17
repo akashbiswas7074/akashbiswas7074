@@ -52,3 +52,4 @@
 [2023-05-16 22:40:50] sync: fix(concurrency): lock contention in task scheduler (6873)
 [2023-05-17 11:11:18] sync: chore(deps): bump toolchain packages and lint rules (8713)
 [2023-05-17 13:08:47] sync: perf(cache): lru eviction policy with atomic locks (3999)
+[2023-05-17 17:43:57] sync: fix(memory): patch dangling pointer in audio pipeline (2463)
