@@ -19,3 +19,4 @@
 [2023-05-12 16:09:57] test(e2e): enhance integration coverage for auth flows #570
 [2023-05-17 18:19:30] perf(ui): memoize heavy component renders and reduce re-flows #710
 [2023-05-17 12:47:16] feat(ui): responsive layout components and dynamic styling #529
+[2023-05-17 11:30:05] perf(ml): quantize model weights to int8 for edge deployment #536
