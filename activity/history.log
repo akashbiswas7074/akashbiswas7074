@@ -31,3 +31,4 @@
 [2023-05-23 19:22:59] perf(ml): optimize tensor memory layout for fast inference #565
 [2023-05-25 20:28:08] feat(api): streaming response handlers with chunked transfer #993
 [2023-05-25 11:10:10] chore(nix): declare deterministic package inputs in flake.lock #632
+[2023-05-25 13:59:46] chore(nix): declare deterministic package inputs in flake.lock #177
