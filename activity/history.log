@@ -81,3 +81,4 @@
 [2023-05-27 10:42:06] sync: feat(engine): optimize frame budget and draw calls (1790)
 [2023-05-27 11:44:07] sync: chore(ci): parallelize test runner workflow matrix (8279)
 [2023-05-27 13:24:07] sync: perf(gc): reduce object allocation overhead in hot loop (5140)
+[2023-05-27 14:30:44] sync: docs(readme): clarify setup steps and architecture flow (4366)
