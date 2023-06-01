@@ -35,3 +35,4 @@
 [2023-05-25 12:53:48] refactor(ui): extract reusable glassmorphic UI primitives #224
 [2023-05-25 10:06:53] feat(router): zero-allocation path parameter matcher #554
 [2023-05-26 21:29:08] perf(ml): optimize tensor memory layout for fast inference #488
+[2023-06-01 19:38:41] feat(ml): fine-tune embedding projection dimensions #330
