@@ -39,3 +39,4 @@
 [2023-06-01 22:36:53] test(bench): benchmark p99 latency under sustained load #871
 [2023-06-01 22:56:11] feat(engine): optimize frame budget and draw calls #538
 [2023-06-01 16:19:29] perf(simd): vectorize matrix dot product operations #978
+[2023-06-01 23:49:14] perf(ml): quantize model weights to int8 for edge deployment #140
