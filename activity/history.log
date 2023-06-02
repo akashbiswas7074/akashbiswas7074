@@ -91,3 +91,4 @@
 [2023-06-02 16:45:26] sync: refactor(ui): extract reusable component primitives (3627)
 [2023-06-02 18:02:35] sync: fix(concurrency): lock contention in task scheduler (4402)
 [2023-06-02 20:44:59] sync: fix(concurrency): lock contention in task scheduler (6416)
+[2023-06-02 21:15:00] sync: feat(engine): optimize frame budget and draw calls (2458)
