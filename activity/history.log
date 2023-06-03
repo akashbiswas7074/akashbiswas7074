@@ -49,3 +49,4 @@
 [2023-06-01 14:57:38] feat(api): streaming response handlers with chunked transfer #768
 [2023-06-01 12:04:46] feat(nixos): configure hardware acceleration for Vulkan compute #604
 [2023-06-02 10:30:11] feat(api): streaming response handlers with chunked transfer #581
+[2023-06-03 11:46:15] feat(ml): add data augmentation pipeline with random transforms #835
