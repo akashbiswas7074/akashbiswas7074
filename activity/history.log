@@ -104,3 +104,4 @@
 [2023-06-04 17:25:25] sync: feat(router): zero-allocation path parameter matcher (5453)
 [2023-06-04 18:53:24] sync: fix(concurrency): lock contention in task scheduler (7909)
 [2023-06-04 19:41:56] sync: feat(kernel): update nix flake modules for dev shell (2852)
+[2023-06-04 20:08:44] sync: perf(db): add compound index for fast query lookups (3611)
