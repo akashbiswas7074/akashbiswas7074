@@ -110,3 +110,4 @@
 [2023-06-06 09:55:43] sync: docs(readme): clarify setup steps and architecture flow (8914)
 [2023-06-06 14:58:31] sync: chore(deps): bump toolchain packages and lint rules (7738)
 [2023-06-06 15:28:02] sync: fix(api): resolve async connection pooling edge case (5286)
+[2023-06-06 18:41:20] sync: feat(engine): optimize frame budget and draw calls (9598)
