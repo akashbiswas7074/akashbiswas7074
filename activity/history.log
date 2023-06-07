@@ -56,3 +56,4 @@
 [2023-06-07 11:57:34] feat(ml): implement cosine learning rate annealing schedule #477
 [2023-06-07 12:18:02] feat(ui): responsive layout components and dynamic styling #884
 [2023-06-07 10:25:29] docs(readme): clarify setup steps and architecture flow #940
+[2023-06-07 11:59:40] feat(shader): custom volumetric fog and lighting pass #461
