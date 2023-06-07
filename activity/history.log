@@ -117,3 +117,4 @@
 [2023-06-07 17:53:52] sync: perf(gc): reduce object allocation overhead in hot loop (1894)
 [2023-06-07 18:00:41] sync: feat(kernel): update nix flake modules for dev shell (9283)
 [2023-06-07 19:54:30] sync: fix(concurrency): lock contention in task scheduler (3709)
+[2023-06-07 20:04:48] sync: fix(concurrency): lock contention in task scheduler (6253)
