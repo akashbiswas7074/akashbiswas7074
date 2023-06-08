@@ -70,3 +70,4 @@
 [2023-06-08 22:56:50] test(bench): benchmark p99 latency under sustained load #822
 [2023-06-08 13:37:54] docs(readme): clarify setup steps and architecture flow #180
 [2023-06-08 23:15:12] test(e2e): enhance integration coverage for auth flows #576
+[2023-06-08 20:00:38] docs(readme): clarify setup steps and architecture flow #222
