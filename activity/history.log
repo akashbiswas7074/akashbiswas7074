@@ -62,3 +62,4 @@
 [2023-06-07 23:27:24] feat(kernel): update nix flake modules for dev shell #904
 [2023-06-07 19:54:08] feat(engine): optimize frame budget and draw calls #153
 [2023-06-08 19:57:23] refactor(ui): extract reusable glassmorphic UI primitives #967
+[2023-06-08 18:08:55] perf(ui): memoize heavy component renders and reduce re-flows #791
