@@ -68,3 +68,4 @@
 [2023-06-08 16:39:44] feat(ml): add data augmentation pipeline with random transforms #924
 [2023-06-08 21:50:53] fix(systemd): adjust daemon restart policy on unhandled panic #915
 [2023-06-08 22:56:50] test(bench): benchmark p99 latency under sustained load #822
+[2023-06-08 13:37:54] docs(readme): clarify setup steps and architecture flow #180
