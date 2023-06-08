@@ -125,3 +125,4 @@
 [2023-06-08 15:06:25] sync: chore(ci): parallelize test runner workflow matrix (1587)
 [2023-06-08 17:35:35] sync: feat(engine): optimize frame budget and draw calls (2489)
 [2023-06-08 18:50:38] sync: feat(stream): reactive event stream with backpressure (5990)
+[2023-06-08 22:56:32] sync: perf(gc): reduce object allocation overhead in hot loop (4389)
