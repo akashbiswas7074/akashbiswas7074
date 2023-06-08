@@ -123,3 +123,4 @@
 [2023-06-08 13:05:54] sync: fix(concurrency): lock contention in task scheduler (8324)
 [2023-06-08 14:20:07] sync: fix(concurrency): lock contention in task scheduler (1291)
 [2023-06-08 15:06:25] sync: chore(ci): parallelize test runner workflow matrix (1587)
+[2023-06-08 17:35:35] sync: feat(engine): optimize frame budget and draw calls (2489)
