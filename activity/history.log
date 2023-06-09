@@ -75,3 +75,4 @@
 [2023-06-08 19:37:05] feat(engine): optimize frame budget and draw calls #681
 [2023-06-08 18:02:26] feat(ui): responsive layout components and dynamic styling #958
 [2023-06-08 10:12:53] perf(simd): vectorize matrix dot product operations #561
+[2023-06-09 22:16:05] fix(memory): patch dangling pointer in audio pipeline #356
