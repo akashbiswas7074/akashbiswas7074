@@ -81,3 +81,4 @@
 [2023-06-09 17:03:13] perf(cache): lru eviction policy with atomic locks #430
 [2023-06-09 21:59:25] chore(nix): declare deterministic package inputs in flake.lock #209
 [2023-06-09 14:28:14] feat(api): streaming response handlers with chunked transfer #702
+[2023-06-11 19:55:48] docs(readme): clarify setup steps and architecture flow #988
