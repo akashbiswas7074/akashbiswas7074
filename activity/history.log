@@ -154,3 +154,4 @@
 [2023-06-13 14:37:36] sync: chore(ci): parallelize test runner workflow matrix (9747)
 [2023-06-13 17:18:56] sync: chore(ci): parallelize test runner workflow matrix (1209)
 [2023-06-13 19:33:06] sync: feat(engine): optimize frame budget and draw calls (7240)
+[2023-06-13 20:09:03] sync: perf(db): add compound index for fast query lookups (4275)
