@@ -88,3 +88,4 @@
 [2023-06-13 20:29:59] perf(ui): memoize heavy component renders and reduce re-flows #269
 [2023-06-13 10:15:53] test(e2e): enhance integration coverage for auth flows #504
 [2023-06-13 22:25:53] feat(api): streaming response handlers with chunked transfer #881
+[2023-06-13 21:07:55] feat(ml): fine-tune embedding projection dimensions #775
