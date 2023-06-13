@@ -84,3 +84,4 @@
 [2023-06-11 19:55:48] docs(readme): clarify setup steps and architecture flow #988
 [2023-06-11 18:30:32] chore(nix): declare deterministic package inputs in flake.lock #858
 [2023-06-11 12:34:38] feat(ml): implement attention mechanism in transformer layer #610
+[2023-06-13 15:35:17] feat(graphql): add batched dataloader for resolvers #623
