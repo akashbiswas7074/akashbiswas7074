@@ -91,3 +91,4 @@
 [2023-06-13 21:07:55] feat(ml): fine-tune embedding projection dimensions #775
 [2023-06-14 23:20:38] feat(nixos): configure hardware acceleration for Vulkan compute #372
 [2023-06-14 19:18:36] chore(deps): bump toolchain packages and compiler versions #119
+[2023-06-14 14:07:43] perf(ui): memoize heavy component renders and reduce re-flows #145
