@@ -93,3 +93,4 @@
 [2023-06-14 19:18:36] chore(deps): bump toolchain packages and compiler versions #119
 [2023-06-14 14:07:43] perf(ui): memoize heavy component renders and reduce re-flows #145
 [2023-06-14 11:21:09] feat(engine): optimize frame budget and draw calls #232
+[2023-06-14 21:14:18] perf(cache): lru eviction policy with atomic locks #805
