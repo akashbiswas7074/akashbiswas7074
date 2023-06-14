@@ -89,3 +89,4 @@
 [2023-06-13 10:15:53] test(e2e): enhance integration coverage for auth flows #504
 [2023-06-13 22:25:53] feat(api): streaming response handlers with chunked transfer #881
 [2023-06-13 21:07:55] feat(ml): fine-tune embedding projection dimensions #775
+[2023-06-14 23:20:38] feat(nixos): configure hardware acceleration for Vulkan compute #372
