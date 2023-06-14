@@ -97,3 +97,4 @@
 [2023-06-14 14:02:33] feat(ml): add multi-head cross-attention layer #257
 [2023-06-14 12:57:06] feat(nixos): configure hardware acceleration for Vulkan compute #260
 [2023-06-14 11:55:44] feat(router): zero-allocation path parameter matcher #994
+[2023-06-14 10:48:31] perf(simd): vectorize matrix dot product operations #615
