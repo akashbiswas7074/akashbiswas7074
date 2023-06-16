@@ -102,3 +102,4 @@
 [2023-06-16 18:05:59] feat(api): streaming response handlers with chunked transfer #339
 [2023-06-16 11:30:19] fix(systemd): adjust daemon restart policy on unhandled panic #276
 [2023-06-16 19:01:49] refactor(ui): extract reusable glassmorphic UI primitives #724
+[2023-06-16 22:18:18] feat(router): zero-allocation path parameter matcher #319
