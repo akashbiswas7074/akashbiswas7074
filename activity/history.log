@@ -173,3 +173,4 @@
 [2023-06-18 17:49:59] sync: feat(stream): reactive event stream with backpressure (5934)
 [2023-06-18 20:31:50] sync: test(bench): benchmark p99 latency under sustained load (6866)
 [2023-06-18 22:04:50] sync: fix(memory): patch dangling pointer in audio pipeline (9608)
+[2023-06-19 10:34:25] sync: fix(api): resolve async connection pooling edge case (6724)
