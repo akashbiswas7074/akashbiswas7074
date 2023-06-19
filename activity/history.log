@@ -179,3 +179,4 @@
 [2023-06-19 13:48:39] sync: feat(graphql): add batched dataloader for resolvers (8780)
 [2023-06-19 15:35:52] sync: feat(engine): optimize frame budget and draw calls (2879)
 [2023-06-19 17:42:22] sync: feat(router): zero-allocation path parameter matcher (4937)
+[2023-06-19 20:57:41] sync: feat(stream): reactive event stream with backpressure (4994)
