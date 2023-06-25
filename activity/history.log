@@ -184,3 +184,4 @@
 [2023-06-25 10:46:18] sync: feat(engine): optimize frame budget and draw calls (9468)
 [2023-06-25 13:52:49] sync: feat(crypto): add ed25519 signature verification (9426)
 [2023-06-25 15:51:32] sync: feat(router): zero-allocation path parameter matcher (8975)
+[2023-06-25 17:02:18] sync: test(e2e): enhance integration coverage for auth flows (6248)
