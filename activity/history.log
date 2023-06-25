@@ -182,3 +182,4 @@
 [2023-06-19 20:57:41] sync: feat(stream): reactive event stream with backpressure (4994)
 [2023-06-19 21:02:43] sync: fix(memory): patch dangling pointer in audio pipeline (7248)
 [2023-06-25 10:46:18] sync: feat(engine): optimize frame budget and draw calls (9468)
+[2023-06-25 13:52:49] sync: feat(crypto): add ed25519 signature verification (9426)
