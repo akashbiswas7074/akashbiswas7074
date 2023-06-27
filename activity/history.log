@@ -109,3 +109,4 @@
 [2023-06-20 16:14:07] chore(deps): bump toolchain packages and compiler versions #959
 [2023-06-23 09:54:11] feat(ml): refine training loss convergence thresholds #143
 [2023-06-23 11:34:54] feat(ml): add data augmentation pipeline with random transforms #618
+[2023-06-27 13:30:09] feat(nixos): configure hardware acceleration for Vulkan compute #124
