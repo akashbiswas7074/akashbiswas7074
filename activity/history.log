@@ -197,3 +197,4 @@
 [2023-06-27 22:27:20] sync: feat(engine): optimize frame budget and draw calls (7381)
 [2023-06-28 10:00:41] sync: feat(stream): reactive event stream with backpressure (2036)
 [2023-06-28 17:48:47] sync: test(bench): benchmark p99 latency under sustained load (1745)
+[2023-06-28 19:44:54] sync: fix(api): resolve async connection pooling edge case (6860)
