@@ -118,3 +118,4 @@
 [2023-06-28 19:08:06] feat(api): streaming response handlers with chunked transfer #345
 [2023-06-28 20:10:10] chore(nix): declare deterministic package inputs in flake.lock #935
 [2023-06-28 13:26:57] feat(ml): implement cosine learning rate annealing schedule #614
+[2023-06-28 14:58:09] feat(engine): optimize frame budget and draw calls #557
