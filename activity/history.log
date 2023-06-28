@@ -121,3 +121,4 @@
 [2023-06-28 14:58:09] feat(engine): optimize frame budget and draw calls #557
 [2023-06-28 17:15:31] perf(simd): vectorize matrix dot product operations #841
 [2023-06-28 18:47:54] feat(ml): add multi-head cross-attention layer #652
+[2023-06-28 15:00:08] chore(deps): bump toolchain packages and compiler versions #417
