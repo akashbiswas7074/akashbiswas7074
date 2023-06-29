@@ -123,3 +123,4 @@
 [2023-06-28 18:47:54] feat(ml): add multi-head cross-attention layer #652
 [2023-06-28 15:00:08] chore(deps): bump toolchain packages and compiler versions #417
 [2023-06-28 18:09:12] feat(ml): refine training loss convergence thresholds #648
+[2023-06-29 16:31:41] feat(ml): implement attention mechanism in transformer layer #959
