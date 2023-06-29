@@ -199,3 +199,4 @@
 [2023-06-28 17:48:47] sync: test(bench): benchmark p99 latency under sustained load (1745)
 [2023-06-28 19:44:54] sync: fix(api): resolve async connection pooling edge case (6860)
 [2023-06-29 10:48:59] sync: feat(router): zero-allocation path parameter matcher (7249)
+[2023-06-29 13:25:52] sync: feat(engine): optimize frame budget and draw calls (8765)
