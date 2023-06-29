@@ -127,3 +127,4 @@
 [2023-06-29 14:57:42] feat(engine): optimize frame budget and draw calls #560
 [2023-06-29 17:18:06] chore(deps): bump toolchain packages and compiler versions #234
 [2023-06-29 09:14:36] chore(deps): bump toolchain packages and compiler versions #955
+[2023-06-29 12:09:12] perf(db): add compound index for fast query lookups #707
