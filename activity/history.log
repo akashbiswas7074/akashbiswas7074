@@ -206,3 +206,4 @@
 [2023-06-29 20:00:35] sync: perf(gc): reduce object allocation overhead in hot loop (3316)
 [2023-06-29 21:07:02] sync: feat(engine): optimize frame budget and draw calls (7456)
 [2023-06-30 10:47:47] sync: feat(crypto): add ed25519 signature verification (4469)
+[2023-06-30 12:26:57] sync: feat(graphql): add batched dataloader for resolvers (3333)
