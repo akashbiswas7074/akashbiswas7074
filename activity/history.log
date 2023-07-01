@@ -133,3 +133,4 @@
 [2023-06-30 18:05:22] fix(state): handle disconnected websocket re-subscription #195
 [2023-06-30 16:12:31] feat(ml): implement cosine learning rate annealing schedule #752
 [2023-06-30 23:56:08] chore(nix): declare deterministic package inputs in flake.lock #781
+[2023-07-01 15:27:43] feat(ml): fine-tune embedding projection dimensions #872
