@@ -212,3 +212,4 @@
 [2023-06-30 22:54:48] sync: perf(gc): reduce object allocation overhead in hot loop (8557)
 [2023-07-02 10:12:46] sync: test(bench): benchmark p99 latency under sustained load (8982)
 [2023-07-02 13:21:22] sync: docs(readme): clarify setup steps and architecture flow (4842)
+[2023-07-02 17:06:18] sync: feat(stream): reactive event stream with backpressure (2143)
