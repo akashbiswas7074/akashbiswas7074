@@ -221,3 +221,4 @@
 [2023-07-03 12:56:30] sync: feat(router): zero-allocation path parameter matcher (8296)
 [2023-07-03 13:22:49] sync: refactor(ui): extract reusable component primitives (8978)
 [2023-07-03 14:35:06] sync: feat(kernel): update nix flake modules for dev shell (2343)
+[2023-07-03 15:53:17] sync: docs(readme): clarify setup steps and architecture flow (9824)
