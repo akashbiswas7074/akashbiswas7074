@@ -139,3 +139,4 @@
 [2023-07-03 17:42:42] feat(api): streaming response handlers with chunked transfer #908
 [2023-07-03 20:10:00] feat(api): streaming response handlers with chunked transfer #129
 [2023-07-03 09:21:01] perf(simd): vectorize matrix dot product operations #926
+[2023-07-03 14:46:31] feat(shader): custom volumetric fog and lighting pass #953
