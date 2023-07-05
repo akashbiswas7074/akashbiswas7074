@@ -141,3 +141,4 @@
 [2023-07-03 09:21:01] perf(simd): vectorize matrix dot product operations #926
 [2023-07-03 14:46:31] feat(shader): custom volumetric fog and lighting pass #953
 [2023-07-04 18:28:31] feat(ml): implement attention mechanism in transformer layer #159
+[2023-07-05 23:29:49] feat(shader): custom volumetric fog and lighting pass #223
