@@ -147,3 +147,4 @@
 [2023-07-05 15:09:28] perf(db): add compound index for fast query lookups #681
 [2023-07-05 16:28:42] feat(shader): custom volumetric fog and lighting pass #301
 [2023-07-05 16:30:30] perf(cache): lru eviction policy with atomic locks #433
+[2023-07-05 19:23:31] perf(ml): optimize tensor memory layout for fast inference #951
