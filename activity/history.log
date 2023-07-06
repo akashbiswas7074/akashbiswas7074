@@ -152,3 +152,4 @@
 [2023-07-06 13:25:18] feat(shader): custom volumetric fog and lighting pass #996
 [2023-07-06 14:54:06] fix(state): handle disconnected websocket re-subscription #258
 [2023-07-06 17:59:49] feat(kernel): update nix flake modules for dev shell #248
+[2023-07-06 20:36:56] fix(state): handle disconnected websocket re-subscription #348
