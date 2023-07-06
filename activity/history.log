@@ -150,3 +150,4 @@
 [2023-07-05 19:23:31] perf(ml): optimize tensor memory layout for fast inference #951
 [2023-07-06 13:11:08] feat(ml): refine training loss convergence thresholds #641
 [2023-07-06 13:25:18] feat(shader): custom volumetric fog and lighting pass #996
+[2023-07-06 14:54:06] fix(state): handle disconnected websocket re-subscription #258
