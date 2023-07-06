@@ -224,3 +224,4 @@
 [2023-07-03 15:53:17] sync: docs(readme): clarify setup steps and architecture flow (9824)
 [2023-07-03 20:12:16] sync: fix(api): resolve async connection pooling edge case (2235)
 [2023-07-05 09:54:32] sync: feat(engine): optimize frame budget and draw calls (7637)
+[2023-07-06 09:35:16] sync: perf(gc): reduce object allocation overhead in hot loop (9842)
