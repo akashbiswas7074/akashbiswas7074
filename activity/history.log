@@ -235,3 +235,4 @@
 [2023-07-07 14:04:16] sync: feat(crypto): add ed25519 signature verification (4834)
 [2023-07-07 15:02:42] sync: test(e2e): enhance integration coverage for auth flows (9485)
 [2023-07-07 17:58:50] sync: feat(crypto): add ed25519 signature verification (7358)
+[2023-07-07 21:30:58] sync: feat(router): zero-allocation path parameter matcher (1760)
