@@ -240,3 +240,4 @@
 [2023-07-09 14:53:47] sync: perf(cache): lru eviction policy with atomic locks (9918)
 [2023-07-09 19:36:11] sync: perf(simd): vectorize matrix dot product operations (7201)
 [2023-07-10 10:33:16] sync: perf(simd): vectorize matrix dot product operations (4651)
+[2023-07-10 14:33:25] sync: feat(crypto): add ed25519 signature verification (6653)
