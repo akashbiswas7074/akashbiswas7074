@@ -160,3 +160,4 @@
 [2023-07-10 16:53:46] chore(nix): declare deterministic package inputs in flake.lock #506
 [2023-07-10 09:23:17] perf(ml): quantize model weights to int8 for edge deployment #886
 [2023-07-11 09:28:55] feat(graphql): add batched dataloader for resolvers #790
+[2023-07-11 21:06:25] test(bench): benchmark p99 latency under sustained load #979
