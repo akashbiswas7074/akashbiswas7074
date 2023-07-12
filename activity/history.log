@@ -248,3 +248,4 @@
 [2023-07-12 12:46:07] sync: fix(concurrency): lock contention in task scheduler (8844)
 [2023-07-12 13:30:13] sync: test(bench): benchmark p99 latency under sustained load (3641)
 [2023-07-12 17:41:53] sync: chore(ci): parallelize test runner workflow matrix (1367)
+[2023-07-12 20:15:02] sync: docs(readme): clarify setup steps and architecture flow (3639)
