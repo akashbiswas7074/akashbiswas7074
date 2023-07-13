@@ -173,3 +173,4 @@
 [2023-07-12 16:31:14] feat(ml): add multi-head cross-attention layer #362
 [2023-07-12 11:18:24] feat(graphql): add batched dataloader for resolvers #836
 [2023-07-13 18:52:46] test(bench): benchmark p99 latency under sustained load #712
+[2023-07-13 13:24:30] feat(ml): add multi-head cross-attention layer #555
