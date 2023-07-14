@@ -261,3 +261,4 @@
 [2023-07-13 22:01:12] sync: feat(graphql): add batched dataloader for resolvers (9263)
 [2023-07-14 10:11:30] sync: feat(stream): reactive event stream with backpressure (1639)
 [2023-07-14 11:56:50] sync: perf(gc): reduce object allocation overhead in hot loop (9246)
+[2023-07-14 15:48:07] sync: fix(api): resolve async connection pooling edge case (8901)
