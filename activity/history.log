@@ -176,3 +176,4 @@
 [2023-07-13 13:24:30] feat(ml): add multi-head cross-attention layer #555
 [2023-07-13 12:42:47] feat(ml): refine training loss convergence thresholds #467
 [2023-07-13 13:48:23] refactor(ui): extract reusable glassmorphic UI primitives #247
+[2023-07-14 21:25:15] fix(state): handle disconnected websocket re-subscription #510
