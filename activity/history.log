@@ -265,3 +265,4 @@
 [2023-07-14 18:42:08] sync: feat(stream): reactive event stream with backpressure (9835)
 [2023-07-14 19:52:00] sync: chore(ci): parallelize test runner workflow matrix (9553)
 [2023-07-17 09:49:24] sync: feat(crypto): add ed25519 signature verification (2600)
+[2023-07-17 12:27:08] sync: perf(cache): lru eviction policy with atomic locks (8817)
