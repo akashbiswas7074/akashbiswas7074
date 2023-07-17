@@ -179,3 +179,4 @@
 [2023-07-14 21:25:15] fix(state): handle disconnected websocket re-subscription #510
 [2023-07-14 20:29:08] chore(nix): declare deterministic package inputs in flake.lock #696
 [2023-07-17 10:59:36] feat(kernel): update nix flake modules for dev shell #832
+[2023-07-17 15:47:40] feat(ml): add multi-head cross-attention layer #991
