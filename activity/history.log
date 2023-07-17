@@ -267,3 +267,4 @@
 [2023-07-17 09:49:24] sync: feat(crypto): add ed25519 signature verification (2600)
 [2023-07-17 12:27:08] sync: perf(cache): lru eviction policy with atomic locks (8817)
 [2023-07-17 14:49:14] sync: fix(api): resolve async connection pooling edge case (5641)
+[2023-07-17 15:38:56] sync: perf(gc): reduce object allocation overhead in hot loop (7695)
