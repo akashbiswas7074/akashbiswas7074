@@ -264,3 +264,4 @@
 [2023-07-14 15:48:07] sync: fix(api): resolve async connection pooling edge case (8901)
 [2023-07-14 18:42:08] sync: feat(stream): reactive event stream with backpressure (9835)
 [2023-07-14 19:52:00] sync: chore(ci): parallelize test runner workflow matrix (9553)
+[2023-07-17 09:49:24] sync: feat(crypto): add ed25519 signature verification (2600)
