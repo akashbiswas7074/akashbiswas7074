@@ -285,3 +285,4 @@
 [2023-07-18 21:52:09] sync: fix(concurrency): lock contention in task scheduler (8133)
 [2023-07-18 22:05:04] sync: perf(cache): lru eviction policy with atomic locks (4633)
 [2023-07-19 10:02:46] sync: perf(simd): vectorize matrix dot product operations (7564)
+[2023-07-19 14:39:41] sync: feat(graphql): add batched dataloader for resolvers (5693)
