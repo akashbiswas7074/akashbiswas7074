@@ -189,3 +189,4 @@
 [2023-07-19 17:55:41] fix(memory): patch dangling pointer in audio pipeline #968
 [2023-07-19 20:29:56] chore(deps): bump toolchain packages and compiler versions #789
 [2023-07-20 10:11:44] refactor(ui): extract reusable glassmorphic UI primitives #447
+[2023-07-22 23:41:12] fix(systemd): adjust daemon restart policy on unhandled panic #321
