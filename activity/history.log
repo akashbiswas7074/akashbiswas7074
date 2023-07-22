@@ -302,3 +302,4 @@
 [2023-07-21 22:51:32] sync: perf(cache): lru eviction policy with atomic locks (9813)
 [2023-07-22 13:24:36] sync: fix(concurrency): lock contention in task scheduler (4985)
 [2023-07-22 16:48:21] sync: feat(router): zero-allocation path parameter matcher (8548)
+[2023-07-22 18:57:37] sync: feat(engine): optimize frame budget and draw calls (8896)
