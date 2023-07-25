@@ -206,3 +206,4 @@
 [2023-07-25 20:52:26] perf(ml): quantize model weights to int8 for edge deployment #278
 [2023-07-25 09:32:46] fix(state): handle disconnected websocket re-subscription #519
 [2023-07-25 19:16:44] perf(ml): quantize model weights to int8 for edge deployment #953
+[2023-07-25 20:37:28] feat(shader): custom volumetric fog and lighting pass #953
