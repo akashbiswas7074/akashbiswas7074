@@ -195,3 +195,4 @@
 [2023-07-22 12:55:14] feat(nixos): configure hardware acceleration for Vulkan compute #808
 [2023-07-22 18:46:01] feat(ui): responsive layout components and dynamic styling #530
 [2023-07-25 15:21:02] chore(nix): declare deterministic package inputs in flake.lock #801
+[2023-07-25 13:40:23] perf(db): add compound index for fast query lookups #871
