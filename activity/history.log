@@ -204,3 +204,4 @@
 [2023-07-25 22:56:36] perf(simd): vectorize matrix dot product operations #940
 [2023-07-25 22:54:40] feat(ml): implement cosine learning rate annealing schedule #734
 [2023-07-25 20:52:26] perf(ml): quantize model weights to int8 for edge deployment #278
+[2023-07-25 09:32:46] fix(state): handle disconnected websocket re-subscription #519
