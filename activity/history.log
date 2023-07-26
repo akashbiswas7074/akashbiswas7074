@@ -208,3 +208,4 @@
 [2023-07-25 19:16:44] perf(ml): quantize model weights to int8 for edge deployment #953
 [2023-07-25 20:37:28] feat(shader): custom volumetric fog and lighting pass #953
 [2023-07-26 14:33:28] perf(ui): memoize heavy component renders and reduce re-flows #602
+[2023-07-26 22:18:37] feat(ml): fine-tune embedding projection dimensions #858
