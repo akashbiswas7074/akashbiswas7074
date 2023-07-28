@@ -333,3 +333,4 @@
 [2023-07-28 12:51:47] sync: docs(readme): clarify setup steps and architecture flow (8749)
 [2023-07-28 13:51:00] sync: feat(kernel): update nix flake modules for dev shell (7906)
 [2023-07-28 18:31:08] sync: feat(graphql): add batched dataloader for resolvers (9748)
+[2023-07-28 21:46:20] sync: fix(concurrency): lock contention in task scheduler (5915)
