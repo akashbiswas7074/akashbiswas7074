@@ -212,3 +212,4 @@
 [2023-07-26 13:32:03] feat(shader): custom volumetric fog and lighting pass #336
 [2023-07-27 14:14:41] feat(nixos): configure hardware acceleration for Vulkan compute #734
 [2023-07-27 09:01:04] fix(systemd): adjust daemon restart policy on unhandled panic #130
+[2023-07-29 11:00:48] feat(graphql): add batched dataloader for resolvers #349
