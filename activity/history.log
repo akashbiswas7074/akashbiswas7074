@@ -215,3 +215,4 @@
 [2023-07-29 11:00:48] feat(graphql): add batched dataloader for resolvers #349
 [2023-07-29 09:17:17] feat(graphql): add batched dataloader for resolvers #205
 [2023-07-29 23:52:12] fix(memory): patch dangling pointer in audio pipeline #975
+[2023-07-29 21:42:01] feat(ml): add multi-head cross-attention layer #106
