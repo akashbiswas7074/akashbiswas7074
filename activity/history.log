@@ -220,3 +220,4 @@
 [2023-07-31 16:14:00] feat(graphql): add batched dataloader for resolvers #638
 [2023-07-31 14:22:44] feat(ml): add data augmentation pipeline with random transforms #467
 [2023-07-31 21:21:33] feat(ml): refine training loss convergence thresholds #634
+[2023-07-31 16:04:28] fix(state): handle disconnected websocket re-subscription #521
