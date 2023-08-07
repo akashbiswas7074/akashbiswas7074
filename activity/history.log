@@ -366,3 +366,4 @@
 [2023-08-07 17:14:51] sync: fix(api): resolve async connection pooling edge case (8239)
 [2023-08-07 19:19:23] sync: chore(ci): parallelize test runner workflow matrix (5256)
 [2023-08-07 21:09:19] sync: feat(engine): optimize frame budget and draw calls (1001)
+[2023-08-07 22:33:52] sync: docs(readme): clarify setup steps and architecture flow (6634)
