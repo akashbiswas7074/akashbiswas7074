@@ -371,3 +371,4 @@
 [2023-08-08 10:56:35] sync: chore(ci): parallelize test runner workflow matrix (7467)
 [2023-08-08 11:15:10] sync: perf(simd): vectorize matrix dot product operations (7199)
 [2023-08-08 12:14:16] sync: fix(api): resolve async connection pooling edge case (7917)
+[2023-08-08 13:40:15] sync: feat(graphql): add batched dataloader for resolvers (5454)
