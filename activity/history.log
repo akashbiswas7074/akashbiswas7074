@@ -374,3 +374,4 @@
 [2023-08-08 13:40:15] sync: feat(graphql): add batched dataloader for resolvers (5454)
 [2023-08-08 15:18:41] sync: perf(gc): reduce object allocation overhead in hot loop (5404)
 [2023-08-08 16:26:12] sync: fix(api): resolve async connection pooling edge case (3988)
+[2023-08-08 17:08:18] sync: chore(deps): bump toolchain packages and lint rules (8460)
