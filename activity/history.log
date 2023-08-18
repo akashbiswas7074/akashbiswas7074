@@ -409,3 +409,4 @@
 [2023-08-17 17:22:20] sync: feat(router): zero-allocation path parameter matcher (5510)
 [2023-08-17 20:55:53] sync: feat(stream): reactive event stream with backpressure (3627)
 [2023-08-18 10:52:16] sync: perf(gc): reduce object allocation overhead in hot loop (7014)
+[2023-08-18 11:29:00] sync: feat(graphql): add batched dataloader for resolvers (7210)
