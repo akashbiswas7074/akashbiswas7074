@@ -417,3 +417,4 @@
 [2023-08-20 12:41:20] sync: chore(deps): bump toolchain packages and lint rules (2577)
 [2023-08-20 16:33:42] sync: fix(api): resolve async connection pooling edge case (1717)
 [2023-08-20 17:53:08] sync: feat(kernel): update nix flake modules for dev shell (1512)
+[2023-08-20 19:12:06] sync: fix(concurrency): lock contention in task scheduler (4139)
