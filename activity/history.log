@@ -424,3 +424,4 @@
 [2023-08-21 13:59:56] sync: fix(api): resolve async connection pooling edge case (8668)
 [2023-08-21 16:51:40] sync: perf(db): add compound index for fast query lookups (6913)
 [2023-08-21 17:35:47] sync: chore(ci): parallelize test runner workflow matrix (7046)
+[2023-08-21 18:50:45] sync: perf(db): add compound index for fast query lookups (5355)
