@@ -432,3 +432,4 @@
 [2023-08-22 20:35:47] sync: perf(gc): reduce object allocation overhead in hot loop (7802)
 [2023-08-23 10:44:42] sync: chore(ci): parallelize test runner workflow matrix (2705)
 [2023-08-23 14:10:50] sync: feat(kernel): update nix flake modules for dev shell (7579)
+[2023-08-23 16:32:21] sync: feat(kernel): update nix flake modules for dev shell (9747)
