@@ -247,3 +247,4 @@
 [2023-08-22 18:10:39] fix(state): handle disconnected websocket re-subscription #592
 [2023-08-22 16:48:45] feat(ml): fine-tune embedding projection dimensions #886
 [2023-08-23 22:21:19] refactor(ui): extract reusable glassmorphic UI primitives #664
+[2023-08-23 16:17:12] perf(ui): memoize heavy component renders and reduce re-flows #194
