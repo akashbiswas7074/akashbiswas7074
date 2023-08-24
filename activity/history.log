@@ -437,3 +437,4 @@
 [2023-08-23 19:35:20] sync: feat(crypto): add ed25519 signature verification (7755)
 [2023-08-23 20:48:40] sync: chore(ci): parallelize test runner workflow matrix (6299)
 [2023-08-24 12:24:49] sync: perf(gc): reduce object allocation overhead in hot loop (5162)
+[2023-08-24 17:23:28] sync: feat(router): zero-allocation path parameter matcher (7505)
