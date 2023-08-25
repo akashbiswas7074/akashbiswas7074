@@ -250,3 +250,4 @@
 [2023-08-23 16:17:12] perf(ui): memoize heavy component renders and reduce re-flows #194
 [2023-08-23 16:20:44] chore(deps): bump toolchain packages and compiler versions #747
 [2023-08-23 19:31:10] feat(ml): implement attention mechanism in transformer layer #371
+[2023-08-25 16:03:48] feat(ml): refine training loss convergence thresholds #689
