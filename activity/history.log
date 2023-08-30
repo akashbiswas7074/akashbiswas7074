@@ -264,3 +264,4 @@
 [2023-08-28 10:21:21] feat(ui): responsive layout components and dynamic styling #346
 [2023-08-29 18:04:30] feat(ml): refine training loss convergence thresholds #449
 [2023-08-30 18:37:02] docs(readme): clarify setup steps and architecture flow #827
+[2023-08-30 11:07:43] perf(ml): quantize model weights to int8 for edge deployment #633
