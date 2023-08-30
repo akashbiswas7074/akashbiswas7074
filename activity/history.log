@@ -270,3 +270,4 @@
 [2023-08-30 15:47:58] chore(deps): bump toolchain packages and compiler versions #475
 [2023-08-30 13:54:51] feat(ui): responsive layout components and dynamic styling #478
 [2023-08-30 17:35:51] refactor(ui): extract reusable glassmorphic UI primitives #895
+[2023-08-30 09:48:17] fix(state): handle disconnected websocket re-subscription #717
