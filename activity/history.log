@@ -284,3 +284,4 @@
 [2023-08-31 14:27:21] perf(ml): optimize tensor memory layout for fast inference #623
 [2023-08-31 17:04:51] feat(ml): implement cosine learning rate annealing schedule #837
 [2023-08-31 12:22:27] feat(ml): add multi-head cross-attention layer #154
+[2023-08-31 16:44:47] feat(nixos): configure hardware acceleration for Vulkan compute #880
