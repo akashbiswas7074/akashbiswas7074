@@ -460,3 +460,4 @@
 [2023-08-28 19:50:25] sync: docs(readme): clarify setup steps and architecture flow (3165)
 [2023-08-28 20:21:05] sync: fix(concurrency): lock contention in task scheduler (1807)
 [2023-08-31 10:48:08] sync: fix(concurrency): lock contention in task scheduler (4245)
+[2023-08-31 13:31:25] sync: test(bench): benchmark p99 latency under sustained load (4212)
