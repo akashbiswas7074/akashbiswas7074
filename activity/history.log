@@ -279,3 +279,4 @@
 [2023-08-31 09:40:31] perf(db): add compound index for fast query lookups #119
 [2023-08-31 21:12:26] docs(readme): clarify setup steps and architecture flow #149
 [2023-08-31 22:22:29] feat(shader): custom volumetric fog and lighting pass #177
+[2023-08-31 23:43:04] feat(engine): optimize frame budget and draw calls #111
