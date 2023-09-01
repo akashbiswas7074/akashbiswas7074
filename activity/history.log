@@ -473,3 +473,4 @@
 [2023-09-01 10:00:21] sync: chore(deps): bump toolchain packages and lint rules (5999)
 [2023-09-01 11:28:30] sync: feat(engine): optimize frame budget and draw calls (6437)
 [2023-09-01 12:13:47] sync: perf(gc): reduce object allocation overhead in hot loop (4471)
+[2023-09-01 14:13:34] sync: feat(graphql): add batched dataloader for resolvers (5237)
