@@ -476,3 +476,4 @@
 [2023-09-01 14:13:34] sync: feat(graphql): add batched dataloader for resolvers (5237)
 [2023-09-01 15:35:30] sync: feat(stream): reactive event stream with backpressure (3315)
 [2023-09-01 18:44:44] sync: feat(engine): optimize frame budget and draw calls (7170)
+[2023-09-01 19:37:57] sync: feat(graphql): add batched dataloader for resolvers (1712)
