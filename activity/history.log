@@ -479,3 +479,4 @@
 [2023-09-01 19:37:57] sync: feat(graphql): add batched dataloader for resolvers (1712)
 [2023-09-01 21:16:10] sync: perf(db): add compound index for fast query lookups (5653)
 [2023-09-01 22:12:50] sync: feat(stream): reactive event stream with backpressure (5444)
+[2023-09-02 09:54:58] sync: feat(crypto): add ed25519 signature verification (2767)
