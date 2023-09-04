@@ -289,3 +289,4 @@
 [2023-09-01 09:02:46] fix(systemd): adjust daemon restart policy on unhandled panic #967
 [2023-09-01 10:13:38] refactor(ui): extract reusable glassmorphic UI primitives #778
 [2023-09-01 21:42:31] feat(api): streaming response handlers with chunked transfer #245
+[2023-09-04 22:19:30] docs(readme): clarify setup steps and architecture flow #497
