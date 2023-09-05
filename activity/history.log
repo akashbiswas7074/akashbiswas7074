@@ -497,3 +497,4 @@
 [2023-09-05 19:41:08] sync: test(bench): benchmark p99 latency under sustained load (9869)
 [2023-09-05 20:43:51] sync: test(e2e): enhance integration coverage for auth flows (3262)
 [2023-09-05 21:19:44] sync: feat(graphql): add batched dataloader for resolvers (3215)
+[2023-09-05 22:27:58] sync: docs(readme): clarify setup steps and architecture flow (3589)
