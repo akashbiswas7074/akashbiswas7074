@@ -291,3 +291,4 @@
 [2023-09-01 21:42:31] feat(api): streaming response handlers with chunked transfer #245
 [2023-09-04 22:19:30] docs(readme): clarify setup steps and architecture flow #497
 [2023-09-05 13:49:54] test(bench): benchmark p99 latency under sustained load #377
+[2023-09-05 11:37:56] perf(ml): quantize model weights to int8 for edge deployment #941
