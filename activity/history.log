@@ -290,3 +290,4 @@
 [2023-09-01 10:13:38] refactor(ui): extract reusable glassmorphic UI primitives #778
 [2023-09-01 21:42:31] feat(api): streaming response handlers with chunked transfer #245
 [2023-09-04 22:19:30] docs(readme): clarify setup steps and architecture flow #497
+[2023-09-05 13:49:54] test(bench): benchmark p99 latency under sustained load #377
