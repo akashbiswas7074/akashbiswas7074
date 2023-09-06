@@ -293,3 +293,4 @@
 [2023-09-05 13:49:54] test(bench): benchmark p99 latency under sustained load #377
 [2023-09-05 11:37:56] perf(ml): quantize model weights to int8 for edge deployment #941
 [2023-09-05 14:40:07] feat(engine): optimize frame budget and draw calls #194
+[2023-09-06 15:09:07] fix(memory): patch dangling pointer in audio pipeline #898
