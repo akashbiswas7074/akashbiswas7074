@@ -499,3 +499,4 @@
 [2023-09-05 21:19:44] sync: feat(graphql): add batched dataloader for resolvers (3215)
 [2023-09-05 22:27:58] sync: docs(readme): clarify setup steps and architecture flow (3589)
 [2023-09-06 10:11:20] sync: docs(readme): clarify setup steps and architecture flow (1483)
+[2023-09-06 14:48:20] sync: chore(ci): parallelize test runner workflow matrix (7737)
