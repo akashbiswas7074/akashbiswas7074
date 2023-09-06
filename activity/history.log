@@ -295,3 +295,4 @@
 [2023-09-05 14:40:07] feat(engine): optimize frame budget and draw calls #194
 [2023-09-06 15:09:07] fix(memory): patch dangling pointer in audio pipeline #898
 [2023-09-06 14:00:14] feat(ml): add multi-head cross-attention layer #265
+[2023-09-06 15:15:15] feat(ml): refine training loss convergence thresholds #211
