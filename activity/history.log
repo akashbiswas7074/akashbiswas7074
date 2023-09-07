@@ -503,3 +503,4 @@
 [2023-09-06 17:19:28] sync: perf(cache): lru eviction policy with atomic locks (3489)
 [2023-09-06 20:49:12] sync: chore(deps): bump toolchain packages and lint rules (3155)
 [2023-09-06 21:11:01] sync: feat(stream): reactive event stream with backpressure (5372)
+[2023-09-07 12:01:22] sync: fix(api): resolve async connection pooling edge case (8808)
