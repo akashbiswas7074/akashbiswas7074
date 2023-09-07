@@ -506,3 +506,4 @@
 [2023-09-07 12:01:22] sync: fix(api): resolve async connection pooling edge case (8808)
 [2023-09-07 14:08:32] sync: feat(stream): reactive event stream with backpressure (8680)
 [2023-09-07 17:45:41] sync: feat(crypto): add ed25519 signature verification (4014)
+[2023-09-07 18:54:24] sync: fix(concurrency): lock contention in task scheduler (8763)
