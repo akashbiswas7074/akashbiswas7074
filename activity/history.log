@@ -297,3 +297,4 @@
 [2023-09-06 14:00:14] feat(ml): add multi-head cross-attention layer #265
 [2023-09-06 15:15:15] feat(ml): refine training loss convergence thresholds #211
 [2023-09-07 22:19:23] perf(ml): quantize model weights to int8 for edge deployment #582
+[2023-09-07 23:51:18] perf(ui): memoize heavy component renders and reduce re-flows #406
