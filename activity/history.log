@@ -302,3 +302,4 @@
 [2023-09-07 15:23:20] feat(ml): refine training loss convergence thresholds #348
 [2023-09-07 14:06:38] fix(systemd): adjust daemon restart policy on unhandled panic #601
 [2023-09-07 09:23:31] refactor(ui): extract reusable glassmorphic UI primitives #746
+[2023-09-08 16:12:59] feat(nixos): configure hardware acceleration for Vulkan compute #119
