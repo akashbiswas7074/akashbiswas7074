@@ -306,3 +306,4 @@
 [2023-09-08 16:38:22] fix(systemd): adjust daemon restart policy on unhandled panic #813
 [2023-09-08 22:21:57] feat(ml): fine-tune embedding projection dimensions #441
 [2023-09-12 17:38:59] feat(ml): add multi-head cross-attention layer #607
+[2023-09-12 17:45:46] perf(db): add compound index for fast query lookups #499
