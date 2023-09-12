@@ -308,3 +308,4 @@
 [2023-09-12 17:38:59] feat(ml): add multi-head cross-attention layer #607
 [2023-09-12 17:45:46] perf(db): add compound index for fast query lookups #499
 [2023-09-12 13:13:09] feat(ml): implement cosine learning rate annealing schedule #396
+[2023-09-12 21:12:41] feat(graphql): add batched dataloader for resolvers #344
