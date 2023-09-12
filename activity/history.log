@@ -314,3 +314,4 @@
 [2023-09-12 17:10:18] feat(shader): custom volumetric fog and lighting pass #824
 [2023-09-12 10:37:52] feat(kernel): update nix flake modules for dev shell #270
 [2023-09-12 14:22:00] perf(ml): quantize model weights to int8 for edge deployment #314
+[2023-09-12 18:46:23] refactor(ui): extract reusable glassmorphic UI primitives #395
