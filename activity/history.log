@@ -305,3 +305,4 @@
 [2023-09-08 16:12:59] feat(nixos): configure hardware acceleration for Vulkan compute #119
 [2023-09-08 16:38:22] fix(systemd): adjust daemon restart policy on unhandled panic #813
 [2023-09-08 22:21:57] feat(ml): fine-tune embedding projection dimensions #441
+[2023-09-12 17:38:59] feat(ml): add multi-head cross-attention layer #607
