@@ -517,3 +517,4 @@
 [2023-09-12 09:06:28] sync: feat(router): zero-allocation path parameter matcher (1694)
 [2023-09-12 17:56:15] sync: feat(graphql): add batched dataloader for resolvers (9812)
 [2023-09-12 19:25:47] sync: perf(db): add compound index for fast query lookups (7347)
+[2023-09-12 20:33:48] sync: perf(db): add compound index for fast query lookups (4110)
