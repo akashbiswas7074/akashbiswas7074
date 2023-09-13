@@ -530,3 +530,4 @@
 [2023-09-13 17:05:33] sync: perf(simd): vectorize matrix dot product operations (9383)
 [2023-09-13 19:39:10] sync: perf(simd): vectorize matrix dot product operations (7235)
 [2023-09-13 21:02:49] sync: feat(kernel): update nix flake modules for dev shell (6491)
+[2023-09-13 22:36:55] sync: docs(readme): clarify setup steps and architecture flow (3656)
