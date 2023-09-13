@@ -315,3 +315,4 @@
 [2023-09-12 10:37:52] feat(kernel): update nix flake modules for dev shell #270
 [2023-09-12 14:22:00] perf(ml): quantize model weights to int8 for edge deployment #314
 [2023-09-12 18:46:23] refactor(ui): extract reusable glassmorphic UI primitives #395
+[2023-09-13 15:24:50] feat(router): zero-allocation path parameter matcher #864
