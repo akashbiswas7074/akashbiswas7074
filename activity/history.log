@@ -535,3 +535,4 @@
 [2023-09-14 11:07:57] sync: docs(readme): clarify setup steps and architecture flow (4323)
 [2023-09-14 13:00:39] sync: perf(cache): lru eviction policy with atomic locks (1200)
 [2023-09-14 14:29:31] sync: fix(concurrency): lock contention in task scheduler (9904)
+[2023-09-14 15:51:00] sync: feat(stream): reactive event stream with backpressure (9084)
