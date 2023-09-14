@@ -532,3 +532,4 @@
 [2023-09-13 21:02:49] sync: feat(kernel): update nix flake modules for dev shell (6491)
 [2023-09-13 22:36:55] sync: docs(readme): clarify setup steps and architecture flow (3656)
 [2023-09-14 09:49:28] sync: refactor(ui): extract reusable component primitives (3960)
+[2023-09-14 11:07:57] sync: docs(readme): clarify setup steps and architecture flow (4323)
