@@ -541,3 +541,4 @@
 [2023-09-14 22:38:38] sync: feat(engine): optimize frame budget and draw calls (5009)
 [2023-09-15 09:09:03] sync: feat(crypto): add ed25519 signature verification (1601)
 [2023-09-15 10:09:54] sync: perf(db): add compound index for fast query lookups (5889)
+[2023-09-15 12:21:58] sync: fix(api): resolve async connection pooling edge case (1803)
