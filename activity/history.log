@@ -325,3 +325,4 @@
 [2023-09-15 22:22:37] chore(nix): declare deterministic package inputs in flake.lock #239
 [2023-09-15 13:12:37] feat(engine): optimize frame budget and draw calls #662
 [2023-09-15 21:01:09] feat(api): streaming response handlers with chunked transfer #479
+[2023-09-15 20:37:12] fix(systemd): adjust daemon restart policy on unhandled panic #580
