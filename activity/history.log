@@ -333,3 +333,4 @@
 [2023-09-16 14:00:33] chore(nix): declare deterministic package inputs in flake.lock #564
 [2023-09-16 18:44:34] perf(cache): lru eviction policy with atomic locks #506
 [2023-09-16 14:16:34] perf(ui): memoize heavy component renders and reduce re-flows #719
+[2023-09-16 19:34:00] feat(router): zero-allocation path parameter matcher #492
