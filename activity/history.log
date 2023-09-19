@@ -351,3 +351,4 @@
 [2023-09-19 23:22:22] perf(ml): optimize tensor memory layout for fast inference #765
 [2023-09-19 10:59:30] chore(nix): declare deterministic package inputs in flake.lock #512
 [2023-09-19 20:59:42] feat(api): streaming response handlers with chunked transfer #208
+[2023-09-19 22:04:38] fix(systemd): adjust daemon restart policy on unhandled panic #230
