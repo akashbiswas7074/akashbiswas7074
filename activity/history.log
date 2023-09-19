@@ -341,3 +341,4 @@
 [2023-09-19 22:20:40] test(bench): benchmark p99 latency under sustained load #685
 [2023-09-19 20:16:43] perf(cache): lru eviction policy with atomic locks #485
 [2023-09-19 09:37:59] feat(ml): implement attention mechanism in transformer layer #373
+[2023-09-19 11:15:26] docs(readme): clarify setup steps and architecture flow #987
