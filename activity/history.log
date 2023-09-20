@@ -353,3 +353,4 @@
 [2023-09-19 20:59:42] feat(api): streaming response handlers with chunked transfer #208
 [2023-09-19 22:04:38] fix(systemd): adjust daemon restart policy on unhandled panic #230
 [2023-09-19 17:12:20] perf(cache): lru eviction policy with atomic locks #297
+[2023-09-20 16:12:51] fix(systemd): adjust daemon restart policy on unhandled panic #186
