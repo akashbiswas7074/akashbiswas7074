@@ -359,3 +359,4 @@
 [2023-09-21 11:52:58] test(bench): benchmark p99 latency under sustained load #139
 [2023-09-21 19:27:04] fix(state): handle disconnected websocket re-subscription #244
 [2023-09-21 12:18:27] feat(kernel): update nix flake modules for dev shell #891
+[2023-09-23 09:09:11] perf(db): add compound index for fast query lookups #389
