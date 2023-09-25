@@ -566,3 +566,4 @@
 [2023-09-25 13:25:46] sync: test(bench): benchmark p99 latency under sustained load (1477)
 [2023-09-25 17:53:11] sync: test(e2e): enhance integration coverage for auth flows (6415)
 [2023-09-25 19:53:21] sync: fix(concurrency): lock contention in task scheduler (8774)
+[2023-09-25 20:51:02] sync: docs(readme): clarify setup steps and architecture flow (8888)
