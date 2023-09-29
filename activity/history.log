@@ -374,3 +374,4 @@
 [2023-09-28 12:48:10] test(bench): benchmark p99 latency under sustained load #462
 [2023-09-28 19:28:59] feat(engine): optimize frame budget and draw calls #238
 [2023-09-28 11:00:32] feat(ml): refine training loss convergence thresholds #854
+[2023-09-29 12:48:58] docs(readme): clarify setup steps and architecture flow #553
