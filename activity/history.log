@@ -585,3 +585,4 @@
 [2023-10-03 10:13:46] sync: perf(db): add compound index for fast query lookups (8526)
 [2023-10-03 11:24:45] sync: feat(graphql): add batched dataloader for resolvers (2897)
 [2023-10-03 17:00:19] sync: perf(db): add compound index for fast query lookups (2426)
+[2023-10-03 19:21:29] sync: perf(db): add compound index for fast query lookups (2689)
