@@ -582,3 +582,4 @@
 [2023-09-29 18:57:32] sync: docs(readme): clarify setup steps and architecture flow (4116)
 [2023-09-29 19:21:59] sync: fix(concurrency): lock contention in task scheduler (9579)
 [2023-09-29 21:19:49] sync: fix(memory): patch dangling pointer in audio pipeline (3347)
+[2023-10-03 10:13:46] sync: perf(db): add compound index for fast query lookups (8526)
