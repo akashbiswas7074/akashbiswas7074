@@ -595,3 +595,4 @@
 [2023-10-05 10:09:45] sync: refactor(ui): extract reusable component primitives (5011)
 [2023-10-05 12:10:04] sync: refactor(ui): extract reusable component primitives (6549)
 [2023-10-05 13:34:28] sync: perf(db): add compound index for fast query lookups (3131)
+[2023-10-05 17:01:30] sync: perf(db): add compound index for fast query lookups (2735)
