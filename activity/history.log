@@ -399,3 +399,4 @@
 [2023-10-05 19:32:31] feat(ml): implement attention mechanism in transformer layer #543
 [2023-10-05 23:05:25] feat(api): streaming response handlers with chunked transfer #842
 [2023-10-05 10:39:06] feat(api): streaming response handlers with chunked transfer #625
+[2023-10-05 16:14:36] perf(ui): memoize heavy component renders and reduce re-flows #970
