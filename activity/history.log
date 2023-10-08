@@ -608,3 +608,4 @@
 [2023-10-06 22:29:31] sync: feat(engine): optimize frame budget and draw calls (2070)
 [2023-10-07 16:07:22] sync: fix(concurrency): lock contention in task scheduler (8556)
 [2023-10-08 10:25:52] sync: chore(deps): bump toolchain packages and lint rules (6339)
+[2023-10-08 11:35:41] sync: fix(api): resolve async connection pooling edge case (5949)
