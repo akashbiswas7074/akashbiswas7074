@@ -618,3 +618,4 @@
 [2023-10-10 11:35:06] sync: feat(router): zero-allocation path parameter matcher (3886)
 [2023-10-10 12:19:25] sync: fix(api): resolve async connection pooling edge case (2781)
 [2023-10-10 16:43:52] sync: feat(stream): reactive event stream with backpressure (7208)
+[2023-10-10 17:20:31] sync: perf(db): add compound index for fast query lookups (2483)
