@@ -421,3 +421,4 @@
 [2023-10-11 09:23:52] fix(state): handle disconnected websocket re-subscription #191
 [2023-10-11 12:22:41] test(bench): benchmark p99 latency under sustained load #936
 [2023-10-11 18:34:04] perf(ml): optimize tensor memory layout for fast inference #534
+[2023-10-11 10:06:41] chore(nix): declare deterministic package inputs in flake.lock #235
