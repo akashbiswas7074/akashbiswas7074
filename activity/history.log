@@ -637,3 +637,4 @@
 [2023-10-13 10:42:27] sync: docs(readme): clarify setup steps and architecture flow (2387)
 [2023-10-13 11:08:41] sync: chore(ci): parallelize test runner workflow matrix (8471)
 [2023-10-13 19:57:50] sync: feat(stream): reactive event stream with backpressure (7974)
+[2023-10-13 20:39:11] sync: feat(router): zero-allocation path parameter matcher (9346)
