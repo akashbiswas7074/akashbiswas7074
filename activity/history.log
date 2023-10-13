@@ -633,3 +633,4 @@
 [2023-10-12 19:42:11] sync: fix(concurrency): lock contention in task scheduler (3278)
 [2023-10-12 20:12:35] sync: perf(simd): vectorize matrix dot product operations (6902)
 [2023-10-12 22:53:26] sync: docs(readme): clarify setup steps and architecture flow (5726)
+[2023-10-13 09:41:01] sync: docs(readme): clarify setup steps and architecture flow (8974)
