@@ -648,3 +648,4 @@
 [2023-10-17 11:30:40] sync: fix(api): resolve async connection pooling edge case (9834)
 [2023-10-17 13:51:37] sync: refactor(ui): extract reusable component primitives (1864)
 [2023-10-17 16:57:21] sync: perf(gc): reduce object allocation overhead in hot loop (1176)
+[2023-10-17 17:30:29] sync: feat(graphql): add batched dataloader for resolvers (8687)
