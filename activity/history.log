@@ -644,3 +644,4 @@
 [2023-10-16 14:59:34] sync: test(bench): benchmark p99 latency under sustained load (7012)
 [2023-10-16 15:02:02] sync: test(bench): benchmark p99 latency under sustained load (8917)
 [2023-10-16 18:45:23] sync: chore(deps): bump toolchain packages and lint rules (8889)
+[2023-10-17 10:56:39] sync: fix(api): resolve async connection pooling edge case (5017)
