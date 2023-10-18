@@ -653,3 +653,4 @@
 [2023-10-17 20:22:51] sync: refactor(ui): extract reusable component primitives (5738)
 [2023-10-17 21:10:02] sync: feat(stream): reactive event stream with backpressure (5981)
 [2023-10-18 09:42:18] sync: feat(stream): reactive event stream with backpressure (1447)
+[2023-10-18 11:18:31] sync: fix(api): resolve async connection pooling edge case (3077)
