@@ -661,3 +661,4 @@
 [2023-10-18 20:42:28] sync: feat(crypto): add ed25519 signature verification (3873)
 [2023-10-18 21:16:50] sync: feat(ml): refine training loss convergence thresholds (8944)
 [2023-10-18 22:11:51] sync: feat(graphql): add batched dataloader for resolvers (1542)
+[2023-10-19 10:38:59] sync: docs(readme): clarify setup steps and architecture flow (9125)
