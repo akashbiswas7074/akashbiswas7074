@@ -443,3 +443,4 @@
 [2023-10-21 22:25:41] perf(ui): memoize heavy component renders and reduce re-flows #946
 [2023-10-23 17:26:31] feat(ml): add multi-head cross-attention layer #781
 [2023-10-23 22:35:12] feat(graphql): add batched dataloader for resolvers #837
+[2023-10-23 16:28:36] feat(graphql): add batched dataloader for resolvers #846
