@@ -685,3 +685,4 @@
 [2023-10-25 17:18:29] sync: fix(api): resolve async connection pooling edge case (8429)
 [2023-10-25 18:59:17] sync: chore(ci): parallelize test runner workflow matrix (6298)
 [2023-10-25 19:16:10] sync: fix(api): resolve async connection pooling edge case (5543)
+[2023-10-25 21:49:03] sync: perf(simd): vectorize matrix dot product operations (7366)
