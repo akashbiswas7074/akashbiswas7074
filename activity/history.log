@@ -445,3 +445,4 @@
 [2023-10-23 22:35:12] feat(graphql): add batched dataloader for resolvers #837
 [2023-10-23 16:28:36] feat(graphql): add batched dataloader for resolvers #846
 [2023-10-24 22:27:54] docs(readme): clarify setup steps and architecture flow #973
+[2023-10-26 12:34:33] fix(memory): patch dangling pointer in audio pipeline #963
