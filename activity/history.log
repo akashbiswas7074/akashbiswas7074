@@ -449,3 +449,4 @@
 [2023-11-01 16:14:40] feat(ml): refine training loss convergence thresholds #828
 [2023-11-02 22:56:02] refactor(ui): extract reusable glassmorphic UI primitives #754
 [2023-11-02 23:18:02] fix(state): handle disconnected websocket re-subscription #346
+[2023-11-02 11:25:54] test(e2e): enhance integration coverage for auth flows #264
