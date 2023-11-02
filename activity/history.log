@@ -448,3 +448,4 @@
 [2023-10-26 12:34:33] fix(memory): patch dangling pointer in audio pipeline #963
 [2023-11-01 16:14:40] feat(ml): refine training loss convergence thresholds #828
 [2023-11-02 22:56:02] refactor(ui): extract reusable glassmorphic UI primitives #754
+[2023-11-02 23:18:02] fix(state): handle disconnected websocket re-subscription #346
