@@ -727,3 +727,4 @@
 [2023-11-09 10:49:10] sync: feat(engine): optimize frame budget and draw calls (8978)
 [2023-11-09 11:05:00] sync: feat(engine): optimize frame budget and draw calls (3939)
 [2023-11-09 12:59:05] sync: test(bench): benchmark p99 latency under sustained load (5648)
+[2023-11-09 13:26:44] sync: fix(concurrency): lock contention in task scheduler (3079)
