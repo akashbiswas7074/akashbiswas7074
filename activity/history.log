@@ -461,3 +461,4 @@
 [2023-11-06 16:37:35] refactor(ui): extract reusable glassmorphic UI primitives #994
 [2023-11-07 14:50:17] feat(router): zero-allocation path parameter matcher #201
 [2023-11-07 10:14:00] feat(nixos): configure hardware acceleration for Vulkan compute #706
+[2023-11-10 22:24:49] feat(engine): optimize frame budget and draw calls #179
