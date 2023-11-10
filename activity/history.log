@@ -741,3 +741,4 @@
 [2023-11-10 15:27:16] sync: fix(memory): patch dangling pointer in audio pipeline (8424)
 [2023-11-10 17:02:06] sync: perf(db): add compound index for fast query lookups (9804)
 [2023-11-10 19:11:10] sync: feat(engine): optimize frame budget and draw calls (8947)
+[2023-11-10 20:32:07] sync: fix(api): resolve async connection pooling edge case (4855)
