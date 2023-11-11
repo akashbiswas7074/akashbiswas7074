@@ -746,3 +746,4 @@
 [2023-11-11 10:06:15] sync: chore(ci): parallelize test runner workflow matrix (4276)
 [2023-11-11 11:24:57] sync: feat(ml): refine training loss convergence thresholds (2204)
 [2023-11-11 12:30:37] sync: fix(concurrency): lock contention in task scheduler (1890)
+[2023-11-11 14:56:27] sync: docs(readme): clarify setup steps and architecture flow (4541)
