@@ -750,3 +750,4 @@
 [2023-11-11 15:59:39] sync: feat(router): zero-allocation path parameter matcher (3917)
 [2023-11-11 16:24:23] sync: docs(readme): clarify setup steps and architecture flow (8499)
 [2023-11-11 19:46:12] sync: feat(crypto): add ed25519 signature verification (5418)
+[2023-11-11 20:12:21] sync: docs(readme): clarify setup steps and architecture flow (1525)
