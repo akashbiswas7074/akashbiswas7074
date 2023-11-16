@@ -763,3 +763,4 @@
 [2023-11-14 18:02:02] sync: fix(concurrency): lock contention in task scheduler (9261)
 [2023-11-14 20:02:27] sync: feat(graphql): add batched dataloader for resolvers (7460)
 [2023-11-14 21:30:51] sync: chore(deps): bump toolchain packages and lint rules (8412)
+[2023-11-16 10:48:00] sync: chore(ci): parallelize test runner workflow matrix (4571)
