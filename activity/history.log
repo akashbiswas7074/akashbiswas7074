@@ -772,3 +772,4 @@
 [2023-11-17 16:45:40] sync: feat(engine): optimize frame budget and draw calls (2158)
 [2023-11-17 17:24:57] sync: fix(memory): patch dangling pointer in audio pipeline (9698)
 [2023-11-17 18:02:18] sync: chore(ci): parallelize test runner workflow matrix (5420)
+[2023-11-17 20:44:39] sync: perf(gc): reduce object allocation overhead in hot loop (4393)
