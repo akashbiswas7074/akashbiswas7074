@@ -786,3 +786,4 @@
 [2023-11-18 21:31:32] sync: feat(graphql): add batched dataloader for resolvers (3010)
 [2023-11-19 16:52:34] sync: refactor(ui): extract reusable component primitives (8405)
 [2023-11-19 17:39:23] sync: fix(api): resolve async connection pooling edge case (4085)
+[2023-11-19 19:57:56] sync: feat(router): zero-allocation path parameter matcher (2430)
