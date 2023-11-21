@@ -472,3 +472,4 @@
 [2023-11-20 19:21:48] perf(simd): vectorize matrix dot product operations #822
 [2023-11-20 12:46:36] feat(engine): optimize frame budget and draw calls #351
 [2023-11-20 15:04:39] perf(cache): lru eviction policy with atomic locks #943
+[2023-11-21 11:43:58] feat(nixos): configure hardware acceleration for Vulkan compute #451
