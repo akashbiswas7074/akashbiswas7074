@@ -795,3 +795,4 @@
 [2023-11-21 14:12:04] sync: feat(engine): optimize frame budget and draw calls (4806)
 [2023-11-21 15:53:33] sync: fix(memory): patch dangling pointer in audio pipeline (7745)
 [2023-11-21 16:37:21] sync: fix(memory): patch dangling pointer in audio pipeline (8965)
+[2023-11-21 17:37:42] sync: feat(graphql): add batched dataloader for resolvers (9986)
