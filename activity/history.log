@@ -806,3 +806,4 @@
 [2023-11-23 13:42:20] sync: feat(crypto): add ed25519 signature verification (3423)
 [2023-11-23 14:23:28] sync: perf(gc): reduce object allocation overhead in hot loop (3663)
 [2023-11-23 16:34:19] sync: chore(deps): bump toolchain packages and lint rules (1408)
+[2023-11-23 18:25:59] sync: fix(concurrency): lock contention in task scheduler (3381)
