@@ -811,3 +811,4 @@
 [2023-11-24 09:32:21] sync: refactor(ui): extract reusable component primitives (8764)
 [2023-11-24 17:57:18] sync: test(bench): benchmark p99 latency under sustained load (3409)
 [2023-11-24 20:51:36] sync: feat(router): zero-allocation path parameter matcher (6549)
+[2023-11-26 10:57:02] sync: docs(readme): clarify setup steps and architecture flow (2914)
