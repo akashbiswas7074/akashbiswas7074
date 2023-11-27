@@ -489,3 +489,4 @@
 [2023-11-27 16:00:33] feat(nixos): configure hardware acceleration for Vulkan compute #746
 [2023-11-27 14:24:20] perf(ml): optimize tensor memory layout for fast inference #621
 [2023-11-27 11:27:38] feat(kernel): update nix flake modules for dev shell #340
+[2023-11-27 21:41:29] fix(state): handle disconnected websocket re-subscription #870
