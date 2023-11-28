@@ -495,3 +495,4 @@
 [2023-11-28 23:45:26] chore(nix): declare deterministic package inputs in flake.lock #466
 [2023-11-28 20:57:12] chore(deps): bump toolchain packages and compiler versions #973
 [2023-11-28 18:46:03] test(e2e): enhance integration coverage for auth flows #991
+[2023-11-28 23:39:22] fix(systemd): adjust daemon restart policy on unhandled panic #755
