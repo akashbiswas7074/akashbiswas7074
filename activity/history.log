@@ -493,3 +493,4 @@
 [2023-11-27 23:11:03] perf(simd): vectorize matrix dot product operations #477
 [2023-11-27 14:19:11] feat(api): streaming response handlers with chunked transfer #141
 [2023-11-28 23:45:26] chore(nix): declare deterministic package inputs in flake.lock #466
+[2023-11-28 20:57:12] chore(deps): bump toolchain packages and compiler versions #973
