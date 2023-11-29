@@ -498,3 +498,4 @@
 [2023-11-28 23:39:22] fix(systemd): adjust daemon restart policy on unhandled panic #755
 [2023-11-28 11:23:57] fix(memory): patch dangling pointer in audio pipeline #141
 [2023-11-28 11:03:08] fix(memory): patch dangling pointer in audio pipeline #254
+[2023-11-29 10:19:28] feat(router): zero-allocation path parameter matcher #613
