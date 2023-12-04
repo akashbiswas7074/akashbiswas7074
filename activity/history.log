@@ -505,3 +505,4 @@
 [2023-12-01 23:18:11] test(bench): benchmark p99 latency under sustained load #117
 [2023-12-01 18:37:29] feat(graphql): add batched dataloader for resolvers #147
 [2023-12-01 21:49:58] feat(api): streaming response handlers with chunked transfer #429
+[2023-12-04 22:04:13] chore(nix): declare deterministic package inputs in flake.lock #347
