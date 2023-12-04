@@ -507,3 +507,4 @@
 [2023-12-01 21:49:58] feat(api): streaming response handlers with chunked transfer #429
 [2023-12-04 22:04:13] chore(nix): declare deterministic package inputs in flake.lock #347
 [2023-12-04 23:56:11] docs(readme): clarify setup steps and architecture flow #174
+[2023-12-04 12:58:16] feat(graphql): add batched dataloader for resolvers #949
