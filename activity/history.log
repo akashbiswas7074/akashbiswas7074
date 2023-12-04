@@ -508,3 +508,4 @@
 [2023-12-04 22:04:13] chore(nix): declare deterministic package inputs in flake.lock #347
 [2023-12-04 23:56:11] docs(readme): clarify setup steps and architecture flow #174
 [2023-12-04 12:58:16] feat(graphql): add batched dataloader for resolvers #949
+[2023-12-04 11:03:31] feat(nixos): configure hardware acceleration for Vulkan compute #226
