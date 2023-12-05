@@ -518,3 +518,4 @@
 [2023-12-05 11:46:35] feat(ml): add multi-head cross-attention layer #235
 [2023-12-05 17:43:16] perf(db): add compound index for fast query lookups #997
 [2023-12-05 23:20:04] perf(ml): quantize model weights to int8 for edge deployment #403
+[2023-12-05 11:54:01] perf(db): add compound index for fast query lookups #356
