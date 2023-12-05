@@ -519,3 +519,4 @@
 [2023-12-05 17:43:16] perf(db): add compound index for fast query lookups #997
 [2023-12-05 23:20:04] perf(ml): quantize model weights to int8 for edge deployment #403
 [2023-12-05 11:54:01] perf(db): add compound index for fast query lookups #356
+[2023-12-05 15:04:25] feat(ml): implement cosine learning rate annealing schedule #237
