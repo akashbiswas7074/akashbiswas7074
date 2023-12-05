@@ -510,3 +510,4 @@
 [2023-12-04 12:58:16] feat(graphql): add batched dataloader for resolvers #949
 [2023-12-04 11:03:31] feat(nixos): configure hardware acceleration for Vulkan compute #226
 [2023-12-04 20:25:50] chore(nix): declare deterministic package inputs in flake.lock #514
+[2023-12-05 09:02:46] perf(cache): lru eviction policy with atomic locks #858
