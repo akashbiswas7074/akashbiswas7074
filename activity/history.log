@@ -525,3 +525,4 @@
 [2023-12-06 18:22:37] feat(ml): implement cosine learning rate annealing schedule #801
 [2023-12-06 09:50:31] feat(ml): add data augmentation pipeline with random transforms #236
 [2023-12-06 13:56:06] feat(nixos): configure hardware acceleration for Vulkan compute #374
+[2023-12-07 09:56:13] chore(nix): declare deterministic package inputs in flake.lock #407
