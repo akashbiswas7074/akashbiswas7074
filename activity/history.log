@@ -538,3 +538,4 @@
 [2023-12-08 13:52:15] fix(systemd): adjust daemon restart policy on unhandled panic #255
 [2023-12-08 20:33:28] perf(ml): optimize tensor memory layout for fast inference #456
 [2023-12-08 23:59:04] test(e2e): enhance integration coverage for auth flows #930
+[2023-12-08 23:04:49] perf(ml): quantize model weights to int8 for edge deployment #440
