@@ -846,3 +846,4 @@
 [2023-12-12 12:18:18] sync: feat(graphql): add batched dataloader for resolvers (2258)
 [2023-12-12 13:32:12] sync: feat(kernel): update nix flake modules for dev shell (2548)
 [2023-12-12 17:38:48] sync: feat(kernel): update nix flake modules for dev shell (9908)
+[2023-12-12 18:20:55] sync: fix(memory): patch dangling pointer in audio pipeline (5932)
