@@ -849,3 +849,4 @@
 [2023-12-12 18:20:55] sync: fix(memory): patch dangling pointer in audio pipeline (5932)
 [2023-12-12 19:17:43] sync: feat(crypto): add ed25519 signature verification (2570)
 [2023-12-12 20:34:37] sync: feat(crypto): add ed25519 signature verification (3354)
+[2023-12-12 22:00:08] sync: feat(graphql): add batched dataloader for resolvers (5610)
