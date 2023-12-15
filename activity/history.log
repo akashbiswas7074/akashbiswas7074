@@ -549,3 +549,4 @@
 [2023-12-14 23:10:20] refactor(ui): extract reusable glassmorphic UI primitives #803
 [2023-12-14 17:10:39] feat(kernel): update nix flake modules for dev shell #710
 [2023-12-14 20:21:35] feat(router): zero-allocation path parameter matcher #257
+[2023-12-15 09:39:18] feat(kernel): update nix flake modules for dev shell #244
