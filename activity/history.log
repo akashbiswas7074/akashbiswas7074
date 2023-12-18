@@ -557,3 +557,4 @@
 [2023-12-15 09:15:27] feat(ml): fine-tune embedding projection dimensions #889
 [2023-12-18 22:22:05] fix(memory): patch dangling pointer in audio pipeline #728
 [2023-12-18 23:28:05] fix(memory): patch dangling pointer in audio pipeline #986
+[2023-12-18 12:37:26] feat(router): zero-allocation path parameter matcher #944
