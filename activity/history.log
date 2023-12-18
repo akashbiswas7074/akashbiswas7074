@@ -559,3 +559,4 @@
 [2023-12-18 23:28:05] fix(memory): patch dangling pointer in audio pipeline #986
 [2023-12-18 12:37:26] feat(router): zero-allocation path parameter matcher #944
 [2023-12-18 17:26:00] feat(api): streaming response handlers with chunked transfer #128
+[2023-12-18 17:22:00] feat(shader): custom volumetric fog and lighting pass #478
