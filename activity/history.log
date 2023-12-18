@@ -555,3 +555,4 @@
 [2023-12-15 14:33:45] feat(ml): implement cosine learning rate annealing schedule #975
 [2023-12-15 21:05:10] test(bench): benchmark p99 latency under sustained load #632
 [2023-12-15 09:15:27] feat(ml): fine-tune embedding projection dimensions #889
+[2023-12-18 22:22:05] fix(memory): patch dangling pointer in audio pipeline #728
