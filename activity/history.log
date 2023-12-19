@@ -878,3 +878,4 @@
 [2023-12-19 14:24:27] sync: test(e2e): enhance integration coverage for auth flows (9425)
 [2023-12-19 17:14:26] sync: chore(deps): bump toolchain packages and lint rules (6149)
 [2023-12-19 20:07:29] sync: chore(deps): bump toolchain packages and lint rules (9515)
+[2023-12-19 22:08:31] sync: feat(crypto): add ed25519 signature verification (5723)
