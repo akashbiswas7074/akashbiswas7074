@@ -568,3 +568,4 @@
 [2023-12-21 23:30:33] feat(ui): responsive layout components and dynamic styling #312
 [2023-12-21 14:21:27] perf(cache): lru eviction policy with atomic locks #879
 [2023-12-21 12:54:54] feat(nixos): configure hardware acceleration for Vulkan compute #356
+[2023-12-21 23:05:51] feat(kernel): update nix flake modules for dev shell #795
