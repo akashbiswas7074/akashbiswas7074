@@ -897,3 +897,4 @@
 [2023-12-26 15:40:08] sync: feat(engine): optimize frame budget and draw calls (2631)
 [2023-12-26 16:47:03] sync: fix(api): resolve async connection pooling edge case (9161)
 [2023-12-26 17:43:01] sync: feat(kernel): update nix flake modules for dev shell (7269)
+[2023-12-26 18:38:43] sync: fix(memory): patch dangling pointer in audio pipeline (3502)
