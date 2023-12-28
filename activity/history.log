@@ -902,3 +902,4 @@
 [2023-12-26 22:48:04] sync: feat(graphql): add batched dataloader for resolvers (9064)
 [2023-12-28 12:42:31] sync: fix(concurrency): lock contention in task scheduler (9270)
 [2023-12-28 13:16:34] sync: fix(memory): patch dangling pointer in audio pipeline (9856)
+[2023-12-28 16:34:01] sync: perf(db): add compound index for fast query lookups (8051)
