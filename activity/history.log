@@ -928,3 +928,4 @@
 [2024-01-01 14:12:31] sync: fix(api): resolve async connection pooling edge case (9779)
 [2024-01-01 16:13:18] sync: perf(cache): lru eviction policy with atomic locks (1778)
 [2024-01-01 18:19:36] sync: perf(simd): vectorize matrix dot product operations (4700)
+[2024-01-01 20:39:47] sync: fix(api): resolve async connection pooling edge case (2552)
