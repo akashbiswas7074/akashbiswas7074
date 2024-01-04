@@ -573,3 +573,4 @@
 [2024-01-04 13:26:49] perf(ml): optimize tensor memory layout for fast inference #585
 [2024-01-04 19:11:09] perf(simd): vectorize matrix dot product operations #369
 [2024-01-04 18:02:32] perf(cache): lru eviction policy with atomic locks #962
+[2024-01-04 20:27:37] feat(ml): implement cosine learning rate annealing schedule #146
