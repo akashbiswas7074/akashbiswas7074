@@ -571,3 +571,4 @@
 [2023-12-21 23:05:51] feat(kernel): update nix flake modules for dev shell #795
 [2023-12-21 13:23:55] chore(deps): bump toolchain packages and compiler versions #690
 [2024-01-04 13:26:49] perf(ml): optimize tensor memory layout for fast inference #585
+[2024-01-04 19:11:09] perf(simd): vectorize matrix dot product operations #369
