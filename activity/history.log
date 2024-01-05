@@ -944,3 +944,4 @@
 [2024-01-04 17:41:10] sync: perf(cache): lru eviction policy with atomic locks (4868)
 [2024-01-04 18:25:15] sync: chore(deps): bump toolchain packages and lint rules (3456)
 [2024-01-04 19:12:01] sync: feat(ml): refine training loss convergence thresholds (6087)
+[2024-01-05 09:10:17] sync: docs(readme): clarify setup steps and architecture flow (1477)
