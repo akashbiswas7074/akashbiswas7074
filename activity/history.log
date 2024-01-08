@@ -576,3 +576,4 @@
 [2024-01-04 20:27:37] feat(ml): implement cosine learning rate annealing schedule #146
 [2024-01-08 17:46:11] feat(ml): refine training loss convergence thresholds #133
 [2024-01-08 11:43:27] perf(ml): quantize model weights to int8 for edge deployment #260
+[2024-01-08 12:33:36] feat(ml): add multi-head cross-attention layer #165
