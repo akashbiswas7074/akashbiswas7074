@@ -578,3 +578,4 @@
 [2024-01-08 11:43:27] perf(ml): quantize model weights to int8 for edge deployment #260
 [2024-01-08 12:33:36] feat(ml): add multi-head cross-attention layer #165
 [2024-01-09 19:14:51] chore(nix): declare deterministic package inputs in flake.lock #658
+[2024-01-09 09:26:26] perf(db): add compound index for fast query lookups #415
