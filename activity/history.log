@@ -585,3 +585,4 @@
 [2024-01-09 12:12:52] feat(ml): fine-tune embedding projection dimensions #719
 [2024-01-10 10:26:25] perf(ml): optimize tensor memory layout for fast inference #297
 [2024-01-10 18:08:05] feat(nixos): configure hardware acceleration for Vulkan compute #103
+[2024-01-10 19:13:28] test(bench): benchmark p99 latency under sustained load #979
