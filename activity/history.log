@@ -595,3 +595,4 @@
 [2024-01-11 14:31:34] perf(ml): optimize tensor memory layout for fast inference #234
 [2024-01-11 12:27:57] fix(systemd): adjust daemon restart policy on unhandled panic #987
 [2024-01-12 18:47:51] feat(shader): custom volumetric fog and lighting pass #786
+[2024-01-12 23:13:09] test(e2e): enhance integration coverage for auth flows #836
