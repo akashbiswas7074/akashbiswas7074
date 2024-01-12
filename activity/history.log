@@ -597,3 +597,4 @@
 [2024-01-12 18:47:51] feat(shader): custom volumetric fog and lighting pass #786
 [2024-01-12 23:13:09] test(e2e): enhance integration coverage for auth flows #836
 [2024-01-12 11:19:12] perf(ml): quantize model weights to int8 for edge deployment #915
+[2024-01-12 20:39:17] feat(engine): optimize frame budget and draw calls #674
