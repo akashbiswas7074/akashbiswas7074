@@ -599,3 +599,4 @@
 [2024-01-12 11:19:12] perf(ml): quantize model weights to int8 for edge deployment #915
 [2024-01-12 20:39:17] feat(engine): optimize frame budget and draw calls #674
 [2024-01-15 11:16:18] feat(nixos): configure hardware acceleration for Vulkan compute #366
+[2024-01-15 14:13:11] fix(state): handle disconnected websocket re-subscription #345
