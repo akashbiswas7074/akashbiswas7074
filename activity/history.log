@@ -600,3 +600,4 @@
 [2024-01-12 20:39:17] feat(engine): optimize frame budget and draw calls #674
 [2024-01-15 11:16:18] feat(nixos): configure hardware acceleration for Vulkan compute #366
 [2024-01-15 14:13:11] fix(state): handle disconnected websocket re-subscription #345
+[2024-01-15 18:45:49] docs(readme): clarify setup steps and architecture flow #596
