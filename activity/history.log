@@ -975,3 +975,4 @@
 [2024-01-16 10:38:46] sync: perf(gc): reduce object allocation overhead in hot loop (6353)
 [2024-01-16 13:29:44] sync: feat(engine): optimize frame budget and draw calls (1853)
 [2024-01-16 14:41:41] sync: feat(kernel): update nix flake modules for dev shell (8264)
+[2024-01-16 15:50:41] sync: docs(readme): clarify setup steps and architecture flow (1050)
