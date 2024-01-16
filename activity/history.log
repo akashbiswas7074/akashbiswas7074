@@ -973,3 +973,4 @@
 [2024-01-15 20:30:47] sync: chore(ci): parallelize test runner workflow matrix (6451)
 [2024-01-15 21:45:27] sync: chore(deps): bump toolchain packages and lint rules (3627)
 [2024-01-16 10:38:46] sync: perf(gc): reduce object allocation overhead in hot loop (6353)
+[2024-01-16 13:29:44] sync: feat(engine): optimize frame budget and draw calls (1853)
