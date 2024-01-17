@@ -979,3 +979,4 @@
 [2024-01-16 17:25:12] sync: refactor(ui): extract reusable component primitives (6140)
 [2024-01-16 20:36:05] sync: chore(deps): bump toolchain packages and lint rules (3585)
 [2024-01-17 12:49:53] sync: docs(readme): clarify setup steps and architecture flow (7722)
+[2024-01-17 17:50:20] sync: feat(router): zero-allocation path parameter matcher (8837)
