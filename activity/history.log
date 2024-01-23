@@ -613,3 +613,4 @@
 [2024-01-23 23:35:38] feat(ml): add multi-head cross-attention layer #131
 [2024-01-23 13:44:03] feat(graphql): add batched dataloader for resolvers #273
 [2024-01-23 13:27:45] feat(shader): custom volumetric fog and lighting pass #341
+[2024-01-23 11:51:03] perf(db): add compound index for fast query lookups #700
