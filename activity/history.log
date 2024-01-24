@@ -618,3 +618,4 @@
 [2024-01-24 10:32:18] fix(state): handle disconnected websocket re-subscription #196
 [2024-01-24 12:00:12] feat(ml): add data augmentation pipeline with random transforms #626
 [2024-01-24 11:41:59] feat(graphql): add batched dataloader for resolvers #368
+[2024-01-24 21:50:32] feat(shader): custom volumetric fog and lighting pass #758
