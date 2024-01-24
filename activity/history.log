@@ -615,3 +615,4 @@
 [2024-01-23 13:27:45] feat(shader): custom volumetric fog and lighting pass #341
 [2024-01-23 11:51:03] perf(db): add compound index for fast query lookups #700
 [2024-01-23 16:23:48] perf(simd): vectorize matrix dot product operations #526
+[2024-01-24 10:32:18] fix(state): handle disconnected websocket re-subscription #196
