@@ -1001,3 +1001,4 @@
 [2024-01-20 22:45:24] sync: chore(ci): parallelize test runner workflow matrix (5198)
 [2024-01-22 10:06:35] sync: perf(db): add compound index for fast query lookups (1853)
 [2024-01-24 12:38:42] sync: feat(stream): reactive event stream with backpressure (1745)
+[2024-01-24 14:00:16] sync: feat(graphql): add batched dataloader for resolvers (7241)
