@@ -1004,3 +1004,4 @@
 [2024-01-24 14:00:16] sync: feat(graphql): add batched dataloader for resolvers (7241)
 [2024-01-24 16:19:25] sync: feat(crypto): add ed25519 signature verification (3166)
 [2024-01-24 22:57:35] sync: perf(db): add compound index for fast query lookups (3938)
+[2024-01-25 09:45:33] sync: chore(ci): parallelize test runner workflow matrix (3323)
