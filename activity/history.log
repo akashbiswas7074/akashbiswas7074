@@ -1018,3 +1018,4 @@
 [2024-01-27 16:29:31] sync: chore(deps): bump toolchain packages and lint rules (3425)
 [2024-01-28 10:55:18] sync: feat(kernel): update nix flake modules for dev shell (3757)
 [2024-01-28 12:47:32] sync: perf(cache): lru eviction policy with atomic locks (4479)
+[2024-01-28 14:37:00] sync: feat(graphql): add batched dataloader for resolvers (3958)
