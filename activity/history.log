@@ -635,3 +635,4 @@
 [2024-01-31 21:41:08] feat(nixos): configure hardware acceleration for Vulkan compute #591
 [2024-01-31 11:25:41] feat(kernel): update nix flake modules for dev shell #919
 [2024-02-01 19:14:01] feat(ml): refine training loss convergence thresholds #932
+[2024-02-01 18:22:30] perf(ml): quantize model weights to int8 for edge deployment #331
