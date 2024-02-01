@@ -636,3 +636,4 @@
 [2024-01-31 11:25:41] feat(kernel): update nix flake modules for dev shell #919
 [2024-02-01 19:14:01] feat(ml): refine training loss convergence thresholds #932
 [2024-02-01 18:22:30] perf(ml): quantize model weights to int8 for edge deployment #331
+[2024-02-01 09:02:22] chore(deps): bump toolchain packages and compiler versions #897
