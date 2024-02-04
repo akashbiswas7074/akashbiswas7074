@@ -642,3 +642,4 @@
 [2024-02-02 20:50:12] refactor(ui): extract reusable glassmorphic UI primitives #516
 [2024-02-02 19:46:22] refactor(ui): extract reusable glassmorphic UI primitives #577
 [2024-02-02 12:08:11] feat(ml): refine training loss convergence thresholds #307
+[2024-02-04 13:33:24] feat(nixos): configure hardware acceleration for Vulkan compute #242
