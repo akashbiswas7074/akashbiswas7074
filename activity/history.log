@@ -643,3 +643,4 @@
 [2024-02-02 19:46:22] refactor(ui): extract reusable glassmorphic UI primitives #577
 [2024-02-02 12:08:11] feat(ml): refine training loss convergence thresholds #307
 [2024-02-04 13:33:24] feat(nixos): configure hardware acceleration for Vulkan compute #242
+[2024-02-04 21:48:53] feat(router): zero-allocation path parameter matcher #925
