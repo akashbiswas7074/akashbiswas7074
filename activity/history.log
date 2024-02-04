@@ -645,3 +645,4 @@
 [2024-02-04 13:33:24] feat(nixos): configure hardware acceleration for Vulkan compute #242
 [2024-02-04 21:48:53] feat(router): zero-allocation path parameter matcher #925
 [2024-02-04 23:57:51] feat(router): zero-allocation path parameter matcher #273
+[2024-02-04 22:52:09] feat(kernel): update nix flake modules for dev shell #304
