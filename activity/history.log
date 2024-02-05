@@ -1041,3 +1041,4 @@
 [2024-02-05 09:14:41] sync: docs(readme): clarify setup steps and architecture flow (9115)
 [2024-02-05 10:33:40] sync: feat(graphql): add batched dataloader for resolvers (2375)
 [2024-02-05 12:18:29] sync: chore(ci): parallelize test runner workflow matrix (2297)
+[2024-02-05 14:58:51] sync: fix(concurrency): lock contention in task scheduler (5921)
