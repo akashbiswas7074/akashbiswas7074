@@ -1058,3 +1058,4 @@
 [2024-02-09 16:29:44] sync: perf(simd): vectorize matrix dot product operations (8974)
 [2024-02-09 17:19:39] sync: feat(stream): reactive event stream with backpressure (6910)
 [2024-02-09 18:44:43] sync: perf(simd): vectorize matrix dot product operations (5958)
+[2024-02-09 19:05:08] sync: docs(readme): clarify setup steps and architecture flow (1227)
