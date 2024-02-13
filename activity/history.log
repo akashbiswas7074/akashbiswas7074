@@ -670,3 +670,4 @@
 [2024-02-12 17:39:56] feat(ml): implement attention mechanism in transformer layer #168
 [2024-02-13 12:12:37] fix(systemd): adjust daemon restart policy on unhandled panic #846
 [2024-02-13 10:04:06] feat(ml): add multi-head cross-attention layer #188
+[2024-02-13 10:35:19] feat(kernel): update nix flake modules for dev shell #990
