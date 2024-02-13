@@ -675,3 +675,4 @@
 [2024-02-13 10:40:47] feat(shader): custom volumetric fog and lighting pass #802
 [2024-02-13 21:44:29] perf(db): add compound index for fast query lookups #680
 [2024-02-13 15:20:19] feat(graphql): add batched dataloader for resolvers #210
+[2024-02-13 21:40:04] feat(ml): refine training loss convergence thresholds #426
