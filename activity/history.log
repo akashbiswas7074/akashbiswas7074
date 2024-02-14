@@ -678,3 +678,4 @@
 [2024-02-13 21:40:04] feat(ml): refine training loss convergence thresholds #426
 [2024-02-14 18:01:23] feat(shader): custom volumetric fog and lighting pass #983
 [2024-02-14 22:17:38] feat(ml): implement cosine learning rate annealing schedule #836
+[2024-02-14 13:50:02] fix(state): handle disconnected websocket re-subscription #481
