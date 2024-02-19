@@ -1079,3 +1079,4 @@
 [2024-02-19 11:28:14] sync: feat(graphql): add batched dataloader for resolvers (4599)
 [2024-02-19 12:37:58] sync: fix(memory): patch dangling pointer in audio pipeline (8675)
 [2024-02-19 13:08:56] sync: refactor(ui): extract reusable component primitives (7395)
+[2024-02-19 14:26:53] sync: feat(crypto): add ed25519 signature verification (8738)
