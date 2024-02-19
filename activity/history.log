@@ -680,3 +680,4 @@
 [2024-02-14 22:17:38] feat(ml): implement cosine learning rate annealing schedule #836
 [2024-02-14 13:50:02] fix(state): handle disconnected websocket re-subscription #481
 [2024-02-17 17:41:39] feat(ml): implement cosine learning rate annealing schedule #766
+[2024-02-19 22:35:13] perf(ml): optimize tensor memory layout for fast inference #544
