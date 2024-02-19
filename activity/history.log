@@ -1076,3 +1076,4 @@
 [2024-02-18 10:57:41] sync: chore(ci): parallelize test runner workflow matrix (8755)
 [2024-02-18 13:07:31] sync: feat(stream): reactive event stream with backpressure (6681)
 [2024-02-18 17:28:44] sync: chore(ci): parallelize test runner workflow matrix (1340)
+[2024-02-19 11:28:14] sync: feat(graphql): add batched dataloader for resolvers (4599)
