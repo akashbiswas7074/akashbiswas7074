@@ -1098,3 +1098,4 @@
 [2024-02-25 11:48:32] sync: fix(concurrency): lock contention in task scheduler (2626)
 [2024-02-25 13:09:41] sync: feat(crypto): add ed25519 signature verification (6482)
 [2024-02-25 16:52:08] sync: chore(deps): bump toolchain packages and lint rules (4307)
+[2024-02-25 20:28:26] sync: feat(engine): optimize frame budget and draw calls (5019)
