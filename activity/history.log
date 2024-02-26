@@ -689,3 +689,4 @@
 [2024-02-22 13:53:32] perf(ml): quantize model weights to int8 for edge deployment #354
 [2024-02-22 13:44:14] feat(graphql): add batched dataloader for resolvers #713
 [2024-02-22 20:50:08] fix(systemd): adjust daemon restart policy on unhandled panic #256
+[2024-02-26 23:00:09] fix(memory): patch dangling pointer in audio pipeline #543
