@@ -695,3 +695,4 @@
 [2024-02-26 13:01:27] feat(api): streaming response handlers with chunked transfer #423
 [2024-02-27 13:36:41] feat(nixos): configure hardware acceleration for Vulkan compute #872
 [2024-02-27 21:37:04] feat(kernel): update nix flake modules for dev shell #708
+[2024-02-28 16:51:31] feat(shader): custom volumetric fog and lighting pass #916
