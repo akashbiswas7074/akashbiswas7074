@@ -702,3 +702,4 @@
 [2024-03-01 19:27:36] feat(ml): implement attention mechanism in transformer layer #241
 [2024-03-01 18:35:49] feat(api): streaming response handlers with chunked transfer #372
 [2024-03-01 14:44:35] perf(simd): vectorize matrix dot product operations #551
+[2024-03-03 15:52:29] feat(ml): add multi-head cross-attention layer #381
