@@ -705,3 +705,4 @@
 [2024-03-03 15:52:29] feat(ml): add multi-head cross-attention layer #381
 [2024-03-04 18:53:30] test(bench): benchmark p99 latency under sustained load #753
 [2024-03-04 12:47:14] perf(ml): quantize model weights to int8 for edge deployment #924
+[2024-03-06 16:48:40] feat(shader): custom volumetric fog and lighting pass #293
