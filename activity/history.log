@@ -707,3 +707,4 @@
 [2024-03-04 12:47:14] perf(ml): quantize model weights to int8 for edge deployment #924
 [2024-03-06 16:48:40] feat(shader): custom volumetric fog and lighting pass #293
 [2024-03-06 15:19:53] feat(graphql): add batched dataloader for resolvers #523
+[2024-03-07 23:01:51] feat(kernel): update nix flake modules for dev shell #291
