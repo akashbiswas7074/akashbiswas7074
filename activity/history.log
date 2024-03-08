@@ -1122,3 +1122,4 @@
 [2024-03-07 17:33:21] sync: feat(kernel): update nix flake modules for dev shell (1383)
 [2024-03-08 09:53:49] sync: refactor(ui): extract reusable component primitives (7926)
 [2024-03-08 12:32:07] sync: perf(db): add compound index for fast query lookups (7110)
+[2024-03-08 13:16:40] sync: feat(graphql): add batched dataloader for resolvers (6807)
