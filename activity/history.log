@@ -709,3 +709,4 @@
 [2024-03-06 15:19:53] feat(graphql): add batched dataloader for resolvers #523
 [2024-03-07 23:01:51] feat(kernel): update nix flake modules for dev shell #291
 [2024-03-09 19:15:34] perf(ml): optimize tensor memory layout for fast inference #334
+[2024-03-09 15:52:56] feat(ml): implement attention mechanism in transformer layer #757
