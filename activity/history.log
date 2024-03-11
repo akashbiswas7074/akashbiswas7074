@@ -711,3 +711,4 @@
 [2024-03-09 19:15:34] perf(ml): optimize tensor memory layout for fast inference #334
 [2024-03-09 15:52:56] feat(ml): implement attention mechanism in transformer layer #757
 [2024-03-11 22:44:24] fix(state): handle disconnected websocket re-subscription #211
+[2024-03-11 10:09:53] feat(kernel): update nix flake modules for dev shell #393
