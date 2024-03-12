@@ -1133,3 +1133,4 @@
 [2024-03-11 22:06:09] sync: chore(ci): parallelize test runner workflow matrix (7751)
 [2024-03-12 09:56:08] sync: fix(concurrency): lock contention in task scheduler (4519)
 [2024-03-12 10:28:04] sync: feat(crypto): add ed25519 signature verification (9622)
+[2024-03-12 15:25:37] sync: perf(gc): reduce object allocation overhead in hot loop (9502)
