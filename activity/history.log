@@ -717,3 +717,4 @@
 [2024-03-13 23:57:09] feat(nixos): configure hardware acceleration for Vulkan compute #838
 [2024-03-13 10:55:18] feat(kernel): update nix flake modules for dev shell #333
 [2024-03-15 20:59:08] chore(nix): declare deterministic package inputs in flake.lock #673
+[2024-03-15 09:41:44] perf(ui): memoize heavy component renders and reduce re-flows #257
