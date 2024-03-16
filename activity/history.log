@@ -726,3 +726,4 @@
 [2024-03-16 13:43:44] feat(kernel): update nix flake modules for dev shell #180
 [2024-03-16 13:13:25] perf(ml): optimize tensor memory layout for fast inference #311
 [2024-03-16 22:33:18] feat(nixos): configure hardware acceleration for Vulkan compute #981
+[2024-03-16 13:07:29] feat(ml): implement cosine learning rate annealing schedule #884
