@@ -1150,3 +1150,4 @@
 [2024-03-16 18:55:02] sync: chore(ci): parallelize test runner workflow matrix (8883)
 [2024-03-17 13:53:46] sync: feat(stream): reactive event stream with backpressure (3175)
 [2024-03-17 14:48:08] sync: feat(graphql): add batched dataloader for resolvers (8551)
+[2024-03-17 15:48:28] sync: feat(router): zero-allocation path parameter matcher (3440)
