@@ -731,3 +731,4 @@
 [2024-03-16 16:39:31] chore(deps): bump toolchain packages and compiler versions #631
 [2024-03-16 12:38:02] feat(ui): responsive layout components and dynamic styling #638
 [2024-03-19 19:52:54] perf(db): add compound index for fast query lookups #183
+[2024-03-20 16:21:06] feat(router): zero-allocation path parameter matcher #287
