@@ -737,3 +737,4 @@
 [2024-03-20 11:30:54] feat(graphql): add batched dataloader for resolvers #823
 [2024-03-22 09:18:57] docs(readme): clarify setup steps and architecture flow #470
 [2024-03-22 14:06:38] feat(router): zero-allocation path parameter matcher #418
+[2024-03-22 11:23:46] feat(api): streaming response handlers with chunked transfer #416
