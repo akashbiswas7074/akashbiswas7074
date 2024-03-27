@@ -745,3 +745,4 @@
 [2024-03-27 17:00:33] test(bench): benchmark p99 latency under sustained load #499
 [2024-03-27 23:49:29] fix(state): handle disconnected websocket re-subscription #261
 [2024-03-27 23:02:52] fix(state): handle disconnected websocket re-subscription #876
+[2024-03-27 22:28:14] feat(api): streaming response handlers with chunked transfer #884
