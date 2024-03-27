@@ -740,3 +740,4 @@
 [2024-03-22 11:23:46] feat(api): streaming response handlers with chunked transfer #416
 [2024-03-22 16:13:00] perf(simd): vectorize matrix dot product operations #565
 [2024-03-27 17:25:27] perf(ml): quantize model weights to int8 for edge deployment #682
+[2024-03-27 14:57:23] fix(state): handle disconnected websocket re-subscription #542
