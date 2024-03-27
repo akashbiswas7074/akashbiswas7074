@@ -742,3 +742,4 @@
 [2024-03-27 17:25:27] perf(ml): quantize model weights to int8 for edge deployment #682
 [2024-03-27 14:57:23] fix(state): handle disconnected websocket re-subscription #542
 [2024-03-27 10:46:48] perf(ml): quantize model weights to int8 for edge deployment #162
+[2024-03-27 17:00:33] test(bench): benchmark p99 latency under sustained load #499
