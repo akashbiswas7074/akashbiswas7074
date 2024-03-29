@@ -750,3 +750,4 @@
 [2024-03-28 18:58:19] docs(readme): clarify setup steps and architecture flow #708
 [2024-03-28 16:23:36] perf(ml): optimize tensor memory layout for fast inference #374
 [2024-03-28 21:07:55] chore(deps): bump toolchain packages and compiler versions #741
+[2024-03-29 16:49:27] feat(shader): custom volumetric fog and lighting pass #734
