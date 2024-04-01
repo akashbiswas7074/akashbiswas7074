@@ -757,3 +757,4 @@
 [2024-04-01 12:12:16] perf(ui): memoize heavy component renders and reduce re-flows #107
 [2024-04-01 23:44:42] perf(simd): vectorize matrix dot product operations #419
 [2024-04-01 23:54:39] docs(readme): clarify setup steps and architecture flow #446
+[2024-04-01 14:43:04] docs(readme): clarify setup steps and architecture flow #727
