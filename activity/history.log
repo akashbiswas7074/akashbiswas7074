@@ -763,3 +763,4 @@
 [2024-04-02 10:05:23] fix(memory): patch dangling pointer in audio pipeline #519
 [2024-04-02 10:37:23] fix(systemd): adjust daemon restart policy on unhandled panic #603
 [2024-04-02 14:43:12] chore(deps): bump toolchain packages and compiler versions #588
+[2024-04-02 10:59:00] perf(db): add compound index for fast query lookups #500
