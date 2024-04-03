@@ -764,3 +764,4 @@
 [2024-04-02 10:37:23] fix(systemd): adjust daemon restart policy on unhandled panic #603
 [2024-04-02 14:43:12] chore(deps): bump toolchain packages and compiler versions #588
 [2024-04-02 10:59:00] perf(db): add compound index for fast query lookups #500
+[2024-04-03 21:37:55] fix(state): handle disconnected websocket re-subscription #308
