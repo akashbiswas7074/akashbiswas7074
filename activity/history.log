@@ -766,3 +766,4 @@
 [2024-04-02 10:59:00] perf(db): add compound index for fast query lookups #500
 [2024-04-03 21:37:55] fix(state): handle disconnected websocket re-subscription #308
 [2024-04-05 17:34:24] chore(nix): declare deterministic package inputs in flake.lock #113
+[2024-04-05 16:56:27] feat(engine): optimize frame budget and draw calls #567
