@@ -1199,3 +1199,4 @@
 [2024-04-02 20:48:25] sync: perf(gc): reduce object allocation overhead in hot loop (2329)
 [2024-04-02 22:50:56] sync: fix(api): resolve async connection pooling edge case (9825)
 [2024-04-05 09:52:24] sync: feat(stream): reactive event stream with backpressure (6864)
+[2024-04-05 10:24:11] sync: feat(engine): optimize frame budget and draw calls (3044)
