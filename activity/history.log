@@ -770,3 +770,4 @@
 [2024-04-08 20:23:12] feat(ml): implement attention mechanism in transformer layer #384
 [2024-04-08 09:05:19] perf(ui): memoize heavy component renders and reduce re-flows #371
 [2024-04-08 11:27:37] fix(systemd): adjust daemon restart policy on unhandled panic #221
+[2024-04-09 15:39:05] feat(shader): custom volumetric fog and lighting pass #901
