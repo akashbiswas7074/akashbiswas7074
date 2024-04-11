@@ -1215,3 +1215,4 @@
 [2024-04-09 18:39:16] sync: perf(gc): reduce object allocation overhead in hot loop (8437)
 [2024-04-10 09:27:41] sync: perf(db): add compound index for fast query lookups (6292)
 [2024-04-11 10:43:33] sync: feat(router): zero-allocation path parameter matcher (9119)
+[2024-04-11 13:23:33] sync: perf(db): add compound index for fast query lookups (4678)
