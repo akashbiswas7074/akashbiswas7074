@@ -779,3 +779,4 @@
 [2024-04-12 16:31:35] feat(engine): optimize frame budget and draw calls #812
 [2024-04-12 20:33:43] perf(ml): optimize tensor memory layout for fast inference #589
 [2024-04-15 17:13:49] perf(db): add compound index for fast query lookups #136
+[2024-04-15 17:40:52] feat(kernel): update nix flake modules for dev shell #987
