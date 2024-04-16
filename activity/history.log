@@ -792,3 +792,4 @@
 [2024-04-16 10:41:29] test(e2e): enhance integration coverage for auth flows #586
 [2024-04-16 12:40:54] feat(nixos): configure hardware acceleration for Vulkan compute #833
 [2024-04-16 22:21:43] perf(cache): lru eviction policy with atomic locks #661
+[2024-04-16 20:26:21] feat(router): zero-allocation path parameter matcher #491
