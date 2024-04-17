@@ -797,3 +797,4 @@
 [2024-04-16 17:02:50] fix(systemd): adjust daemon restart policy on unhandled panic #477
 [2024-04-16 12:19:53] chore(deps): bump toolchain packages and compiler versions #788
 [2024-04-16 19:41:44] test(bench): benchmark p99 latency under sustained load #714
+[2024-04-17 14:04:53] feat(graphql): add batched dataloader for resolvers #424
