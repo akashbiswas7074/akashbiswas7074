@@ -805,3 +805,4 @@
 [2024-04-18 15:23:16] perf(simd): vectorize matrix dot product operations #684
 [2024-04-18 13:47:34] test(e2e): enhance integration coverage for auth flows #490
 [2024-04-18 10:46:46] feat(graphql): add batched dataloader for resolvers #882
+[2024-04-18 13:00:30] fix(state): handle disconnected websocket re-subscription #218
