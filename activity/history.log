@@ -1225,3 +1225,4 @@
 [2024-04-15 22:30:27] sync: feat(engine): optimize frame budget and draw calls (6477)
 [2024-04-16 22:16:15] sync: chore(deps): bump toolchain packages and lint rules (8759)
 [2024-04-17 12:21:53] sync: perf(db): add compound index for fast query lookups (6465)
+[2024-04-18 10:40:28] sync: test(bench): benchmark p99 latency under sustained load (3045)
