@@ -808,3 +808,4 @@
 [2024-04-18 13:00:30] fix(state): handle disconnected websocket re-subscription #218
 [2024-04-18 11:56:35] perf(cache): lru eviction policy with atomic locks #971
 [2024-04-18 15:39:27] perf(simd): vectorize matrix dot product operations #456
+[2024-04-18 21:56:57] feat(engine): optimize frame budget and draw calls #805
