@@ -817,3 +817,4 @@
 [2024-04-19 13:08:57] feat(router): zero-allocation path parameter matcher #862
 [2024-04-19 14:04:14] perf(ml): quantize model weights to int8 for edge deployment #337
 [2024-04-19 22:22:08] feat(ml): add multi-head cross-attention layer #567
+[2024-04-19 10:09:53] fix(state): handle disconnected websocket re-subscription #280
