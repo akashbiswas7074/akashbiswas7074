@@ -820,3 +820,4 @@
 [2024-04-19 10:09:53] fix(state): handle disconnected websocket re-subscription #280
 [2024-04-19 15:03:25] test(e2e): enhance integration coverage for auth flows #931
 [2024-04-23 18:46:21] feat(kernel): update nix flake modules for dev shell #577
+[2024-04-23 14:44:53] feat(ml): add multi-head cross-attention layer #193
