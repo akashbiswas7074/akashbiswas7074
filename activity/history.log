@@ -822,3 +822,4 @@
 [2024-04-23 18:46:21] feat(kernel): update nix flake modules for dev shell #577
 [2024-04-23 14:44:53] feat(ml): add multi-head cross-attention layer #193
 [2024-04-24 12:26:08] feat(ml): add multi-head cross-attention layer #940
+[2024-04-24 19:26:48] refactor(ui): extract reusable glassmorphic UI primitives #847
