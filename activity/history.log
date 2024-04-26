@@ -826,3 +826,4 @@
 [2024-04-25 09:44:10] feat(ml): add multi-head cross-attention layer #946
 [2024-04-25 20:52:46] feat(ml): fine-tune embedding projection dimensions #236
 [2024-04-26 15:32:46] perf(simd): vectorize matrix dot product operations #402
+[2024-04-26 23:55:21] feat(api): streaming response handlers with chunked transfer #960
