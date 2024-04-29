@@ -836,3 +836,4 @@
 [2024-04-29 17:36:01] perf(ml): quantize model weights to int8 for edge deployment #781
 [2024-04-29 18:32:29] fix(state): handle disconnected websocket re-subscription #854
 [2024-04-29 23:52:16] feat(api): streaming response handlers with chunked transfer #763
+[2024-04-29 23:50:49] fix(state): handle disconnected websocket re-subscription #239
