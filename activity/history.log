@@ -843,3 +843,4 @@
 [2024-04-29 11:18:22] chore(deps): bump toolchain packages and compiler versions #680
 [2024-04-29 12:49:42] test(bench): benchmark p99 latency under sustained load #813
 [2024-04-29 12:33:35] feat(ml): refine training loss convergence thresholds #259
+[2024-04-29 09:58:00] docs(readme): clarify setup steps and architecture flow #456
