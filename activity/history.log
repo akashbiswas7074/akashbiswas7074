@@ -1262,3 +1262,4 @@
 [2024-05-01 09:21:59] sync: test(e2e): enhance integration coverage for auth flows (5998)
 [2024-05-01 10:29:15] sync: feat(crypto): add ed25519 signature verification (7100)
 [2024-05-01 11:42:10] sync: feat(graphql): add batched dataloader for resolvers (8106)
+[2024-05-01 13:56:45] sync: fix(api): resolve async connection pooling edge case (2941)
