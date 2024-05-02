@@ -845,3 +845,4 @@
 [2024-04-29 12:33:35] feat(ml): refine training loss convergence thresholds #259
 [2024-04-29 09:58:00] docs(readme): clarify setup steps and architecture flow #456
 [2024-05-02 09:22:10] fix(memory): patch dangling pointer in audio pipeline #481
+[2024-05-02 21:33:26] fix(systemd): adjust daemon restart policy on unhandled panic #974
