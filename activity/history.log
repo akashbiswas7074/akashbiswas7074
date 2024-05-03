@@ -1270,3 +1270,4 @@
 [2024-05-03 11:03:40] sync: perf(cache): lru eviction policy with atomic locks (3071)
 [2024-05-03 12:54:32] sync: test(bench): benchmark p99 latency under sustained load (9011)
 [2024-05-03 13:13:46] sync: fix(api): resolve async connection pooling edge case (8711)
+[2024-05-03 14:50:42] sync: feat(stream): reactive event stream with backpressure (2062)
