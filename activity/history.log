@@ -848,3 +848,4 @@
 [2024-05-02 21:33:26] fix(systemd): adjust daemon restart policy on unhandled panic #974
 [2024-05-02 13:41:09] perf(cache): lru eviction policy with atomic locks #572
 [2024-05-02 17:33:47] feat(nixos): configure hardware acceleration for Vulkan compute #836
+[2024-05-04 12:59:34] test(bench): benchmark p99 latency under sustained load #617
