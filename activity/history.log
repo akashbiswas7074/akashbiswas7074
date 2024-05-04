@@ -850,3 +850,4 @@
 [2024-05-02 17:33:47] feat(nixos): configure hardware acceleration for Vulkan compute #836
 [2024-05-04 12:59:34] test(bench): benchmark p99 latency under sustained load #617
 [2024-05-04 10:15:51] feat(ml): implement cosine learning rate annealing schedule #995
+[2024-05-04 15:16:14] feat(shader): custom volumetric fog and lighting pass #912
