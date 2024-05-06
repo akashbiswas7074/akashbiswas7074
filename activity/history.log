@@ -855,3 +855,4 @@
 [2024-05-04 11:26:23] chore(nix): declare deterministic package inputs in flake.lock #594
 [2024-05-06 21:24:17] feat(ml): implement attention mechanism in transformer layer #129
 [2024-05-06 19:06:42] docs(readme): clarify setup steps and architecture flow #693
+[2024-05-06 13:18:29] feat(router): zero-allocation path parameter matcher #255
