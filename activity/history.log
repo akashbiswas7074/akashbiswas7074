@@ -853,3 +853,4 @@
 [2024-05-04 15:16:14] feat(shader): custom volumetric fog and lighting pass #912
 [2024-05-04 21:08:28] perf(ml): optimize tensor memory layout for fast inference #713
 [2024-05-04 11:26:23] chore(nix): declare deterministic package inputs in flake.lock #594
+[2024-05-06 21:24:17] feat(ml): implement attention mechanism in transformer layer #129
