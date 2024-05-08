@@ -1285,3 +1285,4 @@
 [2024-05-08 15:26:23] sync: fix(concurrency): lock contention in task scheduler (6194)
 [2024-05-08 16:17:24] sync: feat(engine): optimize frame budget and draw calls (3942)
 [2024-05-08 21:28:14] sync: perf(cache): lru eviction policy with atomic locks (2243)
+[2024-05-08 22:22:57] sync: fix(api): resolve async connection pooling edge case (5825)
