@@ -858,3 +858,4 @@
 [2024-05-06 13:18:29] feat(router): zero-allocation path parameter matcher #255
 [2024-05-08 22:09:09] feat(engine): optimize frame budget and draw calls #399
 [2024-05-09 17:46:20] perf(db): add compound index for fast query lookups #138
+[2024-05-09 15:45:09] feat(router): zero-allocation path parameter matcher #545
