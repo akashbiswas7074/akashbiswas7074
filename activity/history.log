@@ -1287,3 +1287,4 @@
 [2024-05-08 21:28:14] sync: perf(cache): lru eviction policy with atomic locks (2243)
 [2024-05-08 22:22:57] sync: fix(api): resolve async connection pooling edge case (5825)
 [2024-05-09 17:32:34] sync: fix(api): resolve async connection pooling edge case (5528)
+[2024-05-09 22:59:14] sync: chore(deps): bump toolchain packages and lint rules (2942)
