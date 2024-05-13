@@ -862,3 +862,4 @@
 [2024-05-09 20:51:25] perf(simd): vectorize matrix dot product operations #474
 [2024-05-09 16:58:56] feat(router): zero-allocation path parameter matcher #891
 [2024-05-13 13:23:41] perf(simd): vectorize matrix dot product operations #449
+[2024-05-13 21:17:08] docs(readme): clarify setup steps and architecture flow #419
