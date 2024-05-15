@@ -1300,3 +1300,4 @@
 [2024-05-14 20:50:05] sync: fix(memory): patch dangling pointer in audio pipeline (4077)
 [2024-05-15 12:54:35] sync: feat(engine): optimize frame budget and draw calls (7139)
 [2024-05-15 15:08:36] sync: docs(readme): clarify setup steps and architecture flow (6006)
+[2024-05-15 16:47:00] sync: fix(concurrency): lock contention in task scheduler (6810)
