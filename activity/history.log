@@ -880,3 +880,4 @@
 [2024-05-22 21:00:10] docs(readme): clarify setup steps and architecture flow #954
 [2024-05-22 19:27:53] perf(ml): quantize model weights to int8 for edge deployment #624
 [2024-05-23 12:14:56] feat(ml): implement attention mechanism in transformer layer #505
+[2024-05-23 17:56:57] perf(cache): lru eviction policy with atomic locks #435
