@@ -883,3 +883,4 @@
 [2024-05-23 17:56:57] perf(cache): lru eviction policy with atomic locks #435
 [2024-05-23 09:14:58] feat(shader): custom volumetric fog and lighting pass #455
 [2024-05-23 14:57:34] chore(nix): declare deterministic package inputs in flake.lock #949
+[2024-05-23 12:08:08] perf(ui): memoize heavy component renders and reduce re-flows #998
