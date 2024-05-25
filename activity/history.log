@@ -897,3 +897,4 @@
 [2024-05-25 09:45:06] test(bench): benchmark p99 latency under sustained load #709
 [2024-05-25 21:21:22] feat(shader): custom volumetric fog and lighting pass #522
 [2024-05-25 14:01:24] perf(ml): optimize tensor memory layout for fast inference #896
+[2024-05-25 21:43:10] feat(engine): optimize frame budget and draw calls #328
