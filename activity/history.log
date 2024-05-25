@@ -887,3 +887,4 @@
 [2024-05-23 17:16:05] feat(shader): custom volumetric fog and lighting pass #357
 [2024-05-23 23:43:44] chore(deps): bump toolchain packages and compiler versions #680
 [2024-05-23 10:47:35] feat(ml): refine training loss convergence thresholds #794
+[2024-05-25 17:07:35] perf(ml): quantize model weights to int8 for edge deployment #223
