@@ -900,3 +900,4 @@
 [2024-05-25 21:43:10] feat(engine): optimize frame budget and draw calls #328
 [2024-05-25 21:25:01] feat(ml): implement attention mechanism in transformer layer #510
 [2024-05-27 11:05:48] perf(ml): quantize model weights to int8 for edge deployment #337
+[2024-05-27 12:08:32] chore(nix): declare deterministic package inputs in flake.lock #921
