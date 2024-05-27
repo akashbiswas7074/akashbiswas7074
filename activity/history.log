@@ -899,3 +899,4 @@
 [2024-05-25 14:01:24] perf(ml): optimize tensor memory layout for fast inference #896
 [2024-05-25 21:43:10] feat(engine): optimize frame budget and draw calls #328
 [2024-05-25 21:25:01] feat(ml): implement attention mechanism in transformer layer #510
+[2024-05-27 11:05:48] perf(ml): quantize model weights to int8 for edge deployment #337
