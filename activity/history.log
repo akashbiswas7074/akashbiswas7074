@@ -905,3 +905,4 @@
 [2024-05-27 09:48:26] feat(ui): responsive layout components and dynamic styling #787
 [2024-05-28 18:42:23] feat(ui): responsive layout components and dynamic styling #161
 [2024-05-28 22:08:34] fix(systemd): adjust daemon restart policy on unhandled panic #366
+[2024-05-29 21:51:56] feat(engine): optimize frame budget and draw calls #980
