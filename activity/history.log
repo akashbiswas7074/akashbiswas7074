@@ -1337,3 +1337,4 @@
 [2024-05-28 16:10:16] sync: test(e2e): enhance integration coverage for auth flows (9291)
 [2024-05-30 09:24:21] sync: perf(simd): vectorize matrix dot product operations (4185)
 [2024-05-30 10:25:02] sync: feat(engine): optimize frame budget and draw calls (5105)
+[2024-05-30 16:07:45] sync: docs(readme): clarify setup steps and architecture flow (6359)
