@@ -1339,3 +1339,4 @@
 [2024-05-30 10:25:02] sync: feat(engine): optimize frame budget and draw calls (5105)
 [2024-05-30 16:07:45] sync: docs(readme): clarify setup steps and architecture flow (6359)
 [2024-05-30 21:42:47] sync: feat(router): zero-allocation path parameter matcher (8942)
+[2024-05-30 22:29:04] sync: fix(api): resolve async connection pooling edge case (9985)
