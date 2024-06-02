@@ -1341,3 +1341,4 @@
 [2024-05-30 21:42:47] sync: feat(router): zero-allocation path parameter matcher (8942)
 [2024-05-30 22:29:04] sync: fix(api): resolve async connection pooling edge case (9985)
 [2024-05-31 19:15:45] sync: feat(router): zero-allocation path parameter matcher (3297)
+[2024-06-02 16:52:17] sync: feat(kernel): update nix flake modules for dev shell (3794)
