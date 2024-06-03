@@ -922,3 +922,4 @@
 [2024-05-31 10:45:30] feat(ml): add data augmentation pipeline with random transforms #669
 [2024-05-31 20:06:40] perf(db): add compound index for fast query lookups #261
 [2024-06-02 18:29:40] feat(ml): refine training loss convergence thresholds #526
+[2024-06-03 20:32:10] feat(shader): custom volumetric fog and lighting pass #584
