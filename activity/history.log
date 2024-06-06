@@ -1353,3 +1353,4 @@
 [2024-06-05 16:58:15] sync: test(e2e): enhance integration coverage for auth flows (2497)
 [2024-06-05 20:01:26] sync: feat(engine): optimize frame budget and draw calls (1238)
 [2024-06-06 10:53:53] sync: feat(kernel): update nix flake modules for dev shell (3736)
+[2024-06-06 12:02:26] sync: feat(graphql): add batched dataloader for resolvers (2764)
