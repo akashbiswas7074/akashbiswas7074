@@ -927,3 +927,4 @@
 [2024-06-03 17:26:12] feat(ml): refine training loss convergence thresholds #782
 [2024-06-06 21:07:45] feat(graphql): add batched dataloader for resolvers #875
 [2024-06-08 10:13:21] refactor(ui): extract reusable glassmorphic UI primitives #434
+[2024-06-08 16:47:20] feat(shader): custom volumetric fog and lighting pass #880
