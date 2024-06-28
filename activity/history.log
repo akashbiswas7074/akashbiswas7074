@@ -1407,3 +1407,4 @@
 [2024-06-28 15:44:42] sync: docs(readme): clarify setup steps and architecture flow (5281)
 [2024-06-28 16:38:29] sync: docs(readme): clarify setup steps and architecture flow (5166)
 [2024-06-28 19:15:38] sync: test(bench): benchmark p99 latency under sustained load (3644)
+[2024-06-28 20:00:07] sync: fix(api): resolve async connection pooling edge case (7297)
