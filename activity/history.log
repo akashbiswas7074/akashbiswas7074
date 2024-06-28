@@ -930,3 +930,4 @@
 [2024-06-08 16:47:20] feat(shader): custom volumetric fog and lighting pass #880
 [2024-06-12 10:25:38] feat(ml): add data augmentation pipeline with random transforms #827
 [2024-06-27 18:17:52] perf(ui): memoize heavy component renders and reduce re-flows #639
+[2024-06-28 12:10:46] feat(api): streaming response handlers with chunked transfer #975
