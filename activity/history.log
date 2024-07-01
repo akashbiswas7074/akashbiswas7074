@@ -933,3 +933,4 @@
 [2024-06-28 12:10:46] feat(api): streaming response handlers with chunked transfer #975
 [2024-06-28 15:21:00] feat(ml): add multi-head cross-attention layer #161
 [2024-07-01 23:32:21] feat(ml): fine-tune embedding projection dimensions #310
+[2024-07-01 20:27:17] feat(ml): implement cosine learning rate annealing schedule #575
