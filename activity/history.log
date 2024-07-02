@@ -937,3 +937,4 @@
 [2024-07-01 21:20:29] feat(ui): responsive layout components and dynamic styling #914
 [2024-07-01 18:26:28] chore(nix): declare deterministic package inputs in flake.lock #352
 [2024-07-02 13:12:03] chore(nix): declare deterministic package inputs in flake.lock #661
+[2024-07-02 20:20:31] feat(kernel): update nix flake modules for dev shell #225
