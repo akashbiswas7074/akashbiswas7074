@@ -942,3 +942,4 @@
 [2024-07-03 10:33:18] docs(readme): clarify setup steps and architecture flow #474
 [2024-07-03 16:14:06] feat(api): streaming response handlers with chunked transfer #526
 [2024-07-03 12:07:14] feat(router): zero-allocation path parameter matcher #331
+[2024-07-03 11:10:49] fix(memory): patch dangling pointer in audio pipeline #550
