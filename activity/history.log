@@ -1418,3 +1418,4 @@
 [2024-07-02 20:06:04] sync: chore(ci): parallelize test runner workflow matrix (9600)
 [2024-07-03 13:46:27] sync: feat(kernel): update nix flake modules for dev shell (3890)
 [2024-07-03 15:23:11] sync: docs(readme): clarify setup steps and architecture flow (4244)
+[2024-07-03 19:31:11] sync: feat(graphql): add batched dataloader for resolvers (2806)
