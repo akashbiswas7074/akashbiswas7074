@@ -941,3 +941,4 @@
 [2024-07-03 21:36:14] feat(kernel): update nix flake modules for dev shell #655
 [2024-07-03 10:33:18] docs(readme): clarify setup steps and architecture flow #474
 [2024-07-03 16:14:06] feat(api): streaming response handlers with chunked transfer #526
+[2024-07-03 12:07:14] feat(router): zero-allocation path parameter matcher #331
