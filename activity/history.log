@@ -938,3 +938,4 @@
 [2024-07-01 18:26:28] chore(nix): declare deterministic package inputs in flake.lock #352
 [2024-07-02 13:12:03] chore(nix): declare deterministic package inputs in flake.lock #661
 [2024-07-02 20:20:31] feat(kernel): update nix flake modules for dev shell #225
+[2024-07-03 21:36:14] feat(kernel): update nix flake modules for dev shell #655
