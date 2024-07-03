@@ -945,3 +945,4 @@
 [2024-07-03 11:10:49] fix(memory): patch dangling pointer in audio pipeline #550
 [2024-07-03 22:39:44] feat(ml): implement attention mechanism in transformer layer #219
 [2024-07-03 21:24:38] fix(state): handle disconnected websocket re-subscription #634
+[2024-07-03 18:05:41] docs(readme): clarify setup steps and architecture flow #996
