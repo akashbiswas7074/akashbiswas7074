@@ -947,3 +947,4 @@
 [2024-07-03 21:24:38] fix(state): handle disconnected websocket re-subscription #634
 [2024-07-03 18:05:41] docs(readme): clarify setup steps and architecture flow #996
 [2024-07-07 23:36:32] feat(ml): refine training loss convergence thresholds #174
+[2024-07-08 09:26:16] perf(ml): quantize model weights to int8 for edge deployment #469
