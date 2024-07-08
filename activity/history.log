@@ -951,3 +951,4 @@
 [2024-07-08 18:39:47] chore(deps): bump toolchain packages and compiler versions #786
 [2024-07-08 10:30:06] fix(systemd): adjust daemon restart policy on unhandled panic #359
 [2024-07-08 13:43:59] docs(readme): clarify setup steps and architecture flow #396
+[2024-07-08 10:07:58] fix(memory): patch dangling pointer in audio pipeline #185
