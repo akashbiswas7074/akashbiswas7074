@@ -1423,3 +1423,4 @@
 [2024-07-05 12:16:57] sync: chore(ci): parallelize test runner workflow matrix (8220)
 [2024-07-05 16:40:58] sync: feat(stream): reactive event stream with backpressure (2789)
 [2024-07-05 18:55:40] sync: feat(kernel): update nix flake modules for dev shell (2307)
+[2024-07-08 10:07:17] sync: fix(api): resolve async connection pooling edge case (6605)
