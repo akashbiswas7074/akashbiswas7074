@@ -956,3 +956,4 @@
 [2024-07-09 17:05:14] perf(db): add compound index for fast query lookups #960
 [2024-07-09 12:43:56] feat(kernel): update nix flake modules for dev shell #814
 [2024-07-09 19:55:50] feat(graphql): add batched dataloader for resolvers #400
+[2024-07-09 16:12:40] feat(kernel): update nix flake modules for dev shell #408
