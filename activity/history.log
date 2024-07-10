@@ -960,3 +960,4 @@
 [2024-07-10 18:28:59] feat(api): streaming response handlers with chunked transfer #672
 [2024-07-10 21:20:36] perf(simd): vectorize matrix dot product operations #362
 [2024-07-10 11:21:22] fix(state): handle disconnected websocket re-subscription #977
+[2024-07-10 22:36:12] perf(db): add compound index for fast query lookups #461
