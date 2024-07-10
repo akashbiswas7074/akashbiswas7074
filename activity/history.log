@@ -964,3 +964,4 @@
 [2024-07-10 16:41:12] feat(graphql): add batched dataloader for resolvers #203
 [2024-07-10 20:00:45] test(bench): benchmark p99 latency under sustained load #576
 [2024-07-10 14:34:06] chore(deps): bump toolchain packages and compiler versions #671
+[2024-07-10 19:44:56] fix(memory): patch dangling pointer in audio pipeline #792
