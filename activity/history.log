@@ -969,3 +969,4 @@
 [2024-07-12 16:07:35] perf(ml): optimize tensor memory layout for fast inference #944
 [2024-07-16 13:35:45] chore(nix): declare deterministic package inputs in flake.lock #273
 [2024-07-16 18:15:01] perf(ml): quantize model weights to int8 for edge deployment #731
+[2024-07-17 12:00:08] fix(state): handle disconnected websocket re-subscription #207
