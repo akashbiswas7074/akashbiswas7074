@@ -1441,3 +1441,4 @@
 [2024-07-16 09:20:43] sync: feat(router): zero-allocation path parameter matcher (4826)
 [2024-07-16 20:38:31] sync: perf(simd): vectorize matrix dot product operations (2333)
 [2024-07-16 22:22:27] sync: fix(concurrency): lock contention in task scheduler (2645)
+[2024-07-18 13:12:45] sync: docs(readme): clarify setup steps and architecture flow (9520)
