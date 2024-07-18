@@ -971,3 +971,4 @@
 [2024-07-16 18:15:01] perf(ml): quantize model weights to int8 for edge deployment #731
 [2024-07-17 12:00:08] fix(state): handle disconnected websocket re-subscription #207
 [2024-07-17 16:45:01] feat(nixos): configure hardware acceleration for Vulkan compute #251
+[2024-07-18 15:26:01] test(bench): benchmark p99 latency under sustained load #964
