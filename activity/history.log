@@ -979,3 +979,4 @@
 [2024-07-18 12:32:58] feat(ui): responsive layout components and dynamic styling #867
 [2024-07-18 09:49:15] perf(db): add compound index for fast query lookups #782
 [2024-07-18 17:24:43] feat(api): streaming response handlers with chunked transfer #118
+[2024-07-21 22:26:43] docs(readme): clarify setup steps and architecture flow #832
