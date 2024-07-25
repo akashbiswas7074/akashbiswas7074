@@ -14,17 +14,8 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashBiswas&theme=radical&hide_border=true"/>
 </p>
-<p align="center">
-<img src="https://dynamic-badges.maxalpha.repl.co/age/01/01/2004" />
-</p>
-<p align="center">
-  <a href="https://www.youtube.com/channel/UCvVUCzb12l-3FM740TdD-Vw?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.herokuapp.com/youtube/channel/subscribers/UCvVUCzb12l-3FM740TdD-Vw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-  <a href="https://github.com/AkashBiswas?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/AkashBiswas"/></a>
-  <a href="https://github.com/AkashBiswas?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/AkashBiswas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank"> 
