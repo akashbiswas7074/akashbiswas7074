@@ -1016,3 +1016,4 @@
 [2024-08-06 09:12:05] perf(simd): vectorize matrix dot product operations #129
 [2024-08-06 19:52:02] docs(readme): clarify setup steps and architecture flow #786
 [2024-08-06 15:41:30] feat(router): zero-allocation path parameter matcher #548
+[2024-08-06 10:39:45] feat(ml): fine-tune embedding projection dimensions #822
