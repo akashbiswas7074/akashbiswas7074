@@ -1015,3 +1015,4 @@
 [2024-08-06 17:15:18] test(e2e): enhance integration coverage for auth flows #512
 [2024-08-06 09:12:05] perf(simd): vectorize matrix dot product operations #129
 [2024-08-06 19:52:02] docs(readme): clarify setup steps and architecture flow #786
+[2024-08-06 15:41:30] feat(router): zero-allocation path parameter matcher #548
