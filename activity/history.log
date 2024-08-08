@@ -1485,3 +1485,4 @@
 [2024-08-05 15:06:22] sync: fix(concurrency): lock contention in task scheduler (3943)
 [2024-08-05 19:03:07] sync: feat(graphql): add batched dataloader for resolvers (6545)
 [2024-08-05 21:37:27] sync: docs(readme): clarify setup steps and architecture flow (7619)
+[2024-08-08 09:19:44] sync: feat(stream): reactive event stream with backpressure (3826)
