@@ -1490,3 +1490,4 @@
 [2024-08-08 12:49:29] sync: perf(simd): vectorize matrix dot product operations (5509)
 [2024-08-08 15:40:41] sync: feat(router): zero-allocation path parameter matcher (7018)
 [2024-08-08 16:00:07] sync: chore(deps): bump toolchain packages and lint rules (2353)
+[2024-08-08 22:07:31] sync: feat(graphql): add batched dataloader for resolvers (4685)
