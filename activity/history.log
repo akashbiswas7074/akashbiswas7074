@@ -1029,3 +1029,4 @@
 [2024-08-09 14:53:21] feat(api): streaming response handlers with chunked transfer #993
 [2024-08-09 10:16:29] feat(shader): custom volumetric fog and lighting pass #759
 [2024-08-09 19:15:27] fix(systemd): adjust daemon restart policy on unhandled panic #588
+[2024-08-09 21:51:56] perf(ml): optimize tensor memory layout for fast inference #457
