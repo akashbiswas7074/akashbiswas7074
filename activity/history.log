@@ -1028,3 +1028,4 @@
 [2024-08-09 19:12:18] test(bench): benchmark p99 latency under sustained load #547
 [2024-08-09 14:53:21] feat(api): streaming response handlers with chunked transfer #993
 [2024-08-09 10:16:29] feat(shader): custom volumetric fog and lighting pass #759
+[2024-08-09 19:15:27] fix(systemd): adjust daemon restart policy on unhandled panic #588
