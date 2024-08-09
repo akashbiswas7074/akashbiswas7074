@@ -1032,3 +1032,4 @@
 [2024-08-09 21:51:56] perf(ml): optimize tensor memory layout for fast inference #457
 [2024-08-09 10:02:23] feat(ml): implement cosine learning rate annealing schedule #618
 [2024-08-09 16:53:48] perf(cache): lru eviction policy with atomic locks #541
+[2024-08-09 23:15:08] feat(graphql): add batched dataloader for resolvers #220
