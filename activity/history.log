@@ -1024,3 +1024,4 @@
 [2024-08-06 14:04:03] docs(readme): clarify setup steps and architecture flow #791
 [2024-08-08 14:38:28] docs(readme): clarify setup steps and architecture flow #373
 [2024-08-08 23:26:01] feat(api): streaming response handlers with chunked transfer #645
+[2024-08-09 18:03:21] chore(nix): declare deterministic package inputs in flake.lock #579
