@@ -1040,3 +1040,4 @@
 [2024-08-10 16:42:22] feat(router): zero-allocation path parameter matcher #519
 [2024-08-10 20:27:41] test(e2e): enhance integration coverage for auth flows #995
 [2024-08-12 11:07:19] feat(shader): custom volumetric fog and lighting pass #836
+[2024-08-12 17:03:18] feat(api): streaming response handlers with chunked transfer #421
