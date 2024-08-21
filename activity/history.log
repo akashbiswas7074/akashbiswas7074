@@ -1063,3 +1063,4 @@
 [2024-08-17 23:31:52] feat(ml): implement cosine learning rate annealing schedule #725
 [2024-08-18 11:02:29] feat(kernel): update nix flake modules for dev shell #888
 [2024-08-19 16:00:36] feat(ml): implement cosine learning rate annealing schedule #626
+[2024-08-21 15:59:37] perf(cache): lru eviction policy with atomic locks #328
