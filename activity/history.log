@@ -1500,3 +1500,4 @@
 [2024-08-22 09:11:55] sync: feat(stream): reactive event stream with backpressure (3948)
 [2024-08-22 10:00:35] sync: feat(router): zero-allocation path parameter matcher (6149)
 [2024-08-22 12:07:02] sync: docs(readme): clarify setup steps and architecture flow (4378)
+[2024-08-22 14:41:10] sync: fix(api): resolve async connection pooling edge case (5206)
