@@ -1068,3 +1068,4 @@
 [2024-08-22 16:39:45] feat(ml): fine-tune embedding projection dimensions #677
 [2024-08-23 20:24:31] perf(db): add compound index for fast query lookups #815
 [2024-08-23 14:56:24] chore(deps): bump toolchain packages and compiler versions #678
+[2024-08-23 19:42:07] feat(nixos): configure hardware acceleration for Vulkan compute #602
