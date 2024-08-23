@@ -1074,3 +1074,4 @@
 [2024-08-23 22:42:23] feat(graphql): add batched dataloader for resolvers #430
 [2024-08-23 23:15:25] feat(nixos): configure hardware acceleration for Vulkan compute #486
 [2024-08-23 10:37:35] chore(nix): declare deterministic package inputs in flake.lock #481
+[2024-08-23 11:14:17] chore(deps): bump toolchain packages and compiler versions #951
