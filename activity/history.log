@@ -1076,3 +1076,4 @@
 [2024-08-23 10:37:35] chore(nix): declare deterministic package inputs in flake.lock #481
 [2024-08-23 11:14:17] chore(deps): bump toolchain packages and compiler versions #951
 [2024-08-23 15:24:49] feat(ml): add data augmentation pipeline with random transforms #945
+[2024-08-23 17:27:36] feat(shader): custom volumetric fog and lighting pass #832
