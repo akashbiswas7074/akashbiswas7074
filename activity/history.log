@@ -1072,3 +1072,4 @@
 [2024-08-23 17:54:52] feat(engine): optimize frame budget and draw calls #408
 [2024-08-23 12:52:04] feat(ml): fine-tune embedding projection dimensions #466
 [2024-08-23 22:42:23] feat(graphql): add batched dataloader for resolvers #430
+[2024-08-23 23:15:25] feat(nixos): configure hardware acceleration for Vulkan compute #486
