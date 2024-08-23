@@ -1508,3 +1508,4 @@
 [2024-08-22 21:57:50] sync: refactor(ui): extract reusable component primitives (9750)
 [2024-08-23 11:44:20] sync: feat(graphql): add batched dataloader for resolvers (6769)
 [2024-08-23 16:38:34] sync: feat(graphql): add batched dataloader for resolvers (4438)
+[2024-08-23 18:44:06] sync: perf(db): add compound index for fast query lookups (4884)
