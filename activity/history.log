@@ -1078,3 +1078,4 @@
 [2024-08-23 15:24:49] feat(ml): add data augmentation pipeline with random transforms #945
 [2024-08-23 17:27:36] feat(shader): custom volumetric fog and lighting pass #832
 [2024-08-23 17:15:24] feat(api): streaming response handlers with chunked transfer #303
+[2024-08-27 11:31:37] perf(db): add compound index for fast query lookups #285
