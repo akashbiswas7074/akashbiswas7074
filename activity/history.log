@@ -1080,3 +1080,4 @@
 [2024-08-23 17:15:24] feat(api): streaming response handlers with chunked transfer #303
 [2024-08-27 11:31:37] perf(db): add compound index for fast query lookups #285
 [2024-08-27 19:23:44] perf(ui): memoize heavy component renders and reduce re-flows #787
+[2024-08-28 14:02:08] feat(ml): add multi-head cross-attention layer #914
