@@ -1087,3 +1087,4 @@
 [2024-08-29 15:32:51] perf(ml): quantize model weights to int8 for edge deployment #377
 [2024-08-29 12:39:14] perf(ml): optimize tensor memory layout for fast inference #335
 [2024-08-29 12:42:39] feat(engine): optimize frame budget and draw calls #992
+[2024-08-29 15:39:25] fix(memory): patch dangling pointer in audio pipeline #332
