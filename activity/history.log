@@ -1085,3 +1085,4 @@
 [2024-08-29 15:52:34] feat(shader): custom volumetric fog and lighting pass #354
 [2024-08-29 15:02:59] feat(ui): responsive layout components and dynamic styling #625
 [2024-08-29 15:32:51] perf(ml): quantize model weights to int8 for edge deployment #377
+[2024-08-29 12:39:14] perf(ml): optimize tensor memory layout for fast inference #335
