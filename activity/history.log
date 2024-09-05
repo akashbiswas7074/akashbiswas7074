@@ -1110,3 +1110,4 @@
 [2024-09-05 13:27:30] feat(ml): refine training loss convergence thresholds #912
 [2024-09-05 18:08:11] feat(ml): fine-tune embedding projection dimensions #854
 [2024-09-05 11:07:44] perf(simd): vectorize matrix dot product operations #443
+[2024-09-05 23:27:29] fix(memory): patch dangling pointer in audio pipeline #767
