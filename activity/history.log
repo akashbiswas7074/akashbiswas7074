@@ -1107,3 +1107,4 @@
 [2024-09-05 23:57:04] feat(ml): implement attention mechanism in transformer layer #156
 [2024-09-05 21:20:35] feat(ml): implement attention mechanism in transformer layer #440
 [2024-09-05 18:20:09] feat(shader): custom volumetric fog and lighting pass #590
+[2024-09-05 13:27:30] feat(ml): refine training loss convergence thresholds #912
