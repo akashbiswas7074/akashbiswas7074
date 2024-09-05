@@ -1532,3 +1532,4 @@
 [2024-09-04 15:11:22] sync: perf(gc): reduce object allocation overhead in hot loop (7597)
 [2024-09-04 21:30:37] sync: docs(readme): clarify setup steps and architecture flow (5244)
 [2024-09-05 09:32:45] sync: docs(readme): clarify setup steps and architecture flow (3070)
+[2024-09-05 19:09:24] sync: test(bench): benchmark p99 latency under sustained load (5380)
