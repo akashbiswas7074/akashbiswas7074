@@ -1534,3 +1534,4 @@
 [2024-09-05 09:32:45] sync: docs(readme): clarify setup steps and architecture flow (3070)
 [2024-09-05 19:09:24] sync: test(bench): benchmark p99 latency under sustained load (5380)
 [2024-09-06 09:43:38] sync: chore(ci): parallelize test runner workflow matrix (8500)
+[2024-09-06 12:11:28] sync: feat(crypto): add ed25519 signature verification (8678)
