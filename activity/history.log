@@ -1115,3 +1115,4 @@
 [2024-09-05 13:36:26] perf(simd): vectorize matrix dot product operations #452
 [2024-09-06 11:40:10] chore(nix): declare deterministic package inputs in flake.lock #841
 [2024-09-06 14:12:08] test(bench): benchmark p99 latency under sustained load #454
+[2024-09-06 14:37:02] fix(memory): patch dangling pointer in audio pipeline #773
