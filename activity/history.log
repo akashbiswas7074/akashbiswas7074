@@ -1549,3 +1549,4 @@
 [2024-09-09 17:02:38] sync: feat(router): zero-allocation path parameter matcher (3761)
 [2024-09-09 18:43:59] sync: feat(graphql): add batched dataloader for resolvers (4687)
 [2024-09-09 19:11:04] sync: feat(crypto): add ed25519 signature verification (3184)
+[2024-09-09 20:32:22] sync: perf(db): add compound index for fast query lookups (7925)
