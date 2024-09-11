@@ -1557,3 +1557,4 @@
 [2024-09-10 17:13:59] sync: refactor(ui): extract reusable component primitives (9446)
 [2024-09-10 19:52:57] sync: perf(db): add compound index for fast query lookups (8586)
 [2024-09-11 09:22:00] sync: feat(stream): reactive event stream with backpressure (8542)
+[2024-09-11 16:21:19] sync: feat(crypto): add ed25519 signature verification (2755)
