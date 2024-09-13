@@ -1560,3 +1560,4 @@
 [2024-09-11 16:21:19] sync: feat(crypto): add ed25519 signature verification (2755)
 [2024-09-11 18:00:22] sync: feat(kernel): update nix flake modules for dev shell (7587)
 [2024-09-12 14:00:06] sync: chore(ci): parallelize test runner workflow matrix (9061)
+[2024-09-13 10:26:07] sync: fix(concurrency): lock contention in task scheduler (1113)
