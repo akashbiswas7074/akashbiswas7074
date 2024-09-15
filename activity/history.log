@@ -1134,3 +1134,4 @@
 [2024-09-12 18:16:13] test(bench): benchmark p99 latency under sustained load #492
 [2024-09-12 21:50:36] perf(db): add compound index for fast query lookups #324
 [2024-09-12 18:44:49] feat(router): zero-allocation path parameter matcher #553
+[2024-09-15 12:51:16] fix(memory): patch dangling pointer in audio pipeline #937
