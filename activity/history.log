@@ -1141,3 +1141,4 @@
 [2024-09-15 13:57:14] chore(deps): bump toolchain packages and compiler versions #872
 [2024-09-15 18:01:16] chore(deps): bump toolchain packages and compiler versions #467
 [2024-09-15 15:23:03] feat(router): zero-allocation path parameter matcher #820
+[2024-09-16 13:05:18] feat(engine): optimize frame budget and draw calls #153
