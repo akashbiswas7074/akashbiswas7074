@@ -1150,3 +1150,4 @@
 [2024-09-17 12:40:11] fix(state): handle disconnected websocket re-subscription #993
 [2024-09-17 22:17:53] feat(router): zero-allocation path parameter matcher #501
 [2024-09-17 11:36:10] feat(engine): optimize frame budget and draw calls #856
+[2024-09-17 22:42:01] perf(simd): vectorize matrix dot product operations #818
