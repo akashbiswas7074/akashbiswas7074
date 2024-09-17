@@ -1149,3 +1149,4 @@
 [2024-09-17 18:30:33] chore(deps): bump toolchain packages and compiler versions #465
 [2024-09-17 12:40:11] fix(state): handle disconnected websocket re-subscription #993
 [2024-09-17 22:17:53] feat(router): zero-allocation path parameter matcher #501
+[2024-09-17 11:36:10] feat(engine): optimize frame budget and draw calls #856
