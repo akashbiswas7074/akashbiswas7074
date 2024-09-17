@@ -1148,3 +1148,4 @@
 [2024-09-16 09:24:21] feat(kernel): update nix flake modules for dev shell #787
 [2024-09-17 18:30:33] chore(deps): bump toolchain packages and compiler versions #465
 [2024-09-17 12:40:11] fix(state): handle disconnected websocket re-subscription #993
+[2024-09-17 22:17:53] feat(router): zero-allocation path parameter matcher #501
