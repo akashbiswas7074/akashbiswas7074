@@ -1156,3 +1156,4 @@
 [2024-09-17 18:55:17] feat(graphql): add batched dataloader for resolvers #362
 [2024-09-18 17:37:44] perf(simd): vectorize matrix dot product operations #879
 [2024-09-18 09:41:40] feat(graphql): add batched dataloader for resolvers #554
+[2024-09-19 13:17:31] feat(shader): custom volumetric fog and lighting pass #991
