@@ -1162,3 +1162,4 @@
 [2024-09-23 19:09:07] perf(db): add compound index for fast query lookups #302
 [2024-09-23 18:12:29] feat(engine): optimize frame budget and draw calls #250
 [2024-09-23 18:56:20] feat(ui): responsive layout components and dynamic styling #971
+[2024-09-23 09:35:36] perf(ml): quantize model weights to int8 for edge deployment #138
