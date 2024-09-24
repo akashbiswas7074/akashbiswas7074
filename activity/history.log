@@ -1165,3 +1165,4 @@
 [2024-09-23 09:35:36] perf(ml): quantize model weights to int8 for edge deployment #138
 [2024-09-24 23:00:08] perf(ml): optimize tensor memory layout for fast inference #755
 [2024-09-24 18:36:18] feat(nixos): configure hardware acceleration for Vulkan compute #125
+[2024-09-24 11:59:29] perf(ml): quantize model weights to int8 for edge deployment #745
