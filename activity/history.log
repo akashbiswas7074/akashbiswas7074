@@ -1171,3 +1171,4 @@
 [2024-09-25 10:00:49] chore(deps): bump toolchain packages and compiler versions #938
 [2024-09-25 18:42:28] perf(ui): memoize heavy component renders and reduce re-flows #962
 [2024-09-25 23:49:53] chore(deps): bump toolchain packages and compiler versions #815
+[2024-09-25 21:18:38] feat(shader): custom volumetric fog and lighting pass #456
