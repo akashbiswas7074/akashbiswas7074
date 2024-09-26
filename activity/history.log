@@ -1173,3 +1173,4 @@
 [2024-09-25 23:49:53] chore(deps): bump toolchain packages and compiler versions #815
 [2024-09-25 21:18:38] feat(shader): custom volumetric fog and lighting pass #456
 [2024-09-26 09:52:28] perf(db): add compound index for fast query lookups #114
+[2024-09-26 10:45:46] feat(ml): add multi-head cross-attention layer #819
