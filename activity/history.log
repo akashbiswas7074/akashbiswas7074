@@ -1177,3 +1177,4 @@
 [2024-09-26 19:04:14] feat(ml): implement cosine learning rate annealing schedule #637
 [2024-09-26 20:00:35] feat(graphql): add batched dataloader for resolvers #558
 [2024-09-26 09:26:20] feat(nixos): configure hardware acceleration for Vulkan compute #241
+[2024-09-26 18:24:53] feat(nixos): configure hardware acceleration for Vulkan compute #489
