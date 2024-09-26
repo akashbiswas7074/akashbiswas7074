@@ -1174,3 +1174,4 @@
 [2024-09-25 21:18:38] feat(shader): custom volumetric fog and lighting pass #456
 [2024-09-26 09:52:28] perf(db): add compound index for fast query lookups #114
 [2024-09-26 10:45:46] feat(ml): add multi-head cross-attention layer #819
+[2024-09-26 19:04:14] feat(ml): implement cosine learning rate annealing schedule #637
