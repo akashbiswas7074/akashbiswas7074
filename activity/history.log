@@ -1179,3 +1179,4 @@
 [2024-09-26 09:26:20] feat(nixos): configure hardware acceleration for Vulkan compute #241
 [2024-09-26 18:24:53] feat(nixos): configure hardware acceleration for Vulkan compute #489
 [2024-09-26 14:11:23] feat(ui): responsive layout components and dynamic styling #266
+[2024-09-30 11:02:15] feat(engine): optimize frame budget and draw calls #465
