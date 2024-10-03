@@ -1606,3 +1606,4 @@
 [2024-10-03 16:58:27] sync: fix(api): resolve async connection pooling edge case (8910)
 [2024-10-03 17:26:33] sync: feat(graphql): add batched dataloader for resolvers (1358)
 [2024-10-03 18:10:38] sync: perf(cache): lru eviction policy with atomic locks (3112)
+[2024-10-03 20:18:02] sync: test(bench): benchmark p99 latency under sustained load (1996)
