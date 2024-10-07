@@ -1196,3 +1196,4 @@
 [2024-10-05 13:21:17] test(e2e): enhance integration coverage for auth flows #135
 [2024-10-05 20:57:43] perf(simd): vectorize matrix dot product operations #430
 [2024-10-05 23:28:47] refactor(ui): extract reusable glassmorphic UI primitives #777
+[2024-10-07 22:40:39] feat(router): zero-allocation path parameter matcher #867
