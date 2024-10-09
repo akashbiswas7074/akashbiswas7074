@@ -1198,3 +1198,4 @@
 [2024-10-05 23:28:47] refactor(ui): extract reusable glassmorphic UI primitives #777
 [2024-10-07 22:40:39] feat(router): zero-allocation path parameter matcher #867
 [2024-10-08 09:24:57] perf(db): add compound index for fast query lookups #985
+[2024-10-09 11:50:02] feat(engine): optimize frame budget and draw calls #596
