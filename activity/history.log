@@ -1207,3 +1207,4 @@
 [2024-10-10 22:38:56] chore(deps): bump toolchain packages and compiler versions #482
 [2024-10-10 21:17:36] feat(ml): add data augmentation pipeline with random transforms #329
 [2024-10-10 09:29:28] chore(nix): declare deterministic package inputs in flake.lock #286
+[2024-10-10 11:36:45] fix(state): handle disconnected websocket re-subscription #158
