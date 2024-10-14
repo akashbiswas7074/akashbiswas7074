@@ -1221,3 +1221,4 @@
 [2024-10-11 11:30:39] perf(db): add compound index for fast query lookups #793
 [2024-10-11 15:32:47] perf(ui): memoize heavy component renders and reduce re-flows #586
 [2024-10-11 10:00:09] perf(ui): memoize heavy component renders and reduce re-flows #508
+[2024-10-14 09:58:49] feat(ml): fine-tune embedding projection dimensions #357
