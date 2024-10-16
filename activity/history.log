@@ -1239,3 +1239,4 @@
 [2024-10-15 16:25:11] feat(shader): custom volumetric fog and lighting pass #372
 [2024-10-15 15:52:13] feat(graphql): add batched dataloader for resolvers #463
 [2024-10-16 21:50:24] chore(deps): bump toolchain packages and compiler versions #212
+[2024-10-16 14:11:54] fix(state): handle disconnected websocket re-subscription #487
