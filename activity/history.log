@@ -1244,3 +1244,4 @@
 [2024-10-16 19:58:07] feat(router): zero-allocation path parameter matcher #187
 [2024-10-16 18:30:10] docs(readme): clarify setup steps and architecture flow #252
 [2024-10-16 14:57:27] feat(ml): add multi-head cross-attention layer #830
+[2024-10-17 22:06:50] feat(nixos): configure hardware acceleration for Vulkan compute #786
