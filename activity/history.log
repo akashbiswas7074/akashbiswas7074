@@ -1246,3 +1246,4 @@
 [2024-10-16 14:57:27] feat(ml): add multi-head cross-attention layer #830
 [2024-10-17 22:06:50] feat(nixos): configure hardware acceleration for Vulkan compute #786
 [2024-10-17 23:31:09] refactor(ui): extract reusable glassmorphic UI primitives #504
+[2024-10-18 13:57:51] feat(shader): custom volumetric fog and lighting pass #536
