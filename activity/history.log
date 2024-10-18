@@ -1247,3 +1247,4 @@
 [2024-10-17 22:06:50] feat(nixos): configure hardware acceleration for Vulkan compute #786
 [2024-10-17 23:31:09] refactor(ui): extract reusable glassmorphic UI primitives #504
 [2024-10-18 13:57:51] feat(shader): custom volumetric fog and lighting pass #536
+[2024-10-18 12:14:55] feat(shader): custom volumetric fog and lighting pass #470
