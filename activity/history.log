@@ -1655,3 +1655,4 @@
 [2024-10-16 10:33:21] sync: feat(stream): reactive event stream with backpressure (3971)
 [2024-10-16 14:43:27] sync: docs(readme): clarify setup steps and architecture flow (5940)
 [2024-10-16 22:39:52] sync: refactor(ui): extract reusable component primitives (6707)
+[2024-10-20 10:58:31] sync: feat(crypto): add ed25519 signature verification (5348)
