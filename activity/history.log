@@ -1657,3 +1657,4 @@
 [2024-10-16 22:39:52] sync: refactor(ui): extract reusable component primitives (6707)
 [2024-10-20 10:58:31] sync: feat(crypto): add ed25519 signature verification (5348)
 [2024-10-20 13:51:58] sync: fix(api): resolve async connection pooling edge case (1035)
+[2024-10-21 11:09:20] sync: docs(readme): clarify setup steps and architecture flow (7399)
