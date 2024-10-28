@@ -1263,3 +1263,4 @@
 [2024-10-28 11:33:09] perf(cache): lru eviction policy with atomic locks #531
 [2024-10-28 20:14:48] perf(ml): optimize tensor memory layout for fast inference #379
 [2024-10-28 23:18:35] feat(ml): fine-tune embedding projection dimensions #184
+[2024-10-28 11:08:35] feat(router): zero-allocation path parameter matcher #449
