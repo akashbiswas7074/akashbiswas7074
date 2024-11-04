@@ -1691,3 +1691,4 @@
 [2024-11-03 19:11:52] sync: perf(gc): reduce object allocation overhead in hot loop (2264)
 [2024-11-03 20:52:44] sync: feat(router): zero-allocation path parameter matcher (8821)
 [2024-11-03 22:20:41] sync: perf(simd): vectorize matrix dot product operations (7233)
+[2024-11-04 11:03:51] sync: feat(crypto): add ed25519 signature verification (7950)
