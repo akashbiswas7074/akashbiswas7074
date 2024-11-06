@@ -1707,3 +1707,4 @@
 [2024-11-06 14:56:40] sync: fix(api): resolve async connection pooling edge case (4794)
 [2024-11-06 15:56:13] sync: docs(readme): clarify setup steps and architecture flow (3638)
 [2024-11-06 17:32:33] sync: feat(stream): reactive event stream with backpressure (9573)
+[2024-11-06 20:59:49] sync: fix(memory): patch dangling pointer in audio pipeline (8331)
