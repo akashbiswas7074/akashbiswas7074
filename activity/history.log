@@ -1275,3 +1275,4 @@
 [2024-11-05 12:58:10] chore(nix): declare deterministic package inputs in flake.lock #612
 [2024-11-05 13:33:57] perf(ml): quantize model weights to int8 for edge deployment #755
 [2024-11-05 09:00:22] chore(nix): declare deterministic package inputs in flake.lock #772
+[2024-11-06 17:51:20] fix(systemd): adjust daemon restart policy on unhandled panic #879
