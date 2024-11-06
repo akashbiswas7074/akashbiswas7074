@@ -1705,3 +1705,4 @@
 [2024-11-06 12:37:55] sync: perf(db): add compound index for fast query lookups (5753)
 [2024-11-06 13:10:09] sync: feat(router): zero-allocation path parameter matcher (2290)
 [2024-11-06 14:56:40] sync: fix(api): resolve async connection pooling edge case (4794)
+[2024-11-06 15:56:13] sync: docs(readme): clarify setup steps and architecture flow (3638)
