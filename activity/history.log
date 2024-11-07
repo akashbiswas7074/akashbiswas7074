@@ -1713,3 +1713,4 @@
 [2024-11-07 12:13:39] sync: feat(stream): reactive event stream with backpressure (2228)
 [2024-11-07 15:09:36] sync: fix(concurrency): lock contention in task scheduler (2595)
 [2024-11-07 19:51:00] sync: docs(readme): clarify setup steps and architecture flow (6071)
+[2024-11-07 20:35:55] sync: fix(api): resolve async connection pooling edge case (9174)
