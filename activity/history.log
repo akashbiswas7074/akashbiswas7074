@@ -1712,3 +1712,4 @@
 [2024-11-06 22:23:39] sync: chore(ci): parallelize test runner workflow matrix (1655)
 [2024-11-07 12:13:39] sync: feat(stream): reactive event stream with backpressure (2228)
 [2024-11-07 15:09:36] sync: fix(concurrency): lock contention in task scheduler (2595)
+[2024-11-07 19:51:00] sync: docs(readme): clarify setup steps and architecture flow (6071)
