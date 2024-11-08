@@ -1718,3 +1718,4 @@
 [2024-11-08 10:23:22] sync: fix(api): resolve async connection pooling edge case (2165)
 [2024-11-08 11:11:45] sync: feat(router): zero-allocation path parameter matcher (5226)
 [2024-11-08 13:30:16] sync: feat(router): zero-allocation path parameter matcher (3301)
+[2024-11-08 18:07:36] sync: fix(concurrency): lock contention in task scheduler (1648)
