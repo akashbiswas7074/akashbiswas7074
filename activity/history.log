@@ -1288,3 +1288,4 @@
 [2024-11-11 13:11:41] perf(simd): vectorize matrix dot product operations #792
 [2024-11-11 14:53:48] feat(kernel): update nix flake modules for dev shell #969
 [2024-11-11 15:52:14] chore(nix): declare deterministic package inputs in flake.lock #591
+[2024-11-12 20:00:06] feat(nixos): configure hardware acceleration for Vulkan compute #272
