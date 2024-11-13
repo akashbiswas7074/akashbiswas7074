@@ -1293,3 +1293,4 @@
 [2024-11-12 22:57:29] perf(cache): lru eviction policy with atomic locks #748
 [2024-11-12 18:54:25] fix(systemd): adjust daemon restart policy on unhandled panic #604
 [2024-11-12 10:59:31] feat(api): streaming response handlers with chunked transfer #261
+[2024-11-13 13:16:36] fix(memory): patch dangling pointer in audio pipeline #998
