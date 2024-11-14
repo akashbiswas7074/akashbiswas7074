@@ -1733,3 +1733,4 @@
 [2024-11-14 11:21:38] sync: fix(concurrency): lock contention in task scheduler (4483)
 [2024-11-14 12:44:47] sync: fix(concurrency): lock contention in task scheduler (2873)
 [2024-11-14 15:17:29] sync: perf(db): add compound index for fast query lookups (9930)
+[2024-11-14 18:09:30] sync: docs(readme): clarify setup steps and architecture flow (4497)
