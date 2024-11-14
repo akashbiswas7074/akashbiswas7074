@@ -1735,3 +1735,4 @@
 [2024-11-14 15:17:29] sync: perf(db): add compound index for fast query lookups (9930)
 [2024-11-14 18:09:30] sync: docs(readme): clarify setup steps and architecture flow (4497)
 [2024-11-14 21:20:36] sync: perf(db): add compound index for fast query lookups (7230)
+[2024-11-14 22:03:59] sync: feat(crypto): add ed25519 signature verification (8046)
