@@ -1312,3 +1312,4 @@
 [2024-11-21 10:47:49] perf(db): add compound index for fast query lookups #564
 [2024-11-24 15:07:15] feat(graphql): add batched dataloader for resolvers #488
 [2024-11-24 11:55:00] feat(shader): custom volumetric fog and lighting pass #111
+[2024-11-24 15:23:20] perf(ml): quantize model weights to int8 for edge deployment #954
