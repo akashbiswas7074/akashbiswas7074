@@ -1765,3 +1765,4 @@
 [2024-11-25 10:41:01] sync: feat(stream): reactive event stream with backpressure (7738)
 [2024-11-25 13:06:31] sync: feat(stream): reactive event stream with backpressure (9924)
 [2024-11-25 15:06:40] sync: feat(router): zero-allocation path parameter matcher (9247)
+[2024-11-25 19:37:51] sync: perf(db): add compound index for fast query lookups (5749)
