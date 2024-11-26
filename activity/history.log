@@ -1314,3 +1314,4 @@
 [2024-11-24 11:55:00] feat(shader): custom volumetric fog and lighting pass #111
 [2024-11-24 15:23:20] perf(ml): quantize model weights to int8 for edge deployment #954
 [2024-11-26 23:16:47] feat(ml): implement attention mechanism in transformer layer #507
+[2024-11-26 21:04:58] feat(ml): refine training loss convergence thresholds #194
