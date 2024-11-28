@@ -1330,3 +1330,4 @@
 [2024-11-28 09:49:21] feat(kernel): update nix flake modules for dev shell #131
 [2024-11-28 16:41:48] docs(readme): clarify setup steps and architecture flow #453
 [2024-11-28 23:17:21] feat(ml): implement attention mechanism in transformer layer #221
+[2024-11-28 10:07:55] feat(ml): implement cosine learning rate annealing schedule #627
