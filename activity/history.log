@@ -1328,3 +1328,4 @@
 [2024-11-26 17:28:43] feat(ml): add data augmentation pipeline with random transforms #530
 [2024-11-26 11:27:14] fix(memory): patch dangling pointer in audio pipeline #305
 [2024-11-28 09:49:21] feat(kernel): update nix flake modules for dev shell #131
+[2024-11-28 16:41:48] docs(readme): clarify setup steps and architecture flow #453
