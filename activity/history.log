@@ -1781,3 +1781,4 @@
 [2024-11-28 22:51:59] sync: test(bench): benchmark p99 latency under sustained load (8030)
 [2024-11-29 11:46:11] sync: perf(simd): vectorize matrix dot product operations (6212)
 [2024-11-29 15:33:10] sync: chore(ci): parallelize test runner workflow matrix (4784)
+[2024-11-29 19:06:45] sync: docs(readme): clarify setup steps and architecture flow (9261)
