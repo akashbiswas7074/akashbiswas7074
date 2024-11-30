@@ -1336,3 +1336,4 @@
 [2024-11-30 12:02:23] perf(ml): quantize model weights to int8 for edge deployment #576
 [2024-11-30 15:32:00] feat(ml): add multi-head cross-attention layer #876
 [2024-11-30 16:44:53] perf(ui): memoize heavy component renders and reduce re-flows #375
+[2024-11-30 22:32:03] refactor(ui): extract reusable glassmorphic UI primitives #741
