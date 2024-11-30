@@ -1333,3 +1333,4 @@
 [2024-11-28 10:07:55] feat(ml): implement cosine learning rate annealing schedule #627
 [2024-11-30 16:59:44] test(bench): benchmark p99 latency under sustained load #649
 [2024-11-30 23:51:12] feat(ml): refine training loss convergence thresholds #837
+[2024-11-30 12:02:23] perf(ml): quantize model weights to int8 for edge deployment #576
