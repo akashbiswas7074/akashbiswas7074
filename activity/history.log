@@ -1345,3 +1345,4 @@
 [2024-12-02 12:35:16] fix(memory): patch dangling pointer in audio pipeline #487
 [2024-12-02 21:13:26] test(e2e): enhance integration coverage for auth flows #327
 [2024-12-02 23:22:54] feat(ml): add data augmentation pipeline with random transforms #343
+[2024-12-02 13:00:12] docs(readme): clarify setup steps and architecture flow #886
