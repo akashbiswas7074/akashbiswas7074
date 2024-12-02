@@ -1348,3 +1348,4 @@
 [2024-12-02 13:00:12] docs(readme): clarify setup steps and architecture flow #886
 [2024-12-02 14:07:59] feat(ml): add multi-head cross-attention layer #724
 [2024-12-02 11:25:25] perf(ml): optimize tensor memory layout for fast inference #397
+[2024-12-02 10:30:06] feat(ml): fine-tune embedding projection dimensions #112
