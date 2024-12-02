@@ -1342,3 +1342,4 @@
 [2024-11-30 23:33:20] feat(ui): responsive layout components and dynamic styling #287
 [2024-11-30 14:07:48] refactor(ui): extract reusable glassmorphic UI primitives #160
 [2024-11-30 09:11:40] feat(graphql): add batched dataloader for resolvers #369
+[2024-12-02 12:35:16] fix(memory): patch dangling pointer in audio pipeline #487
