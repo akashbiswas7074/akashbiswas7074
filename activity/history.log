@@ -1354,3 +1354,4 @@
 [2024-12-06 19:01:03] feat(ml): refine training loss convergence thresholds #170
 [2024-12-06 16:46:01] perf(ml): quantize model weights to int8 for edge deployment #234
 [2024-12-09 16:06:50] feat(kernel): update nix flake modules for dev shell #930
+[2024-12-09 13:19:32] feat(router): zero-allocation path parameter matcher #916
