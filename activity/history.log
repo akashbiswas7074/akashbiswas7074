@@ -1361,3 +1361,4 @@
 [2024-12-10 15:58:13] feat(kernel): update nix flake modules for dev shell #883
 [2024-12-10 14:36:08] feat(nixos): configure hardware acceleration for Vulkan compute #817
 [2024-12-10 12:29:13] perf(cache): lru eviction policy with atomic locks #254
+[2024-12-10 12:58:59] perf(ui): memoize heavy component renders and reduce re-flows #723
