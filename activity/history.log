@@ -1818,3 +1818,4 @@
 [2024-12-10 20:10:56] sync: perf(db): add compound index for fast query lookups (9378)
 [2024-12-10 22:16:37] sync: chore(ci): parallelize test runner workflow matrix (5808)
 [2024-12-11 17:22:25] sync: feat(engine): optimize frame budget and draw calls (2878)
+[2024-12-11 18:11:51] sync: fix(memory): patch dangling pointer in audio pipeline (8035)
