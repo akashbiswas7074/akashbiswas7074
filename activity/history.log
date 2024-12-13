@@ -1828,3 +1828,4 @@
 [2024-12-12 19:06:35] sync: perf(cache): lru eviction policy with atomic locks (2225)
 [2024-12-12 20:36:57] sync: chore(ci): parallelize test runner workflow matrix (8130)
 [2024-12-13 09:17:26] sync: chore(deps): bump toolchain packages and lint rules (3033)
+[2024-12-13 12:28:10] sync: feat(stream): reactive event stream with backpressure (6355)
