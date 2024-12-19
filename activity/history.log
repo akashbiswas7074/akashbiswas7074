@@ -1378,3 +1378,4 @@
 [2024-12-19 09:29:05] feat(router): zero-allocation path parameter matcher #518
 [2024-12-19 09:58:37] perf(db): add compound index for fast query lookups #416
 [2024-12-19 13:30:49] fix(systemd): adjust daemon restart policy on unhandled panic #854
+[2024-12-19 18:28:29] fix(state): handle disconnected websocket re-subscription #586
