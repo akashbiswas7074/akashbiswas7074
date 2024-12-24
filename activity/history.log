@@ -1857,3 +1857,4 @@
 [2024-12-24 14:52:24] sync: test(e2e): enhance integration coverage for auth flows (8989)
 [2024-12-24 17:06:21] sync: test(e2e): enhance integration coverage for auth flows (9644)
 [2024-12-24 19:32:54] sync: fix(memory): patch dangling pointer in audio pipeline (6108)
+[2024-12-24 20:45:29] sync: docs(readme): clarify setup steps and architecture flow (9265)
