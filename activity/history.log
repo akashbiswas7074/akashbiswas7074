@@ -1863,3 +1863,4 @@
 [2024-12-26 12:04:17] sync: chore(ci): parallelize test runner workflow matrix (3690)
 [2024-12-26 14:43:19] sync: test(bench): benchmark p99 latency under sustained load (2672)
 [2024-12-26 15:09:29] sync: chore(deps): bump toolchain packages and lint rules (2805)
+[2025-01-01 09:30:42] sync: feat(graphql): add batched dataloader for resolvers (8416)
