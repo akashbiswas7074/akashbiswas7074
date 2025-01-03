@@ -1379,3 +1379,4 @@
 [2024-12-19 09:58:37] perf(db): add compound index for fast query lookups #416
 [2024-12-19 13:30:49] fix(systemd): adjust daemon restart policy on unhandled panic #854
 [2024-12-19 18:28:29] fix(state): handle disconnected websocket re-subscription #586
+[2025-01-03 20:23:49] perf(ml): quantize model weights to int8 for edge deployment #488
