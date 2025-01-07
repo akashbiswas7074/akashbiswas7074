@@ -1407,3 +1407,4 @@
 [2025-01-07 23:48:34] docs(readme): clarify setup steps and architecture flow #994
 [2025-01-07 21:31:20] feat(ml): add multi-head cross-attention layer #355
 [2025-01-07 18:07:30] chore(deps): bump toolchain packages and compiler versions #128
+[2025-01-07 22:41:56] fix(memory): patch dangling pointer in audio pipeline #842
