@@ -1890,3 +1890,4 @@
 [2025-01-06 22:10:48] sync: docs(readme): clarify setup steps and architecture flow (2538)
 [2025-01-08 10:34:16] sync: fix(concurrency): lock contention in task scheduler (5153)
 [2025-01-08 13:23:29] sync: feat(engine): optimize frame budget and draw calls (6777)
+[2025-01-08 14:19:45] sync: fix(memory): patch dangling pointer in audio pipeline (9484)
