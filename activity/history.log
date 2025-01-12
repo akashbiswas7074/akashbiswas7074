@@ -1906,3 +1906,4 @@
 [2025-01-10 20:59:43] sync: docs(readme): clarify setup steps and architecture flow (8640)
 [2025-01-12 11:18:39] sync: perf(gc): reduce object allocation overhead in hot loop (3664)
 [2025-01-12 17:19:31] sync: refactor(ui): extract reusable component primitives (2058)
+[2025-01-12 19:51:18] sync: feat(engine): optimize frame budget and draw calls (8436)
