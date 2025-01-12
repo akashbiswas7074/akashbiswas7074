@@ -1904,3 +1904,4 @@
 [2025-01-10 14:07:27] sync: feat(router): zero-allocation path parameter matcher (6685)
 [2025-01-10 18:18:07] sync: feat(engine): optimize frame budget and draw calls (9174)
 [2025-01-10 20:59:43] sync: docs(readme): clarify setup steps and architecture flow (8640)
+[2025-01-12 11:18:39] sync: perf(gc): reduce object allocation overhead in hot loop (3664)
