@@ -1411,3 +1411,4 @@
 [2025-01-07 17:21:15] feat(ml): fine-tune embedding projection dimensions #232
 [2025-01-08 22:09:33] test(e2e): enhance integration coverage for auth flows #407
 [2025-01-12 16:37:44] perf(ml): quantize model weights to int8 for edge deployment #566
+[2025-01-12 13:04:44] feat(api): streaming response handlers with chunked transfer #667
