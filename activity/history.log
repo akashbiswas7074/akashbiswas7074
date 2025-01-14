@@ -1420,3 +1420,4 @@
 [2025-01-12 17:22:46] feat(ml): add data augmentation pipeline with random transforms #902
 [2025-01-13 20:30:54] feat(ml): add multi-head cross-attention layer #922
 [2025-01-13 20:58:46] perf(ml): optimize tensor memory layout for fast inference #530
+[2025-01-14 18:09:27] feat(nixos): configure hardware acceleration for Vulkan compute #357
