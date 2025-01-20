@@ -1935,3 +1935,4 @@
 [2025-01-20 15:44:21] sync: perf(db): add compound index for fast query lookups (2989)
 [2025-01-20 18:47:37] sync: feat(graphql): add batched dataloader for resolvers (1868)
 [2025-01-20 19:44:13] sync: feat(graphql): add batched dataloader for resolvers (3361)
+[2025-01-20 20:35:47] sync: fix(concurrency): lock contention in task scheduler (3234)
