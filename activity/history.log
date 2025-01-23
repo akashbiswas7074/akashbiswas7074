@@ -1429,3 +1429,4 @@
 [2025-01-15 20:33:35] fix(systemd): adjust daemon restart policy on unhandled panic #725
 [2025-01-21 19:18:33] feat(engine): optimize frame budget and draw calls #706
 [2025-01-23 10:34:17] perf(ml): optimize tensor memory layout for fast inference #522
+[2025-01-23 12:32:23] feat(ml): refine training loss convergence thresholds #847
