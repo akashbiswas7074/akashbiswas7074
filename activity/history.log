@@ -1428,3 +1428,4 @@
 [2025-01-15 14:45:15] docs(readme): clarify setup steps and architecture flow #299
 [2025-01-15 20:33:35] fix(systemd): adjust daemon restart policy on unhandled panic #725
 [2025-01-21 19:18:33] feat(engine): optimize frame budget and draw calls #706
+[2025-01-23 10:34:17] perf(ml): optimize tensor memory layout for fast inference #522
