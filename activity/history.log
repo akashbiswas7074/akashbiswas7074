@@ -1952,3 +1952,4 @@
 [2025-01-23 10:26:52] sync: chore(ci): parallelize test runner workflow matrix (3427)
 [2025-01-23 15:01:18] sync: feat(router): zero-allocation path parameter matcher (2968)
 [2025-01-23 16:36:24] sync: feat(engine): optimize frame budget and draw calls (5960)
+[2025-01-23 20:02:41] sync: feat(stream): reactive event stream with backpressure (8282)
