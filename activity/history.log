@@ -1440,3 +1440,4 @@
 [2025-01-27 16:04:44] perf(ui): memoize heavy component renders and reduce re-flows #158
 [2025-01-27 10:39:09] feat(ml): implement cosine learning rate annealing schedule #283
 [2025-01-27 19:29:53] feat(router): zero-allocation path parameter matcher #922
+[2025-01-27 13:47:50] fix(systemd): adjust daemon restart policy on unhandled panic #323
