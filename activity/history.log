@@ -1955,3 +1955,4 @@
 [2025-01-23 20:02:41] sync: feat(stream): reactive event stream with backpressure (8282)
 [2025-01-28 09:56:46] sync: feat(router): zero-allocation path parameter matcher (5536)
 [2025-01-28 11:00:10] sync: feat(crypto): add ed25519 signature verification (9202)
+[2025-01-28 14:54:55] sync: feat(graphql): add batched dataloader for resolvers (4453)
