@@ -1957,3 +1957,4 @@
 [2025-01-28 11:00:10] sync: feat(crypto): add ed25519 signature verification (9202)
 [2025-01-28 14:54:55] sync: feat(graphql): add batched dataloader for resolvers (4453)
 [2025-01-28 16:22:57] sync: feat(graphql): add batched dataloader for resolvers (7399)
+[2025-01-29 10:41:46] sync: test(bench): benchmark p99 latency under sustained load (6558)
