@@ -1446,3 +1446,4 @@
 [2025-01-28 17:05:47] fix(memory): patch dangling pointer in audio pipeline #193
 [2025-01-30 18:58:11] feat(graphql): add batched dataloader for resolvers #212
 [2025-01-30 15:45:29] test(bench): benchmark p99 latency under sustained load #268
+[2025-01-30 12:16:26] feat(nixos): configure hardware acceleration for Vulkan compute #901
