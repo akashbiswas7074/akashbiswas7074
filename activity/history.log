@@ -1971,3 +1971,4 @@
 [2025-01-30 18:48:26] sync: fix(api): resolve async connection pooling edge case (2014)
 [2025-01-30 19:39:16] sync: chore(deps): bump toolchain packages and lint rules (1613)
 [2025-01-30 20:54:47] sync: fix(api): resolve async connection pooling edge case (8234)
+[2025-01-30 21:48:23] sync: feat(stream): reactive event stream with backpressure (1482)
