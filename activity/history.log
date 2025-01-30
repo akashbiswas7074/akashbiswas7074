@@ -1970,3 +1970,4 @@
 [2025-01-30 16:57:56] sync: feat(kernel): update nix flake modules for dev shell (7292)
 [2025-01-30 18:48:26] sync: fix(api): resolve async connection pooling edge case (2014)
 [2025-01-30 19:39:16] sync: chore(deps): bump toolchain packages and lint rules (1613)
+[2025-01-30 20:54:47] sync: fix(api): resolve async connection pooling edge case (8234)
