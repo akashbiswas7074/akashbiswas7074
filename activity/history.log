@@ -1973,3 +1973,4 @@
 [2025-01-30 20:54:47] sync: fix(api): resolve async connection pooling edge case (8234)
 [2025-01-30 21:48:23] sync: feat(stream): reactive event stream with backpressure (1482)
 [2025-01-31 11:20:06] sync: feat(router): zero-allocation path parameter matcher (7187)
+[2025-02-06 11:16:31] sync: feat(router): zero-allocation path parameter matcher (5687)
