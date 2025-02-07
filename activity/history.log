@@ -1981,3 +1981,4 @@
 [2025-02-06 20:23:49] sync: chore(ci): parallelize test runner workflow matrix (9955)
 [2025-02-07 10:31:12] sync: test(e2e): enhance integration coverage for auth flows (8761)
 [2025-02-07 11:32:22] sync: feat(crypto): add ed25519 signature verification (3258)
+[2025-02-07 14:51:04] sync: feat(router): zero-allocation path parameter matcher (8004)
