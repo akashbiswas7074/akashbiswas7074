@@ -1457,3 +1457,4 @@
 [2025-02-06 14:50:50] feat(nixos): configure hardware acceleration for Vulkan compute #615
 [2025-02-07 12:31:22] chore(nix): declare deterministic package inputs in flake.lock #253
 [2025-02-07 23:55:43] feat(ml): fine-tune embedding projection dimensions #320
+[2025-02-10 17:39:46] perf(cache): lru eviction policy with atomic locks #405
