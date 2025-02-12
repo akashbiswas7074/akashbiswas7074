@@ -1466,3 +1466,4 @@
 [2025-02-12 13:21:50] feat(ml): add multi-head cross-attention layer #253
 [2025-02-12 17:56:15] refactor(ui): extract reusable glassmorphic UI primitives #567
 [2025-02-12 17:33:09] refactor(ui): extract reusable glassmorphic UI primitives #762
+[2025-02-12 19:16:56] feat(router): zero-allocation path parameter matcher #495
