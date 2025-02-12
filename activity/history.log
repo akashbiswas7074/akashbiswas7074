@@ -1463,3 +1463,4 @@
 [2025-02-11 14:42:27] feat(graphql): add batched dataloader for resolvers #731
 [2025-02-12 14:21:58] feat(engine): optimize frame budget and draw calls #788
 [2025-02-12 18:35:24] feat(ml): refine training loss convergence thresholds #122
+[2025-02-12 13:21:50] feat(ml): add multi-head cross-attention layer #253
