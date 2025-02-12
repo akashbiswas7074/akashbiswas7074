@@ -1467,3 +1467,4 @@
 [2025-02-12 17:56:15] refactor(ui): extract reusable glassmorphic UI primitives #567
 [2025-02-12 17:33:09] refactor(ui): extract reusable glassmorphic UI primitives #762
 [2025-02-12 19:16:56] feat(router): zero-allocation path parameter matcher #495
+[2025-02-12 20:46:49] feat(shader): custom volumetric fog and lighting pass #584
