@@ -1472,3 +1472,4 @@
 [2025-02-12 15:26:17] feat(ml): add multi-head cross-attention layer #399
 [2025-02-12 21:45:56] perf(ml): quantize model weights to int8 for edge deployment #372
 [2025-02-14 17:38:35] feat(ml): implement attention mechanism in transformer layer #117
+[2025-02-14 21:21:10] feat(router): zero-allocation path parameter matcher #782
