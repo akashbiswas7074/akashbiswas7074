@@ -1484,3 +1484,4 @@
 [2025-02-16 13:52:20] feat(kernel): update nix flake modules for dev shell #180
 [2025-02-17 16:40:36] feat(graphql): add batched dataloader for resolvers #298
 [2025-02-17 09:58:05] fix(systemd): adjust daemon restart policy on unhandled panic #964
+[2025-02-17 20:24:11] fix(systemd): adjust daemon restart policy on unhandled panic #366
