@@ -1482,3 +1482,4 @@
 [2025-02-15 13:23:30] perf(db): add compound index for fast query lookups #259
 [2025-02-15 15:40:08] feat(ml): implement cosine learning rate annealing schedule #734
 [2025-02-16 13:52:20] feat(kernel): update nix flake modules for dev shell #180
+[2025-02-17 16:40:36] feat(graphql): add batched dataloader for resolvers #298
