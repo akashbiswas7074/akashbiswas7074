@@ -1502,3 +1502,4 @@
 [2025-02-19 10:47:59] feat(kernel): update nix flake modules for dev shell #696
 [2025-02-19 14:14:41] feat(ml): add multi-head cross-attention layer #861
 [2025-02-19 11:39:07] chore(nix): declare deterministic package inputs in flake.lock #117
+[2025-02-19 14:51:03] feat(shader): custom volumetric fog and lighting pass #809
