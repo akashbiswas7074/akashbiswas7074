@@ -1505,3 +1505,4 @@
 [2025-02-19 14:51:03] feat(shader): custom volumetric fog and lighting pass #809
 [2025-02-19 13:22:06] feat(ml): implement attention mechanism in transformer layer #363
 [2025-02-19 13:03:35] perf(ml): quantize model weights to int8 for edge deployment #370
+[2025-02-19 14:04:14] feat(ml): add multi-head cross-attention layer #443
