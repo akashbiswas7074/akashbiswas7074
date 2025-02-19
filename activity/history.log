@@ -1507,3 +1507,4 @@
 [2025-02-19 13:03:35] perf(ml): quantize model weights to int8 for edge deployment #370
 [2025-02-19 14:04:14] feat(ml): add multi-head cross-attention layer #443
 [2025-02-19 22:16:45] chore(deps): bump toolchain packages and compiler versions #441
+[2025-02-19 17:57:37] feat(nixos): configure hardware acceleration for Vulkan compute #443
