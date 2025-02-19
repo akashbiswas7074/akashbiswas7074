@@ -1503,3 +1503,4 @@
 [2025-02-19 14:14:41] feat(ml): add multi-head cross-attention layer #861
 [2025-02-19 11:39:07] chore(nix): declare deterministic package inputs in flake.lock #117
 [2025-02-19 14:51:03] feat(shader): custom volumetric fog and lighting pass #809
+[2025-02-19 13:22:06] feat(ml): implement attention mechanism in transformer layer #363
