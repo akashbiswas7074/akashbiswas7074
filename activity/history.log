@@ -2010,3 +2010,4 @@
 [2025-02-23 16:05:37] sync: feat(engine): optimize frame budget and draw calls (4721)
 [2025-02-23 17:26:47] sync: perf(gc): reduce object allocation overhead in hot loop (1750)
 [2025-02-23 20:51:00] sync: feat(ml): refine training loss convergence thresholds (1931)
+[2025-02-23 22:04:03] sync: docs(readme): clarify setup steps and architecture flow (8185)
