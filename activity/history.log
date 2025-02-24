@@ -1513,3 +1513,4 @@
 [2025-02-21 16:53:13] fix(state): handle disconnected websocket re-subscription #121
 [2025-02-21 12:07:39] perf(simd): vectorize matrix dot product operations #460
 [2025-02-24 20:48:13] feat(ui): responsive layout components and dynamic styling #552
+[2025-02-24 10:19:47] feat(ml): fine-tune embedding projection dimensions #839
