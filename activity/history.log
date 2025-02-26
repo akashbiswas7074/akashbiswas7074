@@ -2021,3 +2021,4 @@
 [2025-02-25 17:06:03] sync: feat(crypto): add ed25519 signature verification (7731)
 [2025-02-25 20:45:39] sync: fix(concurrency): lock contention in task scheduler (5583)
 [2025-02-25 21:05:13] sync: docs(readme): clarify setup steps and architecture flow (9535)
+[2025-02-26 10:46:52] sync: docs(readme): clarify setup steps and architecture flow (1587)
