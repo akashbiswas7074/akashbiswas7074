@@ -2026,3 +2026,4 @@
 [2025-02-26 13:07:01] sync: fix(concurrency): lock contention in task scheduler (1553)
 [2025-02-26 14:17:17] sync: test(bench): benchmark p99 latency under sustained load (7294)
 [2025-02-26 17:19:52] sync: fix(api): resolve async connection pooling edge case (1978)
+[2025-02-26 20:17:54] sync: feat(stream): reactive event stream with backpressure (7290)
