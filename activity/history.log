@@ -2024,3 +2024,4 @@
 [2025-02-26 10:46:52] sync: docs(readme): clarify setup steps and architecture flow (1587)
 [2025-02-26 12:15:44] sync: feat(router): zero-allocation path parameter matcher (8434)
 [2025-02-26 13:07:01] sync: fix(concurrency): lock contention in task scheduler (1553)
+[2025-02-26 14:17:17] sync: test(bench): benchmark p99 latency under sustained load (7294)
