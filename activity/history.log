@@ -1528,3 +1528,4 @@
 [2025-03-03 10:16:53] feat(nixos): configure hardware acceleration for Vulkan compute #859
 [2025-03-03 12:33:03] test(e2e): enhance integration coverage for auth flows #956
 [2025-03-03 10:51:55] feat(api): streaming response handlers with chunked transfer #246
+[2025-03-03 18:01:52] feat(ml): add multi-head cross-attention layer #627
