@@ -1524,3 +1524,4 @@
 [2025-03-03 19:03:25] feat(shader): custom volumetric fog and lighting pass #385
 [2025-03-03 23:55:54] feat(ml): implement cosine learning rate annealing schedule #775
 [2025-03-03 21:31:40] feat(engine): optimize frame budget and draw calls #716
+[2025-03-03 18:09:19] perf(ml): optimize tensor memory layout for fast inference #808
