@@ -2049,3 +2049,4 @@
 [2025-03-04 14:04:28] sync: feat(kernel): update nix flake modules for dev shell (5227)
 [2025-03-04 15:49:50] sync: perf(cache): lru eviction policy with atomic locks (5252)
 [2025-03-04 18:55:31] sync: docs(readme): clarify setup steps and architecture flow (4726)
+[2025-03-04 19:40:11] sync: docs(readme): clarify setup steps and architecture flow (1812)
