@@ -1532,3 +1532,4 @@
 [2025-03-05 19:47:48] fix(systemd): adjust daemon restart policy on unhandled panic #467
 [2025-03-05 15:47:44] feat(nixos): configure hardware acceleration for Vulkan compute #581
 [2025-03-06 15:13:40] feat(ml): add data augmentation pipeline with random transforms #924
+[2025-03-06 22:09:32] docs(readme): clarify setup steps and architecture flow #202
