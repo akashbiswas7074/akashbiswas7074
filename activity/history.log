@@ -2065,3 +2065,4 @@
 [2025-03-10 10:45:49] sync: feat(graphql): add batched dataloader for resolvers (6636)
 [2025-03-10 11:13:24] sync: test(bench): benchmark p99 latency under sustained load (1534)
 [2025-03-10 13:42:46] sync: docs(readme): clarify setup steps and architecture flow (7243)
+[2025-03-10 14:48:41] sync: fix(api): resolve async connection pooling edge case (2266)
