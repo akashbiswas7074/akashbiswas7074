@@ -2068,3 +2068,4 @@
 [2025-03-10 14:48:41] sync: fix(api): resolve async connection pooling edge case (2266)
 [2025-03-10 18:59:14] sync: test(bench): benchmark p99 latency under sustained load (9249)
 [2025-03-10 21:36:40] sync: perf(gc): reduce object allocation overhead in hot loop (7849)
+[2025-03-12 10:54:56] sync: feat(graphql): add batched dataloader for resolvers (1842)
