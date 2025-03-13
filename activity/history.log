@@ -1544,3 +1544,4 @@
 [2025-03-12 17:36:03] feat(ml): refine training loss convergence thresholds #498
 [2025-03-12 23:50:02] test(bench): benchmark p99 latency under sustained load #722
 [2025-03-13 09:41:56] feat(api): streaming response handlers with chunked transfer #658
+[2025-03-13 23:37:27] docs(readme): clarify setup steps and architecture flow #980
