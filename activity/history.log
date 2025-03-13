@@ -1548,3 +1548,4 @@
 [2025-03-13 21:25:40] perf(ui): memoize heavy component renders and reduce re-flows #392
 [2025-03-13 09:10:17] feat(ml): fine-tune embedding projection dimensions #942
 [2025-03-13 19:31:02] feat(ml): implement attention mechanism in transformer layer #576
+[2025-03-13 09:01:46] perf(db): add compound index for fast query lookups #434
