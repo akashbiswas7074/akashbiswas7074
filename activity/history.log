@@ -2076,3 +2076,4 @@
 [2025-03-13 22:29:20] sync: chore(deps): bump toolchain packages and lint rules (4949)
 [2025-03-14 14:05:22] sync: perf(gc): reduce object allocation overhead in hot loop (9284)
 [2025-03-14 15:04:58] sync: feat(crypto): add ed25519 signature verification (8932)
+[2025-03-14 16:38:14] sync: feat(router): zero-allocation path parameter matcher (7862)
