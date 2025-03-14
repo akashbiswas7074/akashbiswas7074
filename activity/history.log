@@ -2077,3 +2077,4 @@
 [2025-03-14 14:05:22] sync: perf(gc): reduce object allocation overhead in hot loop (9284)
 [2025-03-14 15:04:58] sync: feat(crypto): add ed25519 signature verification (8932)
 [2025-03-14 16:38:14] sync: feat(router): zero-allocation path parameter matcher (7862)
+[2025-03-14 20:14:36] sync: docs(readme): clarify setup steps and architecture flow (9808)
