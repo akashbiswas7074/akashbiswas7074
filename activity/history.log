@@ -2086,3 +2086,4 @@
 [2025-03-16 19:48:35] sync: fix(concurrency): lock contention in task scheduler (2654)
 [2025-03-16 20:08:55] sync: perf(db): add compound index for fast query lookups (8068)
 [2025-03-16 21:01:44] sync: feat(kernel): update nix flake modules for dev shell (2196)
+[2025-03-17 11:57:27] sync: feat(crypto): add ed25519 signature verification (3088)
