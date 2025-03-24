@@ -2096,3 +2096,4 @@
 [2025-03-18 16:05:09] sync: feat(engine): optimize frame budget and draw calls (7060)
 [2025-03-18 20:43:41] sync: feat(router): zero-allocation path parameter matcher (7215)
 [2025-03-20 14:28:11] sync: feat(graphql): add batched dataloader for resolvers (5576)
+[2025-03-24 10:31:21] sync: perf(db): add compound index for fast query lookups (9481)
