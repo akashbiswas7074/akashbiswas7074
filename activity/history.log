@@ -1556,3 +1556,4 @@
 [2025-03-14 22:59:00] chore(nix): declare deterministic package inputs in flake.lock #675
 [2025-03-14 10:10:14] fix(memory): patch dangling pointer in audio pipeline #309
 [2025-03-18 16:37:30] feat(ml): add data augmentation pipeline with random transforms #305
+[2025-03-25 22:16:05] feat(engine): optimize frame budget and draw calls #653
