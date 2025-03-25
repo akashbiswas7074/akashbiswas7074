@@ -1558,3 +1558,4 @@
 [2025-03-18 16:37:30] feat(ml): add data augmentation pipeline with random transforms #305
 [2025-03-25 22:16:05] feat(engine): optimize frame budget and draw calls #653
 [2025-03-25 19:21:29] perf(ml): optimize tensor memory layout for fast inference #594
+[2025-03-25 23:43:26] feat(ml): fine-tune embedding projection dimensions #588
