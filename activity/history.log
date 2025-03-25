@@ -1559,3 +1559,4 @@
 [2025-03-25 22:16:05] feat(engine): optimize frame budget and draw calls #653
 [2025-03-25 19:21:29] perf(ml): optimize tensor memory layout for fast inference #594
 [2025-03-25 23:43:26] feat(ml): fine-tune embedding projection dimensions #588
+[2025-03-25 18:01:37] refactor(ui): extract reusable glassmorphic UI primitives #130
