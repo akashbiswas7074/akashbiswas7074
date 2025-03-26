@@ -1565,3 +1565,4 @@
 [2025-03-26 10:38:56] fix(memory): patch dangling pointer in audio pipeline #618
 [2025-03-26 11:25:16] perf(ml): optimize tensor memory layout for fast inference #623
 [2025-03-26 19:57:34] feat(api): streaming response handlers with chunked transfer #220
+[2025-03-26 15:10:32] feat(graphql): add batched dataloader for resolvers #796
