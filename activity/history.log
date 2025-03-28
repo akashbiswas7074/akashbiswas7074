@@ -2119,3 +2119,4 @@
 [2025-03-28 14:45:44] sync: fix(memory): patch dangling pointer in audio pipeline (1628)
 [2025-03-28 18:27:06] sync: feat(graphql): add batched dataloader for resolvers (6202)
 [2025-03-28 19:12:53] sync: perf(gc): reduce object allocation overhead in hot loop (1583)
+[2025-03-28 22:40:40] sync: feat(engine): optimize frame budget and draw calls (5029)
