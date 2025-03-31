@@ -1571,3 +1571,4 @@
 [2025-03-31 23:56:47] perf(ui): memoize heavy component renders and reduce re-flows #157
 [2025-03-31 10:41:48] feat(shader): custom volumetric fog and lighting pass #740
 [2025-03-31 13:16:34] chore(deps): bump toolchain packages and compiler versions #356
+[2025-03-31 20:00:29] feat(ml): implement cosine learning rate annealing schedule #103
