@@ -1573,3 +1573,4 @@
 [2025-03-31 13:16:34] chore(deps): bump toolchain packages and compiler versions #356
 [2025-03-31 20:00:29] feat(ml): implement cosine learning rate annealing schedule #103
 [2025-03-31 17:35:43] feat(api): streaming response handlers with chunked transfer #913
+[2025-04-02 20:44:27] feat(engine): optimize frame budget and draw calls #539
