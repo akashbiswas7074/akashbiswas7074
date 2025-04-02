@@ -1574,3 +1574,4 @@
 [2025-03-31 20:00:29] feat(ml): implement cosine learning rate annealing schedule #103
 [2025-03-31 17:35:43] feat(api): streaming response handlers with chunked transfer #913
 [2025-04-02 20:44:27] feat(engine): optimize frame budget and draw calls #539
+[2025-04-02 20:05:40] perf(ml): optimize tensor memory layout for fast inference #965
