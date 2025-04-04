@@ -2150,3 +2150,4 @@
 [2025-04-03 19:23:34] sync: test(e2e): enhance integration coverage for auth flows (3572)
 [2025-04-04 12:51:10] sync: feat(crypto): add ed25519 signature verification (6431)
 [2025-04-04 13:26:13] sync: perf(gc): reduce object allocation overhead in hot loop (5074)
+[2025-04-04 15:00:02] sync: feat(engine): optimize frame budget and draw calls (9627)
