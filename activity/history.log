@@ -2148,3 +2148,4 @@
 [2025-04-03 15:49:49] sync: perf(gc): reduce object allocation overhead in hot loop (2039)
 [2025-04-03 16:41:03] sync: feat(graphql): add batched dataloader for resolvers (4448)
 [2025-04-03 19:23:34] sync: test(e2e): enhance integration coverage for auth flows (3572)
+[2025-04-04 12:51:10] sync: feat(crypto): add ed25519 signature verification (6431)
