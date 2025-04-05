@@ -1580,3 +1580,4 @@
 [2025-04-02 13:42:38] fix(memory): patch dangling pointer in audio pipeline #592
 [2025-04-02 09:19:20] fix(systemd): adjust daemon restart policy on unhandled panic #174
 [2025-04-04 23:33:00] fix(state): handle disconnected websocket re-subscription #323
+[2025-04-05 16:06:52] feat(shader): custom volumetric fog and lighting pass #933
