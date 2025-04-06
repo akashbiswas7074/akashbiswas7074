@@ -1582,3 +1582,4 @@
 [2025-04-04 23:33:00] fix(state): handle disconnected websocket re-subscription #323
 [2025-04-05 16:06:52] feat(shader): custom volumetric fog and lighting pass #933
 [2025-04-06 09:13:05] fix(state): handle disconnected websocket re-subscription #526
+[2025-04-06 14:09:36] perf(ml): optimize tensor memory layout for fast inference #809
