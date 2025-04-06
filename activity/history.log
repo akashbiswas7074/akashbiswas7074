@@ -1585,3 +1585,4 @@
 [2025-04-06 14:09:36] perf(ml): optimize tensor memory layout for fast inference #809
 [2025-04-06 22:18:13] feat(nixos): configure hardware acceleration for Vulkan compute #190
 [2025-04-06 23:56:58] docs(readme): clarify setup steps and architecture flow #216
+[2025-04-06 13:46:46] docs(readme): clarify setup steps and architecture flow #246
