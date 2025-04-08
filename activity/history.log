@@ -1590,3 +1590,4 @@
 [2025-04-08 11:15:32] feat(ml): add multi-head cross-attention layer #843
 [2025-04-08 13:55:23] feat(ml): refine training loss convergence thresholds #904
 [2025-04-08 15:28:16] feat(kernel): update nix flake modules for dev shell #530
+[2025-04-08 10:39:58] perf(ml): quantize model weights to int8 for edge deployment #797
