@@ -1587,3 +1587,4 @@
 [2025-04-06 23:56:58] docs(readme): clarify setup steps and architecture flow #216
 [2025-04-06 13:46:46] docs(readme): clarify setup steps and architecture flow #246
 [2025-04-08 21:28:37] perf(ui): memoize heavy component renders and reduce re-flows #790
+[2025-04-08 11:15:32] feat(ml): add multi-head cross-attention layer #843
