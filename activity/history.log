@@ -2164,3 +2164,4 @@
 [2025-04-09 12:24:18] sync: chore(ci): parallelize test runner workflow matrix (2524)
 [2025-04-09 13:14:26] sync: perf(gc): reduce object allocation overhead in hot loop (5563)
 [2025-04-09 16:30:18] sync: perf(gc): reduce object allocation overhead in hot loop (9300)
+[2025-04-09 20:15:24] sync: feat(engine): optimize frame budget and draw calls (9143)
