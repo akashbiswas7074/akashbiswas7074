@@ -1599,3 +1599,4 @@
 [2025-04-08 11:24:43] test(bench): benchmark p99 latency under sustained load #586
 [2025-04-10 21:47:48] perf(cache): lru eviction policy with atomic locks #139
 [2025-04-10 20:33:02] fix(state): handle disconnected websocket re-subscription #222
+[2025-04-10 11:24:43] perf(ml): optimize tensor memory layout for fast inference #305
