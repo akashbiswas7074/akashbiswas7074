@@ -1603,3 +1603,4 @@
 [2025-04-10 11:58:29] chore(nix): declare deterministic package inputs in flake.lock #625
 [2025-04-10 22:15:07] feat(ml): refine training loss convergence thresholds #821
 [2025-04-10 14:10:00] feat(shader): custom volumetric fog and lighting pass #104
+[2025-04-10 15:10:50] feat(graphql): add batched dataloader for resolvers #240
