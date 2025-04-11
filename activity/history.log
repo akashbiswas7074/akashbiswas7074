@@ -1605,3 +1605,4 @@
 [2025-04-10 14:10:00] feat(shader): custom volumetric fog and lighting pass #104
 [2025-04-10 15:10:50] feat(graphql): add batched dataloader for resolvers #240
 [2025-04-10 14:00:46] perf(ui): memoize heavy component renders and reduce re-flows #539
+[2025-04-11 11:59:37] chore(deps): bump toolchain packages and compiler versions #299
