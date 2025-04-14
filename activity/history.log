@@ -1610,3 +1610,4 @@
 [2025-04-14 13:23:05] feat(kernel): update nix flake modules for dev shell #982
 [2025-04-14 13:34:31] docs(readme): clarify setup steps and architecture flow #549
 [2025-04-14 12:18:30] feat(engine): optimize frame budget and draw calls #901
+[2025-04-14 12:52:26] feat(nixos): configure hardware acceleration for Vulkan compute #766
