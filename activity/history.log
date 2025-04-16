@@ -2180,3 +2180,4 @@
 [2025-04-16 12:29:45] sync: fix(concurrency): lock contention in task scheduler (9428)
 [2025-04-16 14:35:54] sync: fix(api): resolve async connection pooling edge case (2721)
 [2025-04-16 16:27:44] sync: fix(api): resolve async connection pooling edge case (7155)
+[2025-04-16 19:08:48] sync: feat(engine): optimize frame budget and draw calls (3655)
