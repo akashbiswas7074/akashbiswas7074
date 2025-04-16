@@ -2178,3 +2178,4 @@
 [2025-04-15 16:55:00] sync: perf(cache): lru eviction policy with atomic locks (4427)
 [2025-04-15 21:48:35] sync: fix(concurrency): lock contention in task scheduler (9938)
 [2025-04-16 12:29:45] sync: fix(concurrency): lock contention in task scheduler (9428)
+[2025-04-16 14:35:54] sync: fix(api): resolve async connection pooling edge case (2721)
