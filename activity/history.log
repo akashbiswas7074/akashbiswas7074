@@ -1627,3 +1627,4 @@
 [2025-04-17 11:25:18] fix(state): handle disconnected websocket re-subscription #726
 [2025-04-17 12:17:11] feat(ml): fine-tune embedding projection dimensions #612
 [2025-04-17 16:50:33] fix(state): handle disconnected websocket re-subscription #779
+[2025-04-17 09:44:00] perf(ml): quantize model weights to int8 for edge deployment #303
