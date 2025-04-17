@@ -1628,3 +1628,4 @@
 [2025-04-17 12:17:11] feat(ml): fine-tune embedding projection dimensions #612
 [2025-04-17 16:50:33] fix(state): handle disconnected websocket re-subscription #779
 [2025-04-17 09:44:00] perf(ml): quantize model weights to int8 for edge deployment #303
+[2025-04-17 18:09:40] feat(api): streaming response handlers with chunked transfer #498
