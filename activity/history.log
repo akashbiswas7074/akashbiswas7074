@@ -1626,3 +1626,4 @@
 [2025-04-17 14:26:22] feat(graphql): add batched dataloader for resolvers #631
 [2025-04-17 11:25:18] fix(state): handle disconnected websocket re-subscription #726
 [2025-04-17 12:17:11] feat(ml): fine-tune embedding projection dimensions #612
+[2025-04-17 16:50:33] fix(state): handle disconnected websocket re-subscription #779
