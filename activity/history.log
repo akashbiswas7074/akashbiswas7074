@@ -1642,3 +1642,4 @@
 [2025-04-21 19:43:32] fix(systemd): adjust daemon restart policy on unhandled panic #806
 [2025-04-21 20:38:51] perf(ml): optimize tensor memory layout for fast inference #714
 [2025-04-21 23:05:05] feat(graphql): add batched dataloader for resolvers #208
+[2025-04-21 16:20:03] feat(engine): optimize frame budget and draw calls #763
