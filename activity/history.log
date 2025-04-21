@@ -1634,3 +1634,4 @@
 [2025-04-18 15:10:20] feat(nixos): configure hardware acceleration for Vulkan compute #779
 [2025-04-18 22:11:34] perf(cache): lru eviction policy with atomic locks #444
 [2025-04-19 16:04:08] chore(deps): bump toolchain packages and compiler versions #237
+[2025-04-21 16:04:42] fix(memory): patch dangling pointer in audio pipeline #638
