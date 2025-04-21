@@ -1638,3 +1638,4 @@
 [2025-04-21 20:43:15] test(bench): benchmark p99 latency under sustained load #685
 [2025-04-21 22:00:49] feat(shader): custom volumetric fog and lighting pass #653
 [2025-04-21 12:28:47] test(bench): benchmark p99 latency under sustained load #900
+[2025-04-21 09:48:34] feat(api): streaming response handlers with chunked transfer #249
