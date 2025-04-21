@@ -1644,3 +1644,4 @@
 [2025-04-21 23:05:05] feat(graphql): add batched dataloader for resolvers #208
 [2025-04-21 16:20:03] feat(engine): optimize frame budget and draw calls #763
 [2025-04-21 13:36:53] refactor(ui): extract reusable glassmorphic UI primitives #489
+[2025-04-21 15:03:19] feat(api): streaming response handlers with chunked transfer #871
