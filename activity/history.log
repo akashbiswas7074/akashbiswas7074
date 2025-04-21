@@ -1639,3 +1639,4 @@
 [2025-04-21 22:00:49] feat(shader): custom volumetric fog and lighting pass #653
 [2025-04-21 12:28:47] test(bench): benchmark p99 latency under sustained load #900
 [2025-04-21 09:48:34] feat(api): streaming response handlers with chunked transfer #249
+[2025-04-21 19:43:32] fix(systemd): adjust daemon restart policy on unhandled panic #806
