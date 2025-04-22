@@ -1648,3 +1648,4 @@
 [2025-04-21 15:26:29] feat(graphql): add batched dataloader for resolvers #115
 [2025-04-21 15:37:36] test(bench): benchmark p99 latency under sustained load #813
 [2025-04-21 10:41:33] feat(shader): custom volumetric fog and lighting pass #354
+[2025-04-22 10:01:25] feat(nixos): configure hardware acceleration for Vulkan compute #521
