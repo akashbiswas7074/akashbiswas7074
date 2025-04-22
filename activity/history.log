@@ -1651,3 +1651,4 @@
 [2025-04-22 10:01:25] feat(nixos): configure hardware acceleration for Vulkan compute #521
 [2025-04-22 18:51:44] feat(nixos): configure hardware acceleration for Vulkan compute #130
 [2025-04-22 20:28:13] perf(db): add compound index for fast query lookups #474
+[2025-04-22 09:06:48] feat(graphql): add batched dataloader for resolvers #865
