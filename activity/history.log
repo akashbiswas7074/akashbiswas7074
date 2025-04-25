@@ -2213,3 +2213,4 @@
 [2025-04-24 19:45:30] sync: feat(crypto): add ed25519 signature verification (6107)
 [2025-04-24 20:53:33] sync: fix(memory): patch dangling pointer in audio pipeline (9694)
 [2025-04-24 21:05:56] sync: feat(stream): reactive event stream with backpressure (4504)
+[2025-04-25 11:53:17] sync: docs(readme): clarify setup steps and architecture flow (8163)
