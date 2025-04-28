@@ -2239,3 +2239,4 @@
 [2025-04-28 15:44:32] sync: chore(ci): parallelize test runner workflow matrix (3833)
 [2025-04-28 16:40:47] sync: feat(engine): optimize frame budget and draw calls (6098)
 [2025-04-28 17:17:35] sync: feat(crypto): add ed25519 signature verification (2928)
+[2025-04-28 18:21:29] sync: test(bench): benchmark p99 latency under sustained load (2410)
