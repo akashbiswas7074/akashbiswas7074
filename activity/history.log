@@ -2237,3 +2237,4 @@
 [2025-04-28 13:46:17] sync: fix(api): resolve async connection pooling edge case (3827)
 [2025-04-28 14:28:02] sync: perf(cache): lru eviction policy with atomic locks (4255)
 [2025-04-28 15:44:32] sync: chore(ci): parallelize test runner workflow matrix (3833)
+[2025-04-28 16:40:47] sync: feat(engine): optimize frame budget and draw calls (6098)
