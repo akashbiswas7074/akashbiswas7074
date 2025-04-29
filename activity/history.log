@@ -1657,3 +1657,4 @@
 [2025-04-28 16:21:36] feat(ml): refine training loss convergence thresholds #835
 [2025-04-28 17:57:15] feat(engine): optimize frame budget and draw calls #335
 [2025-04-28 09:35:20] feat(api): streaming response handlers with chunked transfer #276
+[2025-04-29 18:01:35] perf(ml): quantize model weights to int8 for edge deployment #460
