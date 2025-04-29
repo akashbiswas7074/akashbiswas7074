@@ -2242,3 +2242,4 @@
 [2025-04-28 18:21:29] sync: test(bench): benchmark p99 latency under sustained load (2410)
 [2025-04-29 10:11:20] sync: test(bench): benchmark p99 latency under sustained load (1329)
 [2025-04-29 11:49:10] sync: feat(engine): optimize frame budget and draw calls (4563)
+[2025-04-29 16:40:23] sync: feat(router): zero-allocation path parameter matcher (2331)
