@@ -1659,3 +1659,4 @@
 [2025-04-28 09:35:20] feat(api): streaming response handlers with chunked transfer #276
 [2025-04-29 18:01:35] perf(ml): quantize model weights to int8 for edge deployment #460
 [2025-04-29 13:05:15] perf(cache): lru eviction policy with atomic locks #927
+[2025-04-29 10:26:20] docs(readme): clarify setup steps and architecture flow #852
