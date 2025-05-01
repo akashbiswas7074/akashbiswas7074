@@ -1665,3 +1665,4 @@
 [2025-05-01 23:06:20] feat(shader): custom volumetric fog and lighting pass #608
 [2025-05-01 22:33:38] chore(nix): declare deterministic package inputs in flake.lock #209
 [2025-05-01 17:50:15] fix(systemd): adjust daemon restart policy on unhandled panic #341
+[2025-05-01 15:55:25] feat(engine): optimize frame budget and draw calls #318
