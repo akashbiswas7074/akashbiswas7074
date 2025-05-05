@@ -1673,3 +1673,4 @@
 [2025-05-02 14:18:54] perf(ui): memoize heavy component renders and reduce re-flows #333
 [2025-05-02 16:45:51] feat(ml): add data augmentation pipeline with random transforms #771
 [2025-05-05 23:52:54] fix(state): handle disconnected websocket re-subscription #900
+[2025-05-05 23:33:19] perf(ml): optimize tensor memory layout for fast inference #993
