@@ -1675,3 +1675,4 @@
 [2025-05-05 23:52:54] fix(state): handle disconnected websocket re-subscription #900
 [2025-05-05 23:33:19] perf(ml): optimize tensor memory layout for fast inference #993
 [2025-05-06 21:41:40] feat(router): zero-allocation path parameter matcher #218
+[2025-05-06 10:15:02] chore(deps): bump toolchain packages and compiler versions #725
