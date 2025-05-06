@@ -2262,3 +2262,4 @@
 [2025-05-05 10:40:22] sync: feat(engine): optimize frame budget and draw calls (3600)
 [2025-05-05 14:26:30] sync: fix(memory): patch dangling pointer in audio pipeline (6516)
 [2025-05-05 20:41:57] sync: chore(deps): bump toolchain packages and lint rules (4065)
+[2025-05-06 14:19:10] sync: feat(router): zero-allocation path parameter matcher (9958)
