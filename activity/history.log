@@ -1677,3 +1677,4 @@
 [2025-05-06 21:41:40] feat(router): zero-allocation path parameter matcher #218
 [2025-05-06 10:15:02] chore(deps): bump toolchain packages and compiler versions #725
 [2025-05-06 23:32:30] feat(ml): add multi-head cross-attention layer #859
+[2025-05-06 09:25:10] fix(systemd): adjust daemon restart policy on unhandled panic #148
