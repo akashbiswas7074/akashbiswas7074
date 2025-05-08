@@ -1682,3 +1682,4 @@
 [2025-05-07 12:40:20] chore(deps): bump toolchain packages and compiler versions #671
 [2025-05-07 13:05:01] feat(ml): add multi-head cross-attention layer #691
 [2025-05-08 14:31:48] feat(ml): refine training loss convergence thresholds #394
+[2025-05-08 11:49:33] fix(memory): patch dangling pointer in audio pipeline #758
