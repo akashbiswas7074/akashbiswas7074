@@ -1688,3 +1688,4 @@
 [2025-05-08 23:45:10] feat(kernel): update nix flake modules for dev shell #964
 [2025-05-08 22:29:10] perf(cache): lru eviction policy with atomic locks #345
 [2025-05-08 11:20:11] feat(ml): fine-tune embedding projection dimensions #799
+[2025-05-08 21:09:14] test(bench): benchmark p99 latency under sustained load #271
