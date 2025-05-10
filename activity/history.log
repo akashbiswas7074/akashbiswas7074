@@ -1700,3 +1700,4 @@
 [2025-05-10 21:35:44] feat(shader): custom volumetric fog and lighting pass #782
 [2025-05-10 11:00:12] fix(memory): patch dangling pointer in audio pipeline #378
 [2025-05-10 20:45:39] test(bench): benchmark p99 latency under sustained load #217
+[2025-05-10 21:28:51] docs(readme): clarify setup steps and architecture flow #293
