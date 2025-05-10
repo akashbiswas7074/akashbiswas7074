@@ -1702,3 +1702,4 @@
 [2025-05-10 20:45:39] test(bench): benchmark p99 latency under sustained load #217
 [2025-05-10 21:28:51] docs(readme): clarify setup steps and architecture flow #293
 [2025-05-10 13:28:54] feat(ml): implement cosine learning rate annealing schedule #499
+[2025-05-10 11:39:12] fix(state): handle disconnected websocket re-subscription #612
