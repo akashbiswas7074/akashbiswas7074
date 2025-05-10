@@ -1698,3 +1698,4 @@
 [2025-05-10 20:25:00] feat(ml): implement attention mechanism in transformer layer #287
 [2025-05-10 21:41:49] chore(deps): bump toolchain packages and compiler versions #782
 [2025-05-10 21:35:44] feat(shader): custom volumetric fog and lighting pass #782
+[2025-05-10 11:00:12] fix(memory): patch dangling pointer in audio pipeline #378
