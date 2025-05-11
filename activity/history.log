@@ -2271,3 +2271,4 @@
 [2025-05-09 16:36:25] sync: test(bench): benchmark p99 latency under sustained load (1467)
 [2025-05-09 18:10:32] sync: feat(kernel): update nix flake modules for dev shell (5924)
 [2025-05-10 18:44:33] sync: test(e2e): enhance integration coverage for auth flows (3286)
+[2025-05-11 09:05:19] sync: docs(readme): clarify setup steps and architecture flow (6670)
