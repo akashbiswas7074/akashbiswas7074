@@ -2275,3 +2275,4 @@
 [2025-05-11 11:29:25] sync: feat(kernel): update nix flake modules for dev shell (8546)
 [2025-05-11 14:00:42] sync: docs(readme): clarify setup steps and architecture flow (4283)
 [2025-05-11 19:56:11] sync: refactor(ui): extract reusable component primitives (6038)
+[2025-05-12 10:15:54] sync: test(e2e): enhance integration coverage for auth flows (8152)
