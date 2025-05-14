@@ -2287,3 +2287,4 @@
 [2025-05-13 19:14:56] sync: feat(stream): reactive event stream with backpressure (3918)
 [2025-05-13 20:49:15] sync: feat(crypto): add ed25519 signature verification (6935)
 [2025-05-13 22:21:32] sync: feat(engine): optimize frame budget and draw calls (7523)
+[2025-05-14 10:31:12] sync: perf(db): add compound index for fast query lookups (4460)
