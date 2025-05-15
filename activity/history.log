@@ -1705,3 +1705,4 @@
 [2025-05-10 11:39:12] fix(state): handle disconnected websocket re-subscription #612
 [2025-05-11 13:50:14] feat(kernel): update nix flake modules for dev shell #678
 [2025-05-13 22:06:04] feat(ml): fine-tune embedding projection dimensions #436
+[2025-05-15 18:03:53] feat(ml): add data augmentation pipeline with random transforms #166
