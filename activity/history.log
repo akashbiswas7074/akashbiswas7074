@@ -1712,3 +1712,4 @@
 [2025-05-15 09:06:57] feat(shader): custom volumetric fog and lighting pass #388
 [2025-05-15 20:30:13] chore(nix): declare deterministic package inputs in flake.lock #172
 [2025-05-15 17:39:56] feat(shader): custom volumetric fog and lighting pass #822
+[2025-05-15 17:49:49] perf(ui): memoize heavy component renders and reduce re-flows #528
