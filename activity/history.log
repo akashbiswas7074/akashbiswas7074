@@ -1722,3 +1722,4 @@
 [2025-05-15 21:34:24] perf(ui): memoize heavy component renders and reduce re-flows #905
 [2025-05-16 23:10:18] fix(systemd): adjust daemon restart policy on unhandled panic #306
 [2025-05-20 11:30:13] test(e2e): enhance integration coverage for auth flows #923
+[2025-05-20 14:00:04] perf(ml): quantize model weights to int8 for edge deployment #102
