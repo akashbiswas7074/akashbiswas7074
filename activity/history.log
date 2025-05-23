@@ -2299,3 +2299,4 @@
 [2025-05-22 15:29:00] sync: fix(concurrency): lock contention in task scheduler (7581)
 [2025-05-22 19:27:49] sync: perf(db): add compound index for fast query lookups (5963)
 [2025-05-23 10:38:51] sync: feat(router): zero-allocation path parameter matcher (9225)
+[2025-05-23 13:23:49] sync: fix(concurrency): lock contention in task scheduler (6489)
