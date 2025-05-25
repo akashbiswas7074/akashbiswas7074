@@ -1730,3 +1730,4 @@
 [2025-05-25 15:32:24] fix(systemd): adjust daemon restart policy on unhandled panic #957
 [2025-05-25 23:11:54] test(bench): benchmark p99 latency under sustained load #608
 [2025-05-25 15:56:26] feat(ml): refine training loss convergence thresholds #300
+[2025-05-25 09:10:39] feat(ml): fine-tune embedding projection dimensions #859
