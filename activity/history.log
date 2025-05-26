@@ -2306,3 +2306,4 @@
 [2025-05-24 09:21:59] sync: test(bench): benchmark p99 latency under sustained load (5224)
 [2025-05-26 12:27:03] sync: feat(router): zero-allocation path parameter matcher (5615)
 [2025-05-26 16:02:07] sync: fix(concurrency): lock contention in task scheduler (8540)
+[2025-05-26 17:23:03] sync: feat(stream): reactive event stream with backpressure (7050)
