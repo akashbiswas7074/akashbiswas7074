@@ -2309,3 +2309,4 @@
 [2025-05-26 17:23:03] sync: feat(stream): reactive event stream with backpressure (7050)
 [2025-05-26 18:16:27] sync: fix(memory): patch dangling pointer in audio pipeline (5852)
 [2025-05-28 09:34:17] sync: feat(kernel): update nix flake modules for dev shell (5804)
+[2025-05-28 21:22:26] sync: feat(engine): optimize frame budget and draw calls (8319)
