@@ -1749,3 +1749,4 @@
 [2025-05-29 23:02:06] fix(systemd): adjust daemon restart policy on unhandled panic #907
 [2025-05-29 23:00:06] perf(db): add compound index for fast query lookups #627
 [2025-05-29 18:57:51] feat(ml): fine-tune embedding projection dimensions #806
+[2025-05-29 09:09:53] refactor(ui): extract reusable glassmorphic UI primitives #987
