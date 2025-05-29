@@ -1753,3 +1753,4 @@
 [2025-05-29 16:44:17] perf(cache): lru eviction policy with atomic locks #343
 [2025-05-29 20:38:47] feat(nixos): configure hardware acceleration for Vulkan compute #455
 [2025-05-29 19:29:57] perf(cache): lru eviction policy with atomic locks #428
+[2025-05-29 20:29:14] feat(engine): optimize frame budget and draw calls #956
