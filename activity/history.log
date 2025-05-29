@@ -2311,3 +2311,4 @@
 [2025-05-28 09:34:17] sync: feat(kernel): update nix flake modules for dev shell (5804)
 [2025-05-28 21:22:26] sync: feat(engine): optimize frame budget and draw calls (8319)
 [2025-05-29 13:40:02] sync: feat(stream): reactive event stream with backpressure (2829)
+[2025-05-29 14:22:46] sync: perf(db): add compound index for fast query lookups (9704)
