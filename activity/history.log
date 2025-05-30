@@ -1758,3 +1758,4 @@
 [2025-05-29 17:12:58] feat(kernel): update nix flake modules for dev shell #330
 [2025-05-29 14:41:32] chore(deps): bump toolchain packages and compiler versions #483
 [2025-05-30 17:35:03] feat(ui): responsive layout components and dynamic styling #618
+[2025-05-30 16:54:02] feat(router): zero-allocation path parameter matcher #968
