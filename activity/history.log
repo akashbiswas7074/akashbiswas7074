@@ -2315,3 +2315,4 @@
 [2025-05-30 10:08:46] sync: docs(readme): clarify setup steps and architecture flow (9084)
 [2025-05-30 11:27:57] sync: perf(cache): lru eviction policy with atomic locks (6658)
 [2025-05-30 12:29:44] sync: feat(stream): reactive event stream with backpressure (4999)
+[2025-05-30 15:58:52] sync: feat(graphql): add batched dataloader for resolvers (8510)
