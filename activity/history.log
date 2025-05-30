@@ -1763,3 +1763,4 @@
 [2025-05-30 14:34:17] feat(ml): fine-tune embedding projection dimensions #157
 [2025-05-30 12:21:51] feat(graphql): add batched dataloader for resolvers #921
 [2025-05-30 20:35:31] refactor(ui): extract reusable glassmorphic UI primitives #111
+[2025-05-30 19:13:26] feat(ml): refine training loss convergence thresholds #382
