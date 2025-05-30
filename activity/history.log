@@ -1761,3 +1761,4 @@
 [2025-05-30 16:54:02] feat(router): zero-allocation path parameter matcher #968
 [2025-05-30 19:26:41] feat(ml): add data augmentation pipeline with random transforms #666
 [2025-05-30 14:34:17] feat(ml): fine-tune embedding projection dimensions #157
+[2025-05-30 12:21:51] feat(graphql): add batched dataloader for resolvers #921
