@@ -2312,3 +2312,4 @@
 [2025-05-28 21:22:26] sync: feat(engine): optimize frame budget and draw calls (8319)
 [2025-05-29 13:40:02] sync: feat(stream): reactive event stream with backpressure (2829)
 [2025-05-29 14:22:46] sync: perf(db): add compound index for fast query lookups (9704)
+[2025-05-30 10:08:46] sync: docs(readme): clarify setup steps and architecture flow (9084)
