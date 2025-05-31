@@ -2319,3 +2319,4 @@
 [2025-05-30 17:02:04] sync: fix(memory): patch dangling pointer in audio pipeline (7107)
 [2025-05-30 18:02:09] sync: feat(stream): reactive event stream with backpressure (2656)
 [2025-05-30 20:24:32] sync: fix(api): resolve async connection pooling edge case (6534)
+[2025-05-31 19:47:19] sync: chore(ci): parallelize test runner workflow matrix (7565)
