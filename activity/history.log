@@ -2322,3 +2322,4 @@
 [2025-05-31 19:47:19] sync: chore(ci): parallelize test runner workflow matrix (7565)
 [2025-06-02 09:16:46] sync: fix(api): resolve async connection pooling edge case (8101)
 [2025-06-02 11:07:50] sync: test(e2e): enhance integration coverage for auth flows (5275)
+[2025-06-02 20:19:39] sync: feat(graphql): add batched dataloader for resolvers (9833)
