@@ -2321,3 +2321,4 @@
 [2025-05-30 20:24:32] sync: fix(api): resolve async connection pooling edge case (6534)
 [2025-05-31 19:47:19] sync: chore(ci): parallelize test runner workflow matrix (7565)
 [2025-06-02 09:16:46] sync: fix(api): resolve async connection pooling edge case (8101)
+[2025-06-02 11:07:50] sync: test(e2e): enhance integration coverage for auth flows (5275)
