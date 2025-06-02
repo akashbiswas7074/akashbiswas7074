@@ -1765,3 +1765,4 @@
 [2025-05-30 20:35:31] refactor(ui): extract reusable glassmorphic UI primitives #111
 [2025-05-30 19:13:26] feat(ml): refine training loss convergence thresholds #382
 [2025-06-02 21:55:25] perf(simd): vectorize matrix dot product operations #722
+[2025-06-02 22:31:42] docs(readme): clarify setup steps and architecture flow #926
