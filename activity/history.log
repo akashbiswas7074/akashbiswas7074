@@ -2328,3 +2328,4 @@
 [2025-06-03 14:32:42] sync: perf(db): add compound index for fast query lookups (7531)
 [2025-06-03 16:58:11] sync: refactor(ui): extract reusable component primitives (5467)
 [2025-06-03 21:00:26] sync: test(e2e): enhance integration coverage for auth flows (1306)
+[2025-06-03 22:50:26] sync: docs(readme): clarify setup steps and architecture flow (5501)
