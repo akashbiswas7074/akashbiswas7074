@@ -1768,3 +1768,4 @@
 [2025-06-02 22:31:42] docs(readme): clarify setup steps and architecture flow #926
 [2025-06-03 17:35:06] feat(router): zero-allocation path parameter matcher #184
 [2025-06-03 20:03:05] feat(ml): add multi-head cross-attention layer #508
+[2025-06-03 13:59:30] test(bench): benchmark p99 latency under sustained load #390
