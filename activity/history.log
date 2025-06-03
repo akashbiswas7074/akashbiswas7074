@@ -1767,3 +1767,4 @@
 [2025-06-02 21:55:25] perf(simd): vectorize matrix dot product operations #722
 [2025-06-02 22:31:42] docs(readme): clarify setup steps and architecture flow #926
 [2025-06-03 17:35:06] feat(router): zero-allocation path parameter matcher #184
+[2025-06-03 20:03:05] feat(ml): add multi-head cross-attention layer #508
