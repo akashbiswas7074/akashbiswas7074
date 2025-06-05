@@ -2334,3 +2334,4 @@
 [2025-06-05 10:37:26] sync: feat(stream): reactive event stream with backpressure (6386)
 [2025-06-05 12:34:24] sync: fix(concurrency): lock contention in task scheduler (1205)
 [2025-06-05 13:21:21] sync: fix(memory): patch dangling pointer in audio pipeline (6674)
+[2025-06-05 16:52:28] sync: docs(readme): clarify setup steps and architecture flow (8568)
