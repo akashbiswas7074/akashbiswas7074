@@ -2331,3 +2331,4 @@
 [2025-06-03 22:50:26] sync: docs(readme): clarify setup steps and architecture flow (5501)
 [2025-06-04 13:38:50] sync: fix(memory): patch dangling pointer in audio pipeline (2591)
 [2025-06-04 16:14:14] sync: feat(engine): optimize frame budget and draw calls (6318)
+[2025-06-05 10:37:26] sync: feat(stream): reactive event stream with backpressure (6386)
