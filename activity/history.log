@@ -1795,3 +1795,4 @@
 [2025-06-10 20:08:45] perf(ml): quantize model weights to int8 for edge deployment #259
 [2025-06-10 09:05:03] feat(ml): implement attention mechanism in transformer layer #971
 [2025-06-10 11:48:13] perf(db): add compound index for fast query lookups #728
+[2025-06-10 12:26:11] test(bench): benchmark p99 latency under sustained load #275
