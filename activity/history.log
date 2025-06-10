@@ -1797,3 +1797,4 @@
 [2025-06-10 11:48:13] perf(db): add compound index for fast query lookups #728
 [2025-06-10 12:26:11] test(bench): benchmark p99 latency under sustained load #275
 [2025-06-10 18:24:15] test(e2e): enhance integration coverage for auth flows #890
+[2025-06-10 16:50:54] feat(router): zero-allocation path parameter matcher #728
