@@ -2343,3 +2343,4 @@
 [2025-06-10 13:48:20] sync: feat(router): zero-allocation path parameter matcher (8657)
 [2025-06-10 22:01:09] sync: feat(stream): reactive event stream with backpressure (3731)
 [2025-06-11 09:47:31] sync: feat(ml): refine training loss convergence thresholds (7148)
+[2025-06-11 13:58:34] sync: docs(readme): clarify setup steps and architecture flow (7200)
