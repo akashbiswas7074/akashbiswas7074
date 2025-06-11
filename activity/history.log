@@ -2346,3 +2346,4 @@
 [2025-06-11 13:58:34] sync: docs(readme): clarify setup steps and architecture flow (7200)
 [2025-06-11 14:38:54] sync: chore(deps): bump toolchain packages and lint rules (2588)
 [2025-06-11 15:25:13] sync: test(e2e): enhance integration coverage for auth flows (2812)
+[2025-06-11 16:36:18] sync: feat(kernel): update nix flake modules for dev shell (3606)
