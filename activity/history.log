@@ -1802,3 +1802,4 @@
 [2025-06-10 15:41:27] docs(readme): clarify setup steps and architecture flow #655
 [2025-06-10 09:41:52] perf(db): add compound index for fast query lookups #660
 [2025-06-10 21:27:31] feat(engine): optimize frame budget and draw calls #239
+[2025-06-12 20:26:01] feat(ml): add multi-head cross-attention layer #804
