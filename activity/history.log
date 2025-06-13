@@ -1803,3 +1803,4 @@
 [2025-06-10 09:41:52] perf(db): add compound index for fast query lookups #660
 [2025-06-10 21:27:31] feat(engine): optimize frame budget and draw calls #239
 [2025-06-12 20:26:01] feat(ml): add multi-head cross-attention layer #804
+[2025-06-13 13:44:24] feat(api): streaming response handlers with chunked transfer #987
