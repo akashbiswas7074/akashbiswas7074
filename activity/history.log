@@ -1805,3 +1805,4 @@
 [2025-06-12 20:26:01] feat(ml): add multi-head cross-attention layer #804
 [2025-06-13 13:44:24] feat(api): streaming response handlers with chunked transfer #987
 [2025-06-13 13:24:30] feat(ml): implement cosine learning rate annealing schedule #869
+[2025-06-13 12:56:42] feat(ml): implement cosine learning rate annealing schedule #573
