@@ -2368,3 +2368,4 @@
 [2025-06-15 12:29:15] sync: feat(stream): reactive event stream with backpressure (8268)
 [2025-06-15 16:15:50] sync: feat(kernel): update nix flake modules for dev shell (8559)
 [2025-06-15 18:32:41] sync: chore(deps): bump toolchain packages and lint rules (6427)
+[2025-06-16 11:29:46] sync: fix(api): resolve async connection pooling edge case (1112)
