@@ -2371,3 +2371,4 @@
 [2025-06-16 11:29:46] sync: fix(api): resolve async connection pooling edge case (1112)
 [2025-06-16 12:47:02] sync: chore(ci): parallelize test runner workflow matrix (9515)
 [2025-06-16 22:30:55] sync: perf(simd): vectorize matrix dot product operations (2152)
+[2025-06-17 13:07:45] sync: feat(stream): reactive event stream with backpressure (9751)
