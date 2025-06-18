@@ -2379,3 +2379,4 @@
 [2025-06-18 16:09:54] sync: perf(cache): lru eviction policy with atomic locks (2831)
 [2025-06-18 17:46:10] sync: feat(crypto): add ed25519 signature verification (7764)
 [2025-06-18 19:42:21] sync: docs(readme): clarify setup steps and architecture flow (4982)
+[2025-06-18 20:50:30] sync: test(e2e): enhance integration coverage for auth flows (5333)
