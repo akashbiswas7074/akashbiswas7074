@@ -1821,3 +1821,4 @@
 [2025-06-23 09:40:39] feat(nixos): configure hardware acceleration for Vulkan compute #892
 [2025-06-23 12:34:20] test(bench): benchmark p99 latency under sustained load #468
 [2025-06-23 18:43:06] feat(router): zero-allocation path parameter matcher #814
+[2025-06-24 23:44:09] feat(router): zero-allocation path parameter matcher #861
