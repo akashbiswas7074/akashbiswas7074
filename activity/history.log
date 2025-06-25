@@ -1824,3 +1824,4 @@
 [2025-06-24 23:44:09] feat(router): zero-allocation path parameter matcher #861
 [2025-06-24 23:59:15] perf(ml): optimize tensor memory layout for fast inference #539
 [2025-06-25 22:52:42] chore(nix): declare deterministic package inputs in flake.lock #567
+[2025-06-25 18:56:30] feat(api): streaming response handlers with chunked transfer #632
