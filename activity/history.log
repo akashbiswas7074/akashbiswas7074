@@ -1827,3 +1827,4 @@
 [2025-06-25 18:56:30] feat(api): streaming response handlers with chunked transfer #632
 [2025-06-25 19:01:06] fix(memory): patch dangling pointer in audio pipeline #934
 [2025-06-25 18:05:31] refactor(ui): extract reusable glassmorphic UI primitives #736
+[2025-06-26 09:56:13] feat(api): streaming response handlers with chunked transfer #537
