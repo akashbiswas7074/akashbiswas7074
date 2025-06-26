@@ -1829,3 +1829,4 @@
 [2025-06-25 18:05:31] refactor(ui): extract reusable glassmorphic UI primitives #736
 [2025-06-26 09:56:13] feat(api): streaming response handlers with chunked transfer #537
 [2025-06-26 18:59:19] perf(ml): quantize model weights to int8 for edge deployment #935
+[2025-06-26 09:21:53] test(e2e): enhance integration coverage for auth flows #181
