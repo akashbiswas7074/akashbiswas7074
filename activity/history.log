@@ -1830,3 +1830,4 @@
 [2025-06-26 09:56:13] feat(api): streaming response handlers with chunked transfer #537
 [2025-06-26 18:59:19] perf(ml): quantize model weights to int8 for edge deployment #935
 [2025-06-26 09:21:53] test(e2e): enhance integration coverage for auth flows #181
+[2025-06-26 17:35:23] docs(readme): clarify setup steps and architecture flow #320
