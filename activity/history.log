@@ -1835,3 +1835,4 @@
 [2025-06-27 11:16:18] feat(ml): add multi-head cross-attention layer #769
 [2025-06-27 16:01:52] feat(kernel): update nix flake modules for dev shell #868
 [2025-06-27 12:42:19] chore(deps): bump toolchain packages and compiler versions #214
+[2025-06-27 18:30:06] feat(shader): custom volumetric fog and lighting pass #216
