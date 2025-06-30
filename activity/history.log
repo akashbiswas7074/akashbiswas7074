@@ -1842,3 +1842,4 @@
 [2025-06-27 10:20:09] perf(db): add compound index for fast query lookups #167
 [2025-06-27 18:09:44] feat(ml): refine training loss convergence thresholds #903
 [2025-06-30 22:04:15] chore(nix): declare deterministic package inputs in flake.lock #334
+[2025-06-30 10:13:33] perf(ui): memoize heavy component renders and reduce re-flows #324
