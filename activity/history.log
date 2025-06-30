@@ -2410,3 +2410,4 @@
 [2025-06-27 21:44:45] sync: feat(router): zero-allocation path parameter matcher (3907)
 [2025-06-27 22:02:38] sync: perf(cache): lru eviction policy with atomic locks (5546)
 [2025-06-30 10:46:53] sync: fix(api): resolve async connection pooling edge case (3171)
+[2025-06-30 12:33:19] sync: perf(db): add compound index for fast query lookups (4403)
