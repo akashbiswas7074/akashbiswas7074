@@ -1843,3 +1843,4 @@
 [2025-06-27 18:09:44] feat(ml): refine training loss convergence thresholds #903
 [2025-06-30 22:04:15] chore(nix): declare deterministic package inputs in flake.lock #334
 [2025-06-30 10:13:33] perf(ui): memoize heavy component renders and reduce re-flows #324
+[2025-06-30 23:47:25] perf(ml): quantize model weights to int8 for edge deployment #229
