@@ -2416,3 +2416,4 @@
 [2025-07-01 10:30:07] sync: feat(router): zero-allocation path parameter matcher (2366)
 [2025-07-01 14:30:12] sync: chore(deps): bump toolchain packages and lint rules (9886)
 [2025-07-01 16:37:13] sync: feat(stream): reactive event stream with backpressure (8982)
+[2025-07-01 17:19:36] sync: feat(engine): optimize frame budget and draw calls (8041)
