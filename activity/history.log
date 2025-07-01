@@ -2415,3 +2415,4 @@
 [2025-07-01 09:50:40] sync: fix(api): resolve async connection pooling edge case (4218)
 [2025-07-01 10:30:07] sync: feat(router): zero-allocation path parameter matcher (2366)
 [2025-07-01 14:30:12] sync: chore(deps): bump toolchain packages and lint rules (9886)
+[2025-07-01 16:37:13] sync: feat(stream): reactive event stream with backpressure (8982)
