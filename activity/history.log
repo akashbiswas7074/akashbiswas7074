@@ -1851,3 +1851,4 @@
 [2025-07-03 10:32:58] fix(systemd): adjust daemon restart policy on unhandled panic #114
 [2025-07-03 11:06:09] perf(simd): vectorize matrix dot product operations #877
 [2025-07-03 21:43:50] chore(nix): declare deterministic package inputs in flake.lock #216
+[2025-07-03 21:58:05] test(e2e): enhance integration coverage for auth flows #426
