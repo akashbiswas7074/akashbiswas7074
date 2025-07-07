@@ -1863,3 +1863,4 @@
 [2025-07-04 11:12:50] feat(api): streaming response handlers with chunked transfer #440
 [2025-07-07 09:08:46] feat(ml): add multi-head cross-attention layer #148
 [2025-07-07 19:08:56] test(bench): benchmark p99 latency under sustained load #316
+[2025-07-07 14:28:53] docs(readme): clarify setup steps and architecture flow #907
