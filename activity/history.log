@@ -1865,3 +1865,4 @@
 [2025-07-07 19:08:56] test(bench): benchmark p99 latency under sustained load #316
 [2025-07-07 14:28:53] docs(readme): clarify setup steps and architecture flow #907
 [2025-07-07 18:14:29] fix(memory): patch dangling pointer in audio pipeline #461
+[2025-07-07 16:03:32] feat(graphql): add batched dataloader for resolvers #993
