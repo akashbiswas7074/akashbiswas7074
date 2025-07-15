@@ -2469,3 +2469,4 @@
 [2025-07-14 21:40:04] sync: fix(api): resolve async connection pooling edge case (2509)
 [2025-07-14 22:35:49] sync: chore(deps): bump toolchain packages and lint rules (9712)
 [2025-07-15 10:59:29] sync: feat(stream): reactive event stream with backpressure (4127)
+[2025-07-15 11:48:04] sync: chore(ci): parallelize test runner workflow matrix (5536)
