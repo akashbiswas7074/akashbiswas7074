@@ -1870,3 +1870,4 @@
 [2025-07-08 21:31:27] chore(deps): bump toolchain packages and compiler versions #406
 [2025-07-09 14:55:08] feat(ui): responsive layout components and dynamic styling #708
 [2025-07-09 16:06:46] feat(api): streaming response handlers with chunked transfer #415
+[2025-07-23 18:25:55] feat(nixos): configure hardware acceleration for Vulkan compute #557
