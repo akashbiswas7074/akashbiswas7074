@@ -1872,3 +1872,4 @@
 [2025-07-09 16:06:46] feat(api): streaming response handlers with chunked transfer #415
 [2025-07-23 18:25:55] feat(nixos): configure hardware acceleration for Vulkan compute #557
 [2025-07-23 21:34:41] chore(nix): declare deterministic package inputs in flake.lock #157
+[2025-07-24 16:30:17] feat(engine): optimize frame budget and draw calls #787
