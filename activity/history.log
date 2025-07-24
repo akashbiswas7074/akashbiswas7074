@@ -1874,3 +1874,4 @@
 [2025-07-23 21:34:41] chore(nix): declare deterministic package inputs in flake.lock #157
 [2025-07-24 16:30:17] feat(engine): optimize frame budget and draw calls #787
 [2025-07-24 19:00:31] test(bench): benchmark p99 latency under sustained load #534
+[2025-07-24 16:15:46] fix(systemd): adjust daemon restart policy on unhandled panic #361
