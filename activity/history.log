@@ -1878,3 +1878,4 @@
 [2025-07-24 17:58:36] chore(nix): declare deterministic package inputs in flake.lock #186
 [2025-07-24 22:06:44] perf(ui): memoize heavy component renders and reduce re-flows #671
 [2025-07-25 15:52:12] fix(systemd): adjust daemon restart policy on unhandled panic #927
+[2025-07-25 14:08:02] perf(ml): quantize model weights to int8 for edge deployment #230
