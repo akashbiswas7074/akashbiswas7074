@@ -1887,3 +1887,4 @@
 [2025-07-30 16:39:17] feat(ml): add multi-head cross-attention layer #392
 [2025-07-30 10:06:30] feat(ml): implement attention mechanism in transformer layer #180
 [2025-07-31 15:09:28] feat(ui): responsive layout components and dynamic styling #920
+[2025-07-31 13:35:54] feat(nixos): configure hardware acceleration for Vulkan compute #279
