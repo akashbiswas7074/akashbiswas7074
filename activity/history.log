@@ -1892,3 +1892,4 @@
 [2025-08-01 21:55:32] feat(ml): add data augmentation pipeline with random transforms #582
 [2025-08-01 21:18:19] feat(ui): responsive layout components and dynamic styling #614
 [2025-08-01 23:22:17] feat(ml): add data augmentation pipeline with random transforms #163
+[2025-08-02 21:01:39] docs(readme): clarify setup steps and architecture flow #123
