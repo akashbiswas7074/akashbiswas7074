@@ -1895,3 +1895,4 @@
 [2025-08-02 21:01:39] docs(readme): clarify setup steps and architecture flow #123
 [2025-08-04 22:53:50] chore(deps): bump toolchain packages and compiler versions #723
 [2025-08-04 15:07:19] feat(ml): refine training loss convergence thresholds #745
+[2025-08-04 09:13:42] perf(db): add compound index for fast query lookups #676
