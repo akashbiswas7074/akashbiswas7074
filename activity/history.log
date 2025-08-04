@@ -1894,3 +1894,4 @@
 [2025-08-01 23:22:17] feat(ml): add data augmentation pipeline with random transforms #163
 [2025-08-02 21:01:39] docs(readme): clarify setup steps and architecture flow #123
 [2025-08-04 22:53:50] chore(deps): bump toolchain packages and compiler versions #723
+[2025-08-04 15:07:19] feat(ml): refine training loss convergence thresholds #745
