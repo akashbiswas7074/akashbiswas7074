@@ -1912,3 +1912,4 @@
 [2025-08-06 09:13:01] feat(shader): custom volumetric fog and lighting pass #502
 [2025-08-06 14:09:23] feat(api): streaming response handlers with chunked transfer #110
 [2025-08-06 13:12:32] fix(state): handle disconnected websocket re-subscription #857
+[2025-08-06 09:55:58] perf(cache): lru eviction policy with atomic locks #841
