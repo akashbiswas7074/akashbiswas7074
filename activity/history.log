@@ -1905,3 +1905,4 @@
 [2025-08-06 19:32:01] feat(shader): custom volumetric fog and lighting pass #827
 [2025-08-06 20:55:18] perf(ml): optimize tensor memory layout for fast inference #382
 [2025-08-06 10:56:10] perf(ui): memoize heavy component renders and reduce re-flows #334
+[2025-08-06 13:06:13] feat(ml): implement attention mechanism in transformer layer #869
