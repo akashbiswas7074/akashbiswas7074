@@ -1903,3 +1903,4 @@
 [2025-08-05 11:06:31] docs(readme): clarify setup steps and architecture flow #631
 [2025-08-05 09:21:14] fix(systemd): adjust daemon restart policy on unhandled panic #857
 [2025-08-06 19:32:01] feat(shader): custom volumetric fog and lighting pass #827
+[2025-08-06 20:55:18] perf(ml): optimize tensor memory layout for fast inference #382
