@@ -1916,3 +1916,4 @@
 [2025-08-07 14:32:48] feat(ml): implement cosine learning rate annealing schedule #421
 [2025-08-08 23:52:22] feat(router): zero-allocation path parameter matcher #971
 [2025-08-08 22:48:06] perf(db): add compound index for fast query lookups #910
+[2025-08-08 13:14:35] feat(ml): add multi-head cross-attention layer #824
