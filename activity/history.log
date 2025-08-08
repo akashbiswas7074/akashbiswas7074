@@ -1918,3 +1918,4 @@
 [2025-08-08 22:48:06] perf(db): add compound index for fast query lookups #910
 [2025-08-08 13:14:35] feat(ml): add multi-head cross-attention layer #824
 [2025-08-08 23:07:06] perf(ui): memoize heavy component renders and reduce re-flows #924
+[2025-08-08 21:37:50] perf(ml): quantize model weights to int8 for edge deployment #498
