@@ -1925,3 +1925,4 @@
 [2025-08-13 10:13:50] fix(systemd): adjust daemon restart policy on unhandled panic #179
 [2025-08-13 16:01:52] feat(nixos): configure hardware acceleration for Vulkan compute #268
 [2025-08-13 13:04:15] feat(ml): add data augmentation pipeline with random transforms #853
+[2025-08-13 16:48:51] feat(ml): fine-tune embedding projection dimensions #971
