@@ -1929,3 +1929,4 @@
 [2025-08-13 19:53:24] test(e2e): enhance integration coverage for auth flows #600
 [2025-08-14 13:24:31] perf(simd): vectorize matrix dot product operations #662
 [2025-08-14 21:29:34] test(bench): benchmark p99 latency under sustained load #981
+[2025-08-14 22:13:58] feat(shader): custom volumetric fog and lighting pass #295
