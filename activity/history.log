@@ -1945,3 +1945,4 @@
 [2025-08-16 22:45:00] test(e2e): enhance integration coverage for auth flows #223
 [2025-08-17 10:28:09] feat(router): zero-allocation path parameter matcher #977
 [2025-08-17 15:38:38] feat(router): zero-allocation path parameter matcher #178
+[2025-08-17 17:27:44] fix(state): handle disconnected websocket re-subscription #931
