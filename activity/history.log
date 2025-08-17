@@ -1943,3 +1943,4 @@
 [2025-08-15 12:29:16] refactor(ui): extract reusable glassmorphic UI primitives #966
 [2025-08-16 20:40:41] feat(kernel): update nix flake modules for dev shell #237
 [2025-08-16 22:45:00] test(e2e): enhance integration coverage for auth flows #223
+[2025-08-17 10:28:09] feat(router): zero-allocation path parameter matcher #977
