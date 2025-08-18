@@ -1948,3 +1948,4 @@
 [2025-08-17 17:27:44] fix(state): handle disconnected websocket re-subscription #931
 [2025-08-18 21:18:25] perf(ml): optimize tensor memory layout for fast inference #303
 [2025-08-18 21:00:11] feat(ml): implement attention mechanism in transformer layer #132
+[2025-08-18 13:08:29] feat(ml): refine training loss convergence thresholds #684
