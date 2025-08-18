@@ -1947,3 +1947,4 @@
 [2025-08-17 15:38:38] feat(router): zero-allocation path parameter matcher #178
 [2025-08-17 17:27:44] fix(state): handle disconnected websocket re-subscription #931
 [2025-08-18 21:18:25] perf(ml): optimize tensor memory layout for fast inference #303
+[2025-08-18 21:00:11] feat(ml): implement attention mechanism in transformer layer #132
