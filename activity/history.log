@@ -1954,3 +1954,4 @@
 [2025-08-18 19:50:31] test(e2e): enhance integration coverage for auth flows #617
 [2025-08-18 10:58:00] feat(shader): custom volumetric fog and lighting pass #617
 [2025-08-19 11:57:42] feat(nixos): configure hardware acceleration for Vulkan compute #205
+[2025-08-19 19:56:43] test(bench): benchmark p99 latency under sustained load #443
