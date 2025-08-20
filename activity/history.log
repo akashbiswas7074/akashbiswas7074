@@ -1958,3 +1958,4 @@
 [2025-08-19 14:17:33] perf(simd): vectorize matrix dot product operations #859
 [2025-08-20 09:33:41] perf(ml): optimize tensor memory layout for fast inference #710
 [2025-08-20 19:48:41] feat(ml): add multi-head cross-attention layer #498
+[2025-08-20 21:36:50] perf(cache): lru eviction policy with atomic locks #116
