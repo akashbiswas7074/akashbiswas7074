@@ -2541,3 +2541,4 @@
 [2025-08-20 16:27:35] sync: fix(api): resolve async connection pooling edge case (9269)
 [2025-08-22 11:09:53] sync: feat(ml): refine training loss convergence thresholds (1273)
 [2025-08-22 12:12:46] sync: feat(crypto): add ed25519 signature verification (9611)
+[2025-08-22 15:38:49] sync: docs(readme): clarify setup steps and architecture flow (9692)
