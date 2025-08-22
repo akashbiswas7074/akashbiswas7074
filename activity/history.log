@@ -1960,3 +1960,4 @@
 [2025-08-20 19:48:41] feat(ml): add multi-head cross-attention layer #498
 [2025-08-20 21:36:50] perf(cache): lru eviction policy with atomic locks #116
 [2025-08-22 22:52:51] feat(api): streaming response handlers with chunked transfer #922
+[2025-08-22 09:06:42] feat(kernel): update nix flake modules for dev shell #903
