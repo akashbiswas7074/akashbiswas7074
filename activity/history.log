@@ -1972,3 +1972,4 @@
 [2025-08-25 12:12:26] feat(shader): custom volumetric fog and lighting pass #440
 [2025-08-25 19:00:40] feat(ml): add multi-head cross-attention layer #406
 [2025-08-25 20:49:28] refactor(ui): extract reusable glassmorphic UI primitives #386
+[2025-08-25 14:20:08] feat(ml): implement cosine learning rate annealing schedule #900
