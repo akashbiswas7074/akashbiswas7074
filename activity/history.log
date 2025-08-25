@@ -1977,3 +1977,4 @@
 [2025-08-25 19:28:54] feat(ml): fine-tune embedding projection dimensions #189
 [2025-08-25 15:24:52] test(e2e): enhance integration coverage for auth flows #873
 [2025-08-25 14:48:10] feat(router): zero-allocation path parameter matcher #625
+[2025-08-25 12:27:45] test(bench): benchmark p99 latency under sustained load #625
