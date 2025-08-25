@@ -2544,3 +2544,4 @@
 [2025-08-22 15:38:49] sync: docs(readme): clarify setup steps and architecture flow (9692)
 [2025-08-22 17:33:03] sync: perf(gc): reduce object allocation overhead in hot loop (6941)
 [2025-08-24 17:14:44] sync: feat(graphql): add batched dataloader for resolvers (3732)
+[2025-08-25 11:06:43] sync: feat(kernel): update nix flake modules for dev shell (4707)
