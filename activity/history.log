@@ -1968,3 +1968,4 @@
 [2025-08-25 21:09:46] feat(ml): implement cosine learning rate annealing schedule #406
 [2025-08-25 14:57:17] test(bench): benchmark p99 latency under sustained load #484
 [2025-08-25 14:14:22] feat(ml): implement cosine learning rate annealing schedule #156
+[2025-08-25 12:55:53] fix(systemd): adjust daemon restart policy on unhandled panic #220
