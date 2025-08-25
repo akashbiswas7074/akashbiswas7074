@@ -1970,3 +1970,4 @@
 [2025-08-25 14:14:22] feat(ml): implement cosine learning rate annealing schedule #156
 [2025-08-25 12:55:53] fix(systemd): adjust daemon restart policy on unhandled panic #220
 [2025-08-25 12:12:26] feat(shader): custom volumetric fog and lighting pass #440
+[2025-08-25 19:00:40] feat(ml): add multi-head cross-attention layer #406
