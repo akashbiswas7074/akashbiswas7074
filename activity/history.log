@@ -2548,3 +2548,4 @@
 [2025-08-25 14:53:59] sync: docs(readme): clarify setup steps and architecture flow (9860)
 [2025-08-26 12:03:25] sync: refactor(ui): extract reusable component primitives (7386)
 [2025-08-26 13:57:33] sync: chore(ci): parallelize test runner workflow matrix (8807)
+[2025-08-26 15:29:20] sync: docs(readme): clarify setup steps and architecture flow (5915)
