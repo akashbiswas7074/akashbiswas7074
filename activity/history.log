@@ -2547,3 +2547,4 @@
 [2025-08-25 11:06:43] sync: feat(kernel): update nix flake modules for dev shell (4707)
 [2025-08-25 14:53:59] sync: docs(readme): clarify setup steps and architecture flow (9860)
 [2025-08-26 12:03:25] sync: refactor(ui): extract reusable component primitives (7386)
+[2025-08-26 13:57:33] sync: chore(ci): parallelize test runner workflow matrix (8807)
