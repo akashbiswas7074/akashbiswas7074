@@ -1983,3 +1983,4 @@
 [2025-08-27 23:03:50] refactor(ui): extract reusable glassmorphic UI primitives #414
 [2025-08-27 16:15:13] perf(db): add compound index for fast query lookups #427
 [2025-08-27 17:14:38] feat(ml): fine-tune embedding projection dimensions #534
+[2025-08-27 16:55:57] docs(readme): clarify setup steps and architecture flow #448
