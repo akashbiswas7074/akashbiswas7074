@@ -1981,3 +1981,4 @@
 [2025-08-26 09:33:27] feat(ml): implement attention mechanism in transformer layer #863
 [2025-08-27 13:31:52] feat(shader): custom volumetric fog and lighting pass #313
 [2025-08-27 23:03:50] refactor(ui): extract reusable glassmorphic UI primitives #414
+[2025-08-27 16:15:13] perf(db): add compound index for fast query lookups #427
