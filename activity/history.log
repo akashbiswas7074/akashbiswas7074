@@ -1986,3 +1986,4 @@
 [2025-08-27 16:55:57] docs(readme): clarify setup steps and architecture flow #448
 [2025-08-28 10:45:43] refactor(ui): extract reusable glassmorphic UI primitives #593
 [2025-08-28 12:34:31] perf(ml): optimize tensor memory layout for fast inference #342
+[2025-08-28 18:21:14] feat(ml): add multi-head cross-attention layer #985
