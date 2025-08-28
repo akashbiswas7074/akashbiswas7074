@@ -2556,3 +2556,4 @@
 [2025-08-27 21:25:37] sync: test(e2e): enhance integration coverage for auth flows (5072)
 [2025-08-28 10:14:17] sync: docs(readme): clarify setup steps and architecture flow (7577)
 [2025-08-28 14:07:46] sync: test(bench): benchmark p99 latency under sustained load (3487)
+[2025-08-28 22:13:28] sync: docs(readme): clarify setup steps and architecture flow (5513)
