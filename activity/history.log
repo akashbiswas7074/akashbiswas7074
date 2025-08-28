@@ -2554,3 +2554,4 @@
 [2025-08-27 18:09:30] sync: feat(kernel): update nix flake modules for dev shell (4972)
 [2025-08-27 20:25:50] sync: feat(kernel): update nix flake modules for dev shell (7865)
 [2025-08-27 21:25:37] sync: test(e2e): enhance integration coverage for auth flows (5072)
+[2025-08-28 10:14:17] sync: docs(readme): clarify setup steps and architecture flow (7577)
