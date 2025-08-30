@@ -2559,3 +2559,4 @@
 [2025-08-28 22:13:28] sync: docs(readme): clarify setup steps and architecture flow (5513)
 [2025-08-29 21:20:00] sync: chore(deps): bump toolchain packages and lint rules (9529)
 [2025-08-30 13:06:49] sync: feat(stream): reactive event stream with backpressure (8718)
+[2025-08-30 17:14:42] sync: feat(router): zero-allocation path parameter matcher (5895)
