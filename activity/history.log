@@ -2558,3 +2558,4 @@
 [2025-08-28 14:07:46] sync: test(bench): benchmark p99 latency under sustained load (3487)
 [2025-08-28 22:13:28] sync: docs(readme): clarify setup steps and architecture flow (5513)
 [2025-08-29 21:20:00] sync: chore(deps): bump toolchain packages and lint rules (9529)
+[2025-08-30 13:06:49] sync: feat(stream): reactive event stream with backpressure (8718)
