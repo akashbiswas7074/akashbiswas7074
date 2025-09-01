@@ -1988,3 +1988,4 @@
 [2025-08-28 12:34:31] perf(ml): optimize tensor memory layout for fast inference #342
 [2025-08-28 18:21:14] feat(ml): add multi-head cross-attention layer #985
 [2025-08-28 16:38:53] perf(ml): optimize tensor memory layout for fast inference #516
+[2025-09-01 09:37:59] chore(nix): declare deterministic package inputs in flake.lock #907
