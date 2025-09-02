@@ -1990,3 +1990,4 @@
 [2025-08-28 16:38:53] perf(ml): optimize tensor memory layout for fast inference #516
 [2025-09-01 09:37:59] chore(nix): declare deterministic package inputs in flake.lock #907
 [2025-09-01 15:55:07] test(bench): benchmark p99 latency under sustained load #342
+[2025-09-02 13:13:39] feat(ml): implement cosine learning rate annealing schedule #979
