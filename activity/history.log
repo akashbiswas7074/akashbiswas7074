@@ -1992,3 +1992,4 @@
 [2025-09-01 15:55:07] test(bench): benchmark p99 latency under sustained load #342
 [2025-09-02 13:13:39] feat(ml): implement cosine learning rate annealing schedule #979
 [2025-09-03 16:42:00] feat(graphql): add batched dataloader for resolvers #858
+[2025-09-03 21:25:55] feat(ml): fine-tune embedding projection dimensions #905
