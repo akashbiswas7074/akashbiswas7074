@@ -1993,3 +1993,4 @@
 [2025-09-02 13:13:39] feat(ml): implement cosine learning rate annealing schedule #979
 [2025-09-03 16:42:00] feat(graphql): add batched dataloader for resolvers #858
 [2025-09-03 21:25:55] feat(ml): fine-tune embedding projection dimensions #905
+[2025-09-03 10:34:20] feat(router): zero-allocation path parameter matcher #493
