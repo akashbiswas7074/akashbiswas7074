@@ -1997,3 +1997,4 @@
 [2025-09-03 09:11:02] test(bench): benchmark p99 latency under sustained load #301
 [2025-09-03 19:26:11] feat(router): zero-allocation path parameter matcher #207
 [2025-09-03 16:35:21] feat(api): streaming response handlers with chunked transfer #633
+[2025-09-03 16:14:39] feat(ml): add multi-head cross-attention layer #344
