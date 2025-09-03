@@ -1994,3 +1994,4 @@
 [2025-09-03 16:42:00] feat(graphql): add batched dataloader for resolvers #858
 [2025-09-03 21:25:55] feat(ml): fine-tune embedding projection dimensions #905
 [2025-09-03 10:34:20] feat(router): zero-allocation path parameter matcher #493
+[2025-09-03 09:11:02] test(bench): benchmark p99 latency under sustained load #301
