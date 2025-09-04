@@ -2001,3 +2001,4 @@
 [2025-09-03 19:18:48] perf(simd): vectorize matrix dot product operations #240
 [2025-09-04 21:20:02] test(e2e): enhance integration coverage for auth flows #736
 [2025-09-04 11:34:08] feat(engine): optimize frame budget and draw calls #504
+[2025-09-04 11:25:07] test(bench): benchmark p99 latency under sustained load #241
