@@ -1999,3 +1999,4 @@
 [2025-09-03 16:35:21] feat(api): streaming response handlers with chunked transfer #633
 [2025-09-03 16:14:39] feat(ml): add multi-head cross-attention layer #344
 [2025-09-03 19:18:48] perf(simd): vectorize matrix dot product operations #240
+[2025-09-04 21:20:02] test(e2e): enhance integration coverage for auth flows #736
