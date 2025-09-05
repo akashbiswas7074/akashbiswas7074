@@ -2003,3 +2003,4 @@
 [2025-09-04 11:34:08] feat(engine): optimize frame budget and draw calls #504
 [2025-09-04 11:25:07] test(bench): benchmark p99 latency under sustained load #241
 [2025-09-05 09:11:41] feat(shader): custom volumetric fog and lighting pass #112
+[2025-09-05 14:27:52] perf(ml): quantize model weights to int8 for edge deployment #517
