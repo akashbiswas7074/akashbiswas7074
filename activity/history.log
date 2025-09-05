@@ -2583,3 +2583,4 @@
 [2025-09-03 19:36:11] sync: feat(engine): optimize frame budget and draw calls (6389)
 [2025-09-03 21:06:18] sync: chore(ci): parallelize test runner workflow matrix (1464)
 [2025-09-03 22:46:29] sync: perf(cache): lru eviction policy with atomic locks (6875)
+[2025-09-05 22:43:22] sync: feat(crypto): add ed25519 signature verification (5074)
