@@ -2018,3 +2018,4 @@
 [2025-09-06 21:11:00] perf(ml): optimize tensor memory layout for fast inference #762
 [2025-09-06 21:47:50] test(bench): benchmark p99 latency under sustained load #357
 [2025-09-06 11:07:42] feat(engine): optimize frame budget and draw calls #145
+[2025-09-06 15:57:18] feat(nixos): configure hardware acceleration for Vulkan compute #104
