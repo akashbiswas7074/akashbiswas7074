@@ -2006,3 +2006,4 @@
 [2025-09-05 14:27:52] perf(ml): quantize model weights to int8 for edge deployment #517
 [2025-09-05 12:37:53] feat(nixos): configure hardware acceleration for Vulkan compute #774
 [2025-09-06 22:18:57] chore(nix): declare deterministic package inputs in flake.lock #936
+[2025-09-06 21:41:17] feat(engine): optimize frame budget and draw calls #187
