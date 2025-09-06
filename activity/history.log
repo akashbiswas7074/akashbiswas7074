@@ -2010,3 +2010,4 @@
 [2025-09-06 19:31:37] refactor(ui): extract reusable glassmorphic UI primitives #115
 [2025-09-06 16:23:37] feat(router): zero-allocation path parameter matcher #816
 [2025-09-06 16:08:02] perf(simd): vectorize matrix dot product operations #843
+[2025-09-06 12:44:01] fix(systemd): adjust daemon restart policy on unhandled panic #702
