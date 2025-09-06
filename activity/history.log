@@ -2007,3 +2007,4 @@
 [2025-09-05 12:37:53] feat(nixos): configure hardware acceleration for Vulkan compute #774
 [2025-09-06 22:18:57] chore(nix): declare deterministic package inputs in flake.lock #936
 [2025-09-06 21:41:17] feat(engine): optimize frame budget and draw calls #187
+[2025-09-06 19:31:37] refactor(ui): extract reusable glassmorphic UI primitives #115
