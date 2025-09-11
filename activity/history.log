@@ -2022,3 +2022,4 @@
 [2025-09-08 20:32:35] fix(state): handle disconnected websocket re-subscription #236
 [2025-09-11 21:35:55] feat(api): streaming response handlers with chunked transfer #827
 [2025-09-11 17:13:20] perf(cache): lru eviction policy with atomic locks #939
+[2025-09-11 23:06:39] perf(ml): quantize model weights to int8 for edge deployment #217
