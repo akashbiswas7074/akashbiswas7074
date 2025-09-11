@@ -2595,3 +2595,4 @@
 [2025-09-10 19:54:45] sync: fix(concurrency): lock contention in task scheduler (6744)
 [2025-09-10 20:21:51] sync: feat(router): zero-allocation path parameter matcher (6922)
 [2025-09-11 11:20:01] sync: chore(deps): bump toolchain packages and lint rules (4109)
+[2025-09-11 21:37:19] sync: feat(graphql): add batched dataloader for resolvers (5853)
