@@ -2024,3 +2024,4 @@
 [2025-09-11 17:13:20] perf(cache): lru eviction policy with atomic locks #939
 [2025-09-11 23:06:39] perf(ml): quantize model weights to int8 for edge deployment #217
 [2025-09-12 09:07:58] feat(graphql): add batched dataloader for resolvers #432
+[2025-09-12 10:32:26] feat(ml): add multi-head cross-attention layer #878
