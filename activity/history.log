@@ -2602,3 +2602,4 @@
 [2025-09-15 14:22:25] sync: docs(readme): clarify setup steps and architecture flow (7311)
 [2025-09-15 15:06:54] sync: refactor(ui): extract reusable component primitives (2346)
 [2025-09-15 17:20:14] sync: feat(router): zero-allocation path parameter matcher (1668)
+[2025-09-15 18:15:35] sync: docs(readme): clarify setup steps and architecture flow (5485)
