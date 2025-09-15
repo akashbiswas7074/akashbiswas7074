@@ -2029,3 +2029,4 @@
 [2025-09-15 10:47:29] perf(simd): vectorize matrix dot product operations #857
 [2025-09-15 13:45:14] feat(shader): custom volumetric fog and lighting pass #996
 [2025-09-15 17:26:00] feat(ml): fine-tune embedding projection dimensions #531
+[2025-09-15 17:21:35] fix(systemd): adjust daemon restart policy on unhandled panic #856
