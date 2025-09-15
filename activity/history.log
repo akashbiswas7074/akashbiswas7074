@@ -2027,3 +2027,4 @@
 [2025-09-12 10:32:26] feat(ml): add multi-head cross-attention layer #878
 [2025-09-15 11:28:49] fix(memory): patch dangling pointer in audio pipeline #659
 [2025-09-15 10:47:29] perf(simd): vectorize matrix dot product operations #857
+[2025-09-15 13:45:14] feat(shader): custom volumetric fog and lighting pass #996
