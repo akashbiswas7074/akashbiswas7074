@@ -2038,3 +2038,4 @@
 [2025-09-16 17:13:30] feat(engine): optimize frame budget and draw calls #773
 [2025-09-16 19:36:20] perf(ml): quantize model weights to int8 for edge deployment #285
 [2025-09-16 14:59:12] fix(systemd): adjust daemon restart policy on unhandled panic #430
+[2025-09-16 20:02:13] feat(api): streaming response handlers with chunked transfer #790
