@@ -2619,3 +2619,4 @@
 [2025-09-18 18:29:39] sync: feat(router): zero-allocation path parameter matcher (9145)
 [2025-09-18 20:37:27] sync: fix(api): resolve async connection pooling edge case (3807)
 [2025-09-18 21:01:35] sync: feat(router): zero-allocation path parameter matcher (1942)
+[2025-09-23 10:43:22] sync: fix(api): resolve async connection pooling edge case (5523)
