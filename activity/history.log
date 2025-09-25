@@ -2062,3 +2062,4 @@
 [2025-09-23 13:19:24] refactor(ui): extract reusable glassmorphic UI primitives #848
 [2025-09-24 22:01:09] fix(state): handle disconnected websocket re-subscription #745
 [2025-09-25 13:23:26] chore(deps): bump toolchain packages and compiler versions #503
+[2025-09-25 15:40:21] feat(shader): custom volumetric fog and lighting pass #402
