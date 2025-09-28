@@ -2072,3 +2072,4 @@
 [2025-09-26 21:57:30] fix(systemd): adjust daemon restart policy on unhandled panic #191
 [2025-09-26 09:01:12] feat(ml): implement cosine learning rate annealing schedule #770
 [2025-09-28 22:33:53] fix(memory): patch dangling pointer in audio pipeline #339
+[2025-09-28 11:15:32] fix(state): handle disconnected websocket re-subscription #134
