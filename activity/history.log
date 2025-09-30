@@ -2638,3 +2638,4 @@
 [2025-09-30 10:14:22] sync: fix(api): resolve async connection pooling edge case (6565)
 [2025-09-30 11:28:48] sync: chore(deps): bump toolchain packages and lint rules (9583)
 [2025-09-30 12:16:01] sync: feat(stream): reactive event stream with backpressure (1997)
+[2025-09-30 13:35:03] sync: feat(crypto): add ed25519 signature verification (2564)
