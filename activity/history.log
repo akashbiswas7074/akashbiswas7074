@@ -2644,3 +2644,4 @@
 [2025-10-01 09:40:39] sync: fix(concurrency): lock contention in task scheduler (3978)
 [2025-10-01 10:34:13] sync: feat(crypto): add ed25519 signature verification (2588)
 [2025-10-01 11:55:43] sync: docs(readme): clarify setup steps and architecture flow (7130)
+[2025-10-01 14:36:11] sync: feat(router): zero-allocation path parameter matcher (3908)
