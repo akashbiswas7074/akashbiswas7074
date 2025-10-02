@@ -2079,3 +2079,4 @@
 [2025-09-30 11:24:38] perf(simd): vectorize matrix dot product operations #100
 [2025-10-01 14:29:32] fix(state): handle disconnected websocket re-subscription #390
 [2025-10-01 09:56:57] perf(ml): optimize tensor memory layout for fast inference #458
+[2025-10-02 16:14:14] refactor(ui): extract reusable glassmorphic UI primitives #475
