@@ -2654,3 +2654,4 @@
 [2025-10-02 12:50:28] sync: chore(deps): bump toolchain packages and lint rules (2072)
 [2025-10-02 16:21:15] sync: feat(crypto): add ed25519 signature verification (3316)
 [2025-10-05 09:03:58] sync: fix(concurrency): lock contention in task scheduler (2618)
+[2025-10-05 12:54:33] sync: fix(api): resolve async connection pooling edge case (6251)
