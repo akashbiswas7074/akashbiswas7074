@@ -2659,3 +2659,4 @@
 [2025-10-05 15:33:25] sync: perf(gc): reduce object allocation overhead in hot loop (4292)
 [2025-10-05 16:18:20] sync: docs(readme): clarify setup steps and architecture flow (8338)
 [2025-10-05 22:48:12] sync: refactor(ui): extract reusable component primitives (7984)
+[2025-10-06 15:27:24] sync: fix(api): resolve async connection pooling edge case (9035)
