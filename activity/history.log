@@ -2661,3 +2661,4 @@
 [2025-10-05 22:48:12] sync: refactor(ui): extract reusable component primitives (7984)
 [2025-10-06 15:27:24] sync: fix(api): resolve async connection pooling edge case (9035)
 [2025-10-07 09:19:31] sync: refactor(ui): extract reusable component primitives (1903)
+[2025-10-07 10:33:53] sync: perf(db): add compound index for fast query lookups (4081)
