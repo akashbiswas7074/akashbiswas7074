@@ -2670,3 +2670,4 @@
 [2025-10-08 11:43:44] sync: perf(db): add compound index for fast query lookups (4514)
 [2025-10-08 14:06:29] sync: feat(kernel): update nix flake modules for dev shell (4630)
 [2025-10-08 17:45:20] sync: fix(api): resolve async connection pooling edge case (4335)
+[2025-10-08 22:31:13] sync: test(bench): benchmark p99 latency under sustained load (1255)
