@@ -2675,3 +2675,4 @@
 [2025-10-09 12:00:57] sync: feat(ml): refine training loss convergence thresholds (6419)
 [2025-10-09 15:11:24] sync: feat(ml): refine training loss convergence thresholds (7091)
 [2025-10-10 09:09:38] sync: feat(ml): refine training loss convergence thresholds (5230)
+[2025-10-10 11:56:59] sync: chore(ci): parallelize test runner workflow matrix (6074)
