@@ -2692,3 +2692,4 @@
 [2025-10-15 09:15:27] sync: feat(stream): reactive event stream with backpressure (7076)
 [2025-10-15 10:28:47] sync: docs(readme): clarify setup steps and architecture flow (8242)
 [2025-10-15 11:38:49] sync: perf(db): add compound index for fast query lookups (9251)
+[2025-10-15 15:49:12] sync: test(e2e): enhance integration coverage for auth flows (6208)
