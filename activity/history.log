@@ -2119,3 +2119,4 @@
 [2025-10-22 11:39:22] perf(db): add compound index for fast query lookups #441
 [2025-10-22 18:12:30] feat(graphql): add batched dataloader for resolvers #917
 [2025-10-22 22:43:13] feat(api): streaming response handlers with chunked transfer #280
+[2025-10-22 10:32:03] feat(nixos): configure hardware acceleration for Vulkan compute #404
