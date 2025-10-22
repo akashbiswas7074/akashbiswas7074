@@ -2118,3 +2118,4 @@
 [2025-10-21 15:03:50] refactor(ui): extract reusable glassmorphic UI primitives #718
 [2025-10-22 11:39:22] perf(db): add compound index for fast query lookups #441
 [2025-10-22 18:12:30] feat(graphql): add batched dataloader for resolvers #917
+[2025-10-22 22:43:13] feat(api): streaming response handlers with chunked transfer #280
