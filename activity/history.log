@@ -2122,3 +2122,4 @@
 [2025-10-22 10:32:03] feat(nixos): configure hardware acceleration for Vulkan compute #404
 [2025-10-22 20:51:58] fix(memory): patch dangling pointer in audio pipeline #630
 [2025-10-22 18:33:01] feat(kernel): update nix flake modules for dev shell #548
+[2025-10-22 22:53:09] feat(nixos): configure hardware acceleration for Vulkan compute #336
