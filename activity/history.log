@@ -2725,3 +2725,4 @@
 [2025-10-24 19:25:09] sync: fix(concurrency): lock contention in task scheduler (2780)
 [2025-10-24 22:34:41] sync: feat(router): zero-allocation path parameter matcher (5920)
 [2025-10-25 09:35:56] sync: feat(kernel): update nix flake modules for dev shell (7296)
+[2025-10-25 11:59:33] sync: chore(ci): parallelize test runner workflow matrix (3954)
