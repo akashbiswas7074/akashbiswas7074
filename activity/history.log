@@ -2131,3 +2131,4 @@
 [2025-10-25 10:55:41] chore(nix): declare deterministic package inputs in flake.lock #499
 [2025-10-25 20:23:52] perf(ml): quantize model weights to int8 for edge deployment #215
 [2025-10-25 12:01:48] refactor(ui): extract reusable glassmorphic UI primitives #424
+[2025-10-25 11:47:38] perf(db): add compound index for fast query lookups #636
