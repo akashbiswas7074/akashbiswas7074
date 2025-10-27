@@ -2732,3 +2732,4 @@
 [2025-10-25 18:41:25] sync: test(bench): benchmark p99 latency under sustained load (4240)
 [2025-10-25 21:09:26] sync: fix(memory): patch dangling pointer in audio pipeline (8677)
 [2025-10-25 22:15:55] sync: docs(readme): clarify setup steps and architecture flow (8973)
+[2025-10-27 14:59:48] sync: feat(stream): reactive event stream with backpressure (9693)
