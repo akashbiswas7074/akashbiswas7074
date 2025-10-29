@@ -2737,3 +2737,4 @@
 [2025-10-29 09:54:05] sync: fix(memory): patch dangling pointer in audio pipeline (6844)
 [2025-10-29 10:12:47] sync: docs(readme): clarify setup steps and architecture flow (4489)
 [2025-10-29 14:19:53] sync: fix(api): resolve async connection pooling edge case (6946)
+[2025-10-29 18:39:58] sync: fix(memory): patch dangling pointer in audio pipeline (8317)
