@@ -2734,3 +2734,4 @@
 [2025-10-25 22:15:55] sync: docs(readme): clarify setup steps and architecture flow (8973)
 [2025-10-27 14:59:48] sync: feat(stream): reactive event stream with backpressure (9693)
 [2025-10-27 18:47:40] sync: perf(db): add compound index for fast query lookups (2590)
+[2025-10-29 09:54:05] sync: fix(memory): patch dangling pointer in audio pipeline (6844)
