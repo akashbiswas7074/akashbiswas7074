@@ -2744,3 +2744,4 @@
 [2025-10-30 10:26:10] sync: perf(gc): reduce object allocation overhead in hot loop (8693)
 [2025-10-30 15:44:17] sync: feat(ml): refine training loss convergence thresholds (2857)
 [2025-10-30 17:42:09] sync: feat(router): zero-allocation path parameter matcher (2590)
+[2025-10-30 18:48:02] sync: docs(readme): clarify setup steps and architecture flow (7241)
