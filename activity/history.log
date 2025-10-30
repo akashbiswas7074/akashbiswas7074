@@ -2142,3 +2142,4 @@
 [2025-10-29 11:32:55] feat(ml): refine training loss convergence thresholds #390
 [2025-10-29 12:25:33] feat(ml): add multi-head cross-attention layer #143
 [2025-10-30 14:45:37] feat(router): zero-allocation path parameter matcher #966
+[2025-10-30 14:07:31] feat(ml): implement attention mechanism in transformer layer #493
