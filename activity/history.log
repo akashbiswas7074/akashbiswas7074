@@ -2747,3 +2747,4 @@
 [2025-10-30 18:48:02] sync: docs(readme): clarify setup steps and architecture flow (7241)
 [2025-10-31 09:37:44] sync: feat(crypto): add ed25519 signature verification (8224)
 [2025-10-31 11:37:36] sync: feat(kernel): update nix flake modules for dev shell (8329)
+[2025-10-31 15:57:01] sync: fix(concurrency): lock contention in task scheduler (6633)
