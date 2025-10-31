@@ -2144,3 +2144,4 @@
 [2025-10-30 14:45:37] feat(router): zero-allocation path parameter matcher #966
 [2025-10-30 14:07:31] feat(ml): implement attention mechanism in transformer layer #493
 [2025-10-31 09:16:20] feat(shader): custom volumetric fog and lighting pass #502
+[2025-10-31 09:07:37] fix(systemd): adjust daemon restart policy on unhandled panic #808
