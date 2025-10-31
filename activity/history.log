@@ -2749,3 +2749,4 @@
 [2025-10-31 11:37:36] sync: feat(kernel): update nix flake modules for dev shell (8329)
 [2025-10-31 15:57:01] sync: fix(concurrency): lock contention in task scheduler (6633)
 [2025-10-31 16:56:21] sync: fix(api): resolve async connection pooling edge case (7061)
+[2025-10-31 22:04:11] sync: docs(readme): clarify setup steps and architecture flow (5916)
