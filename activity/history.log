@@ -2145,3 +2145,4 @@
 [2025-10-30 14:07:31] feat(ml): implement attention mechanism in transformer layer #493
 [2025-10-31 09:16:20] feat(shader): custom volumetric fog and lighting pass #502
 [2025-10-31 09:07:37] fix(systemd): adjust daemon restart policy on unhandled panic #808
+[2025-11-03 15:48:31] feat(graphql): add batched dataloader for resolvers #141
