@@ -2147,3 +2147,4 @@
 [2025-10-31 09:07:37] fix(systemd): adjust daemon restart policy on unhandled panic #808
 [2025-11-03 15:48:31] feat(graphql): add batched dataloader for resolvers #141
 [2025-11-03 10:40:45] docs(readme): clarify setup steps and architecture flow #741
+[2025-11-03 19:08:36] feat(graphql): add batched dataloader for resolvers #148
