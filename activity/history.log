@@ -2752,3 +2752,4 @@
 [2025-10-31 22:04:11] sync: docs(readme): clarify setup steps and architecture flow (5916)
 [2025-11-07 10:59:50] sync: test(e2e): enhance integration coverage for auth flows (6254)
 [2025-11-07 11:18:45] sync: fix(api): resolve async connection pooling edge case (6811)
+[2025-11-07 15:38:51] sync: fix(concurrency): lock contention in task scheduler (1261)
