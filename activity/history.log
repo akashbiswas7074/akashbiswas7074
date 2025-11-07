@@ -2155,3 +2155,4 @@
 [2025-11-06 14:13:01] feat(ml): implement cosine learning rate annealing schedule #130
 [2025-11-07 21:08:27] chore(deps): bump toolchain packages and compiler versions #865
 [2025-11-07 17:30:22] feat(nixos): configure hardware acceleration for Vulkan compute #783
+[2025-11-07 22:21:49] chore(nix): declare deterministic package inputs in flake.lock #328
