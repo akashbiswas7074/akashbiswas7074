@@ -2157,3 +2157,4 @@
 [2025-11-07 17:30:22] feat(nixos): configure hardware acceleration for Vulkan compute #783
 [2025-11-07 22:21:49] chore(nix): declare deterministic package inputs in flake.lock #328
 [2025-11-08 12:34:11] fix(state): handle disconnected websocket re-subscription #524
+[2025-11-08 21:46:17] test(e2e): enhance integration coverage for auth flows #432
