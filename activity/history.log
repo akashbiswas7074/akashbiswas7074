@@ -2159,3 +2159,4 @@
 [2025-11-08 12:34:11] fix(state): handle disconnected websocket re-subscription #524
 [2025-11-08 21:46:17] test(e2e): enhance integration coverage for auth flows #432
 [2025-11-08 12:15:41] perf(db): add compound index for fast query lookups #171
+[2025-11-08 17:10:06] fix(state): handle disconnected websocket re-subscription #200
