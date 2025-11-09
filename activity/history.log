@@ -2758,3 +2758,4 @@
 [2025-11-09 11:41:15] sync: refactor(ui): extract reusable component primitives (5310)
 [2025-11-09 12:28:27] sync: fix(memory): patch dangling pointer in audio pipeline (1662)
 [2025-11-09 13:17:47] sync: feat(router): zero-allocation path parameter matcher (2314)
+[2025-11-09 14:21:35] sync: perf(db): add compound index for fast query lookups (3140)
