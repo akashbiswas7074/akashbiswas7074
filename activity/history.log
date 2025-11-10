@@ -2174,3 +2174,4 @@
 [2025-11-10 18:02:27] feat(ml): add multi-head cross-attention layer #768
 [2025-11-10 10:43:30] feat(ml): refine training loss convergence thresholds #670
 [2025-11-10 12:15:42] feat(ml): implement attention mechanism in transformer layer #780
+[2025-11-10 10:27:05] feat(nixos): configure hardware acceleration for Vulkan compute #669
