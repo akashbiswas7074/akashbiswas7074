@@ -2190,3 +2190,4 @@
 [2025-11-12 23:03:18] chore(nix): declare deterministic package inputs in flake.lock #474
 [2025-11-13 23:39:48] perf(simd): vectorize matrix dot product operations #343
 [2025-11-13 09:12:57] docs(readme): clarify setup steps and architecture flow #948
+[2025-11-13 12:20:39] perf(db): add compound index for fast query lookups #928
