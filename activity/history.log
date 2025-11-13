@@ -2188,3 +2188,4 @@
 [2025-11-11 14:17:16] feat(ml): fine-tune embedding projection dimensions #279
 [2025-11-12 11:06:25] feat(nixos): configure hardware acceleration for Vulkan compute #326
 [2025-11-12 23:03:18] chore(nix): declare deterministic package inputs in flake.lock #474
+[2025-11-13 23:39:48] perf(simd): vectorize matrix dot product operations #343
