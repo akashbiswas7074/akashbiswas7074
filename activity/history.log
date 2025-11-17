@@ -2197,3 +2197,4 @@
 [2025-11-16 14:15:37] chore(deps): bump toolchain packages and compiler versions #659
 [2025-11-17 20:10:11] feat(ml): add data augmentation pipeline with random transforms #161
 [2025-11-17 16:27:32] feat(graphql): add batched dataloader for resolvers #729
+[2025-11-17 22:59:23] feat(nixos): configure hardware acceleration for Vulkan compute #348
