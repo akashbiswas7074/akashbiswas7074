@@ -2207,3 +2207,4 @@
 [2025-11-18 18:17:47] fix(memory): patch dangling pointer in audio pipeline #268
 [2025-11-19 14:46:40] feat(engine): optimize frame budget and draw calls #653
 [2025-11-19 10:31:34] fix(state): handle disconnected websocket re-subscription #872
+[2025-11-20 22:02:24] refactor(ui): extract reusable glassmorphic UI primitives #860
