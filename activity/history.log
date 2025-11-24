@@ -2780,3 +2780,4 @@
 [2025-11-20 21:30:52] sync: test(e2e): enhance integration coverage for auth flows (9115)
 [2025-11-21 18:11:30] sync: refactor(ui): extract reusable component primitives (2003)
 [2025-11-21 20:28:11] sync: feat(graphql): add batched dataloader for resolvers (1103)
+[2025-11-24 10:12:16] sync: docs(readme): clarify setup steps and architecture flow (9880)
