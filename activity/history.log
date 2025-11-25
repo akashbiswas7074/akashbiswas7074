@@ -2211,3 +2211,4 @@
 [2025-11-20 15:52:24] fix(memory): patch dangling pointer in audio pipeline #449
 [2025-11-21 22:49:28] docs(readme): clarify setup steps and architecture flow #779
 [2025-11-21 18:06:34] feat(kernel): update nix flake modules for dev shell #981
+[2025-11-25 14:26:04] feat(graphql): add batched dataloader for resolvers #187
