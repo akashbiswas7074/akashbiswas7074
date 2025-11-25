@@ -2213,3 +2213,4 @@
 [2025-11-21 18:06:34] feat(kernel): update nix flake modules for dev shell #981
 [2025-11-25 14:26:04] feat(graphql): add batched dataloader for resolvers #187
 [2025-11-25 19:56:49] fix(systemd): adjust daemon restart policy on unhandled panic #421
+[2025-11-25 16:50:13] feat(ml): add multi-head cross-attention layer #594
