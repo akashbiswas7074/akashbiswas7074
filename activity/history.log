@@ -2219,3 +2219,4 @@
 [2025-11-27 22:14:52] feat(ui): responsive layout components and dynamic styling #342
 [2025-11-27 10:26:15] fix(memory): patch dangling pointer in audio pipeline #812
 [2025-11-27 20:24:01] fix(state): handle disconnected websocket re-subscription #853
+[2025-11-27 18:44:35] feat(ml): fine-tune embedding projection dimensions #417
