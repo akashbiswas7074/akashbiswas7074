@@ -2226,3 +2226,4 @@
 [2025-11-27 22:51:35] feat(ml): fine-tune embedding projection dimensions #526
 [2025-11-27 09:21:19] docs(readme): clarify setup steps and architecture flow #488
 [2025-11-27 09:04:46] refactor(ui): extract reusable glassmorphic UI primitives #267
+[2025-11-27 19:55:23] perf(ui): memoize heavy component renders and reduce re-flows #533
