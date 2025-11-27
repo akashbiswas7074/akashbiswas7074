@@ -2224,3 +2224,4 @@
 [2025-11-27 22:09:17] chore(nix): declare deterministic package inputs in flake.lock #760
 [2025-11-27 21:08:01] feat(ml): implement attention mechanism in transformer layer #902
 [2025-11-27 22:51:35] feat(ml): fine-tune embedding projection dimensions #526
+[2025-11-27 09:21:19] docs(readme): clarify setup steps and architecture flow #488
