@@ -2229,3 +2229,4 @@
 [2025-11-27 19:55:23] perf(ui): memoize heavy component renders and reduce re-flows #533
 [2025-11-27 20:42:52] test(e2e): enhance integration coverage for auth flows #494
 [2025-11-27 18:09:26] refactor(ui): extract reusable glassmorphic UI primitives #258
+[2025-11-27 23:28:58] feat(router): zero-allocation path parameter matcher #413
