@@ -2221,3 +2221,4 @@
 [2025-11-27 20:24:01] fix(state): handle disconnected websocket re-subscription #853
 [2025-11-27 18:44:35] feat(ml): fine-tune embedding projection dimensions #417
 [2025-11-27 12:59:13] perf(cache): lru eviction policy with atomic locks #147
+[2025-11-27 22:09:17] chore(nix): declare deterministic package inputs in flake.lock #760
