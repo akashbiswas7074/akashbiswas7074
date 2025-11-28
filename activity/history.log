@@ -2785,3 +2785,4 @@
 [2025-11-25 12:11:54] sync: fix(memory): patch dangling pointer in audio pipeline (4730)
 [2025-11-26 11:40:53] sync: test(bench): benchmark p99 latency under sustained load (5861)
 [2025-11-26 15:38:26] sync: feat(graphql): add batched dataloader for resolvers (5676)
+[2025-11-28 12:16:52] sync: feat(crypto): add ed25519 signature verification (4944)
