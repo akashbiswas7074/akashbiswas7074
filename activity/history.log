@@ -2791,3 +2791,4 @@
 [2025-12-01 10:05:43] sync: feat(router): zero-allocation path parameter matcher (1196)
 [2025-12-01 11:47:43] sync: fix(api): resolve async connection pooling edge case (6216)
 [2025-12-01 14:37:49] sync: feat(crypto): add ed25519 signature verification (2079)
+[2025-12-01 16:36:16] sync: fix(memory): patch dangling pointer in audio pipeline (8385)
