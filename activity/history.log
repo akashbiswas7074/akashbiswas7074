@@ -2233,3 +2233,4 @@
 [2025-12-01 15:55:57] feat(kernel): update nix flake modules for dev shell #901
 [2025-12-01 15:24:17] feat(shader): custom volumetric fog and lighting pass #729
 [2025-12-01 17:43:59] perf(ui): memoize heavy component renders and reduce re-flows #873
+[2025-12-02 10:07:33] perf(ml): optimize tensor memory layout for fast inference #178
