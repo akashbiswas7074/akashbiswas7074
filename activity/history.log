@@ -2235,3 +2235,4 @@
 [2025-12-01 17:43:59] perf(ui): memoize heavy component renders and reduce re-flows #873
 [2025-12-02 10:07:33] perf(ml): optimize tensor memory layout for fast inference #178
 [2025-12-02 20:18:16] feat(api): streaming response handlers with chunked transfer #740
+[2025-12-02 11:11:09] feat(engine): optimize frame budget and draw calls #521
