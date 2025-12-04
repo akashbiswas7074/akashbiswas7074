@@ -2237,3 +2237,4 @@
 [2025-12-02 20:18:16] feat(api): streaming response handlers with chunked transfer #740
 [2025-12-02 11:11:09] feat(engine): optimize frame budget and draw calls #521
 [2025-12-03 22:44:05] fix(state): handle disconnected websocket re-subscription #311
+[2025-12-04 12:45:20] feat(ml): refine training loss convergence thresholds #966
