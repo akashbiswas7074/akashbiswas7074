@@ -2797,3 +2797,4 @@
 [2025-12-04 12:14:37] sync: feat(kernel): update nix flake modules for dev shell (1699)
 [2025-12-04 17:44:22] sync: chore(ci): parallelize test runner workflow matrix (8617)
 [2025-12-04 20:56:29] sync: fix(memory): patch dangling pointer in audio pipeline (7606)
+[2025-12-05 16:55:57] sync: feat(router): zero-allocation path parameter matcher (8408)
