@@ -2260,3 +2260,4 @@
 [2025-12-08 16:22:26] chore(deps): bump toolchain packages and compiler versions #140
 [2025-12-08 20:09:45] perf(cache): lru eviction policy with atomic locks #682
 [2025-12-09 11:14:14] fix(state): handle disconnected websocket re-subscription #690
+[2025-12-09 11:00:47] perf(ui): memoize heavy component renders and reduce re-flows #947
