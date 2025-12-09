@@ -2262,3 +2262,4 @@
 [2025-12-09 11:14:14] fix(state): handle disconnected websocket re-subscription #690
 [2025-12-09 11:00:47] perf(ui): memoize heavy component renders and reduce re-flows #947
 [2025-12-09 16:23:48] perf(cache): lru eviction policy with atomic locks #270
+[2025-12-09 20:32:13] fix(state): handle disconnected websocket re-subscription #464
