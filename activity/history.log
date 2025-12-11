@@ -2267,3 +2267,4 @@
 [2025-12-09 23:10:05] feat(ml): implement attention mechanism in transformer layer #625
 [2025-12-11 22:34:37] feat(api): streaming response handlers with chunked transfer #147
 [2025-12-11 19:50:14] feat(ml): refine training loss convergence thresholds #587
+[2025-12-11 13:51:58] fix(state): handle disconnected websocket re-subscription #812
