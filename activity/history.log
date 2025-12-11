@@ -2265,3 +2265,4 @@
 [2025-12-09 20:32:13] fix(state): handle disconnected websocket re-subscription #464
 [2025-12-09 10:42:43] perf(ui): memoize heavy component renders and reduce re-flows #871
 [2025-12-09 23:10:05] feat(ml): implement attention mechanism in transformer layer #625
+[2025-12-11 22:34:37] feat(api): streaming response handlers with chunked transfer #147
