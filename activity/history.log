@@ -2820,3 +2820,4 @@
 [2025-12-12 14:35:21] sync: test(bench): benchmark p99 latency under sustained load (6424)
 [2025-12-12 16:44:12] sync: docs(readme): clarify setup steps and architecture flow (6272)
 [2025-12-12 18:50:40] sync: test(bench): benchmark p99 latency under sustained load (4750)
+[2025-12-12 20:45:37] sync: feat(stream): reactive event stream with backpressure (4883)
