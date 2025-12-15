@@ -2280,3 +2280,4 @@
 [2025-12-12 23:18:32] feat(api): streaming response handlers with chunked transfer #472
 [2025-12-12 09:09:34] feat(ml): refine training loss convergence thresholds #729
 [2025-12-12 18:13:41] perf(ui): memoize heavy component renders and reduce re-flows #901
+[2025-12-15 13:08:59] feat(graphql): add batched dataloader for resolvers #272
