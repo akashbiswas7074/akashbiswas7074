@@ -2831,3 +2831,4 @@
 [2025-12-13 18:20:22] sync: feat(stream): reactive event stream with backpressure (8906)
 [2025-12-15 11:38:56] sync: perf(gc): reduce object allocation overhead in hot loop (4277)
 [2025-12-15 13:52:51] sync: test(e2e): enhance integration coverage for auth flows (2972)
+[2025-12-15 14:18:46] sync: perf(db): add compound index for fast query lookups (4193)
