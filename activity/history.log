@@ -2838,3 +2838,4 @@
 [2025-12-17 09:41:41] sync: chore(ci): parallelize test runner workflow matrix (2289)
 [2025-12-17 11:23:29] sync: docs(readme): clarify setup steps and architecture flow (8318)
 [2025-12-17 12:40:24] sync: perf(gc): reduce object allocation overhead in hot loop (3571)
+[2025-12-17 13:38:28] sync: fix(memory): patch dangling pointer in audio pipeline (2765)
