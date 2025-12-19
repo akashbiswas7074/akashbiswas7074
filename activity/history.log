@@ -2294,3 +2294,4 @@
 [2025-12-19 21:18:53] fix(systemd): adjust daemon restart policy on unhandled panic #415
 [2025-12-19 16:55:32] test(bench): benchmark p99 latency under sustained load #619
 [2025-12-19 16:45:00] docs(readme): clarify setup steps and architecture flow #432
+[2025-12-19 18:52:46] docs(readme): clarify setup steps and architecture flow #651
