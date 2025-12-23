@@ -2847,3 +2847,4 @@
 [2025-12-19 22:35:01] sync: chore(ci): parallelize test runner workflow matrix (6306)
 [2025-12-22 15:11:20] sync: feat(stream): reactive event stream with backpressure (1565)
 [2025-12-23 13:36:48] sync: test(bench): benchmark p99 latency under sustained load (1645)
+[2025-12-23 14:56:32] sync: perf(db): add compound index for fast query lookups (3160)
