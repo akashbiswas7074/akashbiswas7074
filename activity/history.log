@@ -2889,3 +2889,4 @@
 [2026-01-05 22:19:49] sync: perf(db): add compound index for fast query lookups (2967)
 [2026-01-06 09:11:00] sync: chore(deps): bump toolchain packages and lint rules (2410)
 [2026-01-06 10:46:15] sync: feat(router): zero-allocation path parameter matcher (5475)
+[2026-01-06 11:17:01] sync: test(bench): benchmark p99 latency under sustained load (8859)
