@@ -2303,3 +2303,4 @@
 [2026-01-06 23:34:32] feat(ml): refine training loss convergence thresholds #181
 [2026-01-06 13:37:06] perf(ml): quantize model weights to int8 for edge deployment #794
 [2026-01-06 14:02:33] refactor(ui): extract reusable glassmorphic UI primitives #781
+[2026-01-07 09:02:04] fix(systemd): adjust daemon restart policy on unhandled panic #585
