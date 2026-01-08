@@ -2311,3 +2311,4 @@
 [2026-01-08 10:35:16] feat(ml): add data augmentation pipeline with random transforms #832
 [2026-01-08 20:18:41] feat(shader): custom volumetric fog and lighting pass #138
 [2026-01-08 16:47:29] feat(ml): implement cosine learning rate annealing schedule #144
+[2026-01-08 20:27:56] perf(db): add compound index for fast query lookups #532
