@@ -2901,3 +2901,4 @@
 [2026-01-07 16:45:54] sync: perf(db): add compound index for fast query lookups (5694)
 [2026-01-07 19:23:05] sync: feat(stream): reactive event stream with backpressure (7017)
 [2026-01-07 20:29:52] sync: fix(concurrency): lock contention in task scheduler (9922)
+[2026-01-08 11:23:42] sync: feat(crypto): add ed25519 signature verification (9859)
