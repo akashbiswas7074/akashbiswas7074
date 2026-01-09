@@ -2906,3 +2906,4 @@
 [2026-01-09 14:22:49] sync: refactor(ui): extract reusable component primitives (3418)
 [2026-01-09 15:52:43] sync: fix(concurrency): lock contention in task scheduler (9884)
 [2026-01-09 19:26:23] sync: chore(ci): parallelize test runner workflow matrix (2416)
+[2026-01-09 20:38:16] sync: docs(readme): clarify setup steps and architecture flow (6452)
