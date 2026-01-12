@@ -2316,3 +2316,4 @@
 [2026-01-09 15:32:46] chore(deps): bump toolchain packages and compiler versions #407
 [2026-01-09 17:47:21] test(bench): benchmark p99 latency under sustained load #919
 [2026-01-09 23:32:04] fix(state): handle disconnected websocket re-subscription #422
+[2026-01-12 12:11:50] feat(router): zero-allocation path parameter matcher #732
