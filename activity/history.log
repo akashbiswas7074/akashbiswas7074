@@ -2916,3 +2916,4 @@
 [2026-01-11 19:06:36] sync: feat(engine): optimize frame budget and draw calls (5173)
 [2026-01-12 11:07:20] sync: feat(crypto): add ed25519 signature verification (9985)
 [2026-01-12 12:59:25] sync: feat(graphql): add batched dataloader for resolvers (7435)
+[2026-01-12 14:14:36] sync: feat(crypto): add ed25519 signature verification (7684)
