@@ -2915,3 +2915,4 @@
 [2026-01-11 18:32:34] sync: perf(db): add compound index for fast query lookups (9512)
 [2026-01-11 19:06:36] sync: feat(engine): optimize frame budget and draw calls (5173)
 [2026-01-12 11:07:20] sync: feat(crypto): add ed25519 signature verification (9985)
+[2026-01-12 12:59:25] sync: feat(graphql): add batched dataloader for resolvers (7435)
