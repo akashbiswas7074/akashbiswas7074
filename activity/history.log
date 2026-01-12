@@ -2317,3 +2317,4 @@
 [2026-01-09 17:47:21] test(bench): benchmark p99 latency under sustained load #919
 [2026-01-09 23:32:04] fix(state): handle disconnected websocket re-subscription #422
 [2026-01-12 12:11:50] feat(router): zero-allocation path parameter matcher #732
+[2026-01-12 22:29:47] perf(cache): lru eviction policy with atomic locks #338
