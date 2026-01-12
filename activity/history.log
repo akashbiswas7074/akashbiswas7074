@@ -2919,3 +2919,4 @@
 [2026-01-12 14:14:36] sync: feat(crypto): add ed25519 signature verification (7684)
 [2026-01-12 16:44:48] sync: chore(deps): bump toolchain packages and lint rules (4699)
 [2026-01-12 17:40:41] sync: feat(router): zero-allocation path parameter matcher (3551)
+[2026-01-12 19:53:44] sync: test(e2e): enhance integration coverage for auth flows (1009)
