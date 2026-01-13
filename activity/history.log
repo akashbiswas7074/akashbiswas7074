@@ -2923,3 +2923,4 @@
 [2026-01-13 10:58:04] sync: refactor(ui): extract reusable component primitives (4962)
 [2026-01-13 11:48:25] sync: refactor(ui): extract reusable component primitives (4428)
 [2026-01-13 16:34:40] sync: chore(deps): bump toolchain packages and lint rules (4129)
+[2026-01-13 17:01:01] sync: feat(engine): optimize frame budget and draw calls (5846)
