@@ -2322,3 +2322,4 @@
 [2026-01-14 15:41:11] feat(api): streaming response handlers with chunked transfer #342
 [2026-01-14 21:40:53] feat(ml): add data augmentation pipeline with random transforms #511
 [2026-01-14 17:11:46] perf(db): add compound index for fast query lookups #757
+[2026-01-14 21:39:13] feat(router): zero-allocation path parameter matcher #421
