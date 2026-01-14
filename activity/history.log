@@ -2319,3 +2319,4 @@
 [2026-01-12 12:11:50] feat(router): zero-allocation path parameter matcher #732
 [2026-01-12 22:29:47] perf(cache): lru eviction policy with atomic locks #338
 [2026-01-12 12:23:31] chore(nix): declare deterministic package inputs in flake.lock #375
+[2026-01-14 15:41:11] feat(api): streaming response handlers with chunked transfer #342
