@@ -2934,3 +2934,4 @@
 [2026-01-15 18:48:34] sync: chore(deps): bump toolchain packages and lint rules (7925)
 [2026-01-15 19:44:37] sync: feat(stream): reactive event stream with backpressure (6751)
 [2026-01-15 21:43:31] sync: feat(engine): optimize frame budget and draw calls (7225)
+[2026-01-15 22:02:31] sync: fix(api): resolve async connection pooling edge case (8780)
