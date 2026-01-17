@@ -2945,3 +2945,4 @@
 [2026-01-17 09:37:07] sync: feat(graphql): add batched dataloader for resolvers (9046)
 [2026-01-17 13:11:57] sync: feat(router): zero-allocation path parameter matcher (5806)
 [2026-01-17 15:54:10] sync: perf(db): add compound index for fast query lookups (5756)
+[2026-01-17 17:38:21] sync: chore(ci): parallelize test runner workflow matrix (2796)
