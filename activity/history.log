@@ -2952,3 +2952,4 @@
 [2026-01-19 15:11:14] sync: fix(memory): patch dangling pointer in audio pipeline (9083)
 [2026-01-19 19:14:45] sync: feat(router): zero-allocation path parameter matcher (2902)
 [2026-01-19 20:06:10] sync: docs(readme): clarify setup steps and architecture flow (3162)
+[2026-01-19 21:47:38] sync: test(bench): benchmark p99 latency under sustained load (1387)
