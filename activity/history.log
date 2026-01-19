@@ -2325,3 +2325,4 @@
 [2026-01-14 21:39:13] feat(router): zero-allocation path parameter matcher #421
 [2026-01-19 14:46:22] chore(nix): declare deterministic package inputs in flake.lock #411
 [2026-01-19 13:01:57] feat(nixos): configure hardware acceleration for Vulkan compute #392
+[2026-01-19 18:55:36] feat(ml): fine-tune embedding projection dimensions #704
