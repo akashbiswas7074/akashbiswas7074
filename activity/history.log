@@ -2948,3 +2948,4 @@
 [2026-01-17 17:38:21] sync: chore(ci): parallelize test runner workflow matrix (2796)
 [2026-01-17 18:43:09] sync: fix(api): resolve async connection pooling edge case (4262)
 [2026-01-17 20:30:31] sync: feat(ml): refine training loss convergence thresholds (1093)
+[2026-01-19 11:49:24] sync: perf(db): add compound index for fast query lookups (5952)
