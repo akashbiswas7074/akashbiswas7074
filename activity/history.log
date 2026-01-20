@@ -2957,3 +2957,4 @@
 [2026-01-20 14:06:26] sync: fix(concurrency): lock contention in task scheduler (1549)
 [2026-01-20 15:17:27] sync: perf(gc): reduce object allocation overhead in hot loop (7918)
 [2026-01-20 16:04:04] sync: fix(api): resolve async connection pooling edge case (5305)
+[2026-01-20 22:56:42] sync: feat(crypto): add ed25519 signature verification (8776)
