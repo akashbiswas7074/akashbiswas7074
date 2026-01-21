@@ -2329,3 +2329,4 @@
 [2026-01-19 16:42:07] refactor(ui): extract reusable glassmorphic UI primitives #564
 [2026-01-21 19:25:18] fix(memory): patch dangling pointer in audio pipeline #129
 [2026-01-21 20:43:31] chore(nix): declare deterministic package inputs in flake.lock #104
+[2026-01-21 14:11:34] fix(state): handle disconnected websocket re-subscription #452
