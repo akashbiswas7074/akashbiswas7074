@@ -2959,3 +2959,4 @@
 [2026-01-20 16:04:04] sync: fix(api): resolve async connection pooling edge case (5305)
 [2026-01-20 22:56:42] sync: feat(crypto): add ed25519 signature verification (8776)
 [2026-01-22 09:36:11] sync: test(e2e): enhance integration coverage for auth flows (8308)
+[2026-01-22 10:42:34] sync: feat(crypto): add ed25519 signature verification (5309)
