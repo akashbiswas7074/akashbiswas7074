@@ -2347,3 +2347,4 @@
 [2026-01-24 16:07:33] test(bench): benchmark p99 latency under sustained load #719
 [2026-01-24 11:52:41] fix(systemd): adjust daemon restart policy on unhandled panic #754
 [2026-01-24 17:21:23] feat(ml): implement cosine learning rate annealing schedule #605
+[2026-01-24 21:08:03] feat(router): zero-allocation path parameter matcher #430
