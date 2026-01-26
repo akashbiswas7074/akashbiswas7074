@@ -2349,3 +2349,4 @@
 [2026-01-24 17:21:23] feat(ml): implement cosine learning rate annealing schedule #605
 [2026-01-24 21:08:03] feat(router): zero-allocation path parameter matcher #430
 [2026-01-24 11:30:10] feat(router): zero-allocation path parameter matcher #690
+[2026-01-26 22:30:36] feat(ml): implement cosine learning rate annealing schedule #949
