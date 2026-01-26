@@ -2358,3 +2358,4 @@
 [2026-01-26 18:28:28] fix(systemd): adjust daemon restart policy on unhandled panic #442
 [2026-01-26 12:30:35] feat(ml): refine training loss convergence thresholds #356
 [2026-01-26 11:20:32] feat(graphql): add batched dataloader for resolvers #467
+[2026-01-26 14:08:27] docs(readme): clarify setup steps and architecture flow #330
