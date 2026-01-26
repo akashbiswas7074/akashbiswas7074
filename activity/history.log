@@ -2355,3 +2355,4 @@
 [2026-01-26 21:28:39] feat(router): zero-allocation path parameter matcher #371
 [2026-01-26 23:34:01] feat(api): streaming response handlers with chunked transfer #610
 [2026-01-26 13:25:30] perf(simd): vectorize matrix dot product operations #587
+[2026-01-26 18:28:28] fix(systemd): adjust daemon restart policy on unhandled panic #442
