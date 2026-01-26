@@ -2975,3 +2975,4 @@
 [2026-01-26 16:53:40] sync: feat(crypto): add ed25519 signature verification (4692)
 [2026-01-26 17:52:16] sync: chore(ci): parallelize test runner workflow matrix (1977)
 [2026-01-26 20:48:27] sync: perf(db): add compound index for fast query lookups (6250)
+[2026-01-26 21:49:25] sync: feat(engine): optimize frame budget and draw calls (4155)
