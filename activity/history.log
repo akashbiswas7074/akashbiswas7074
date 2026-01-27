@@ -2978,3 +2978,4 @@
 [2026-01-26 21:49:25] sync: feat(engine): optimize frame budget and draw calls (4155)
 [2026-01-26 22:42:46] sync: feat(crypto): add ed25519 signature verification (7402)
 [2026-01-27 11:10:15] sync: feat(stream): reactive event stream with backpressure (9540)
+[2026-01-27 12:18:31] sync: fix(api): resolve async connection pooling edge case (8090)
