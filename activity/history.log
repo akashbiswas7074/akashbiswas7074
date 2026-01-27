@@ -2977,3 +2977,4 @@
 [2026-01-26 20:48:27] sync: perf(db): add compound index for fast query lookups (6250)
 [2026-01-26 21:49:25] sync: feat(engine): optimize frame budget and draw calls (4155)
 [2026-01-26 22:42:46] sync: feat(crypto): add ed25519 signature verification (7402)
+[2026-01-27 11:10:15] sync: feat(stream): reactive event stream with backpressure (9540)
