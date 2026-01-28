@@ -2372,3 +2372,4 @@
 [2026-01-28 20:23:19] feat(ml): refine training loss convergence thresholds #210
 [2026-01-28 09:38:52] feat(shader): custom volumetric fog and lighting pass #243
 [2026-01-28 19:22:51] refactor(ui): extract reusable glassmorphic UI primitives #531
+[2026-01-28 09:55:05] docs(readme): clarify setup steps and architecture flow #787
