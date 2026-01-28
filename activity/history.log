@@ -2366,3 +2366,4 @@
 [2026-01-27 15:35:40] perf(ml): quantize model weights to int8 for edge deployment #833
 [2026-01-27 15:19:29] feat(router): zero-allocation path parameter matcher #305
 [2026-01-28 19:08:08] test(bench): benchmark p99 latency under sustained load #134
+[2026-01-28 21:48:27] test(e2e): enhance integration coverage for auth flows #297
