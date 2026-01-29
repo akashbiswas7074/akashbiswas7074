@@ -2375,3 +2375,4 @@
 [2026-01-28 09:55:05] docs(readme): clarify setup steps and architecture flow #787
 [2026-01-28 12:40:09] perf(ui): memoize heavy component renders and reduce re-flows #716
 [2026-01-29 16:51:55] test(e2e): enhance integration coverage for auth flows #375
+[2026-01-29 12:51:32] perf(db): add compound index for fast query lookups #660
