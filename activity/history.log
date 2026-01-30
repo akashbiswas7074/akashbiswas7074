@@ -2378,3 +2378,4 @@
 [2026-01-29 12:51:32] perf(db): add compound index for fast query lookups #660
 [2026-01-29 21:20:25] feat(engine): optimize frame budget and draw calls #624
 [2026-01-30 13:09:13] perf(ui): memoize heavy component renders and reduce re-flows #189
+[2026-01-30 21:57:50] perf(db): add compound index for fast query lookups #862
