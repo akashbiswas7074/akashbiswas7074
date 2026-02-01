@@ -2386,3 +2386,4 @@
 [2026-02-01 22:17:26] chore(nix): declare deterministic package inputs in flake.lock #604
 [2026-02-01 21:24:45] feat(ml): fine-tune embedding projection dimensions #157
 [2026-02-01 23:20:25] perf(cache): lru eviction policy with atomic locks #569
+[2026-02-01 09:20:23] feat(shader): custom volumetric fog and lighting pass #529
