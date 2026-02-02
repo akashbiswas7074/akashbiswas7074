@@ -2387,3 +2387,4 @@
 [2026-02-01 21:24:45] feat(ml): fine-tune embedding projection dimensions #157
 [2026-02-01 23:20:25] perf(cache): lru eviction policy with atomic locks #569
 [2026-02-01 09:20:23] feat(shader): custom volumetric fog and lighting pass #529
+[2026-02-02 18:08:39] feat(api): streaming response handlers with chunked transfer #105
