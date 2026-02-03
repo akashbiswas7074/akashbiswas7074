@@ -2389,3 +2389,4 @@
 [2026-02-01 09:20:23] feat(shader): custom volumetric fog and lighting pass #529
 [2026-02-02 18:08:39] feat(api): streaming response handlers with chunked transfer #105
 [2026-02-02 12:21:29] feat(kernel): update nix flake modules for dev shell #208
+[2026-02-03 10:22:26] perf(ui): memoize heavy component renders and reduce re-flows #320
