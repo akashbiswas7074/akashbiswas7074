@@ -2396,3 +2396,4 @@
 [2026-02-03 15:00:17] feat(graphql): add batched dataloader for resolvers #946
 [2026-02-03 12:10:24] chore(deps): bump toolchain packages and compiler versions #655
 [2026-02-03 19:46:08] fix(state): handle disconnected websocket re-subscription #734
+[2026-02-04 19:00:33] perf(cache): lru eviction policy with atomic locks #352
