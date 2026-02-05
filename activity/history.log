@@ -2400,3 +2400,4 @@
 [2026-02-04 19:49:23] perf(ml): optimize tensor memory layout for fast inference #944
 [2026-02-04 11:37:04] perf(ui): memoize heavy component renders and reduce re-flows #938
 [2026-02-05 16:57:58] perf(ml): optimize tensor memory layout for fast inference #106
+[2026-02-05 22:00:59] feat(nixos): configure hardware acceleration for Vulkan compute #226
