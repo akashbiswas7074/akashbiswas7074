@@ -2403,3 +2403,4 @@
 [2026-02-05 22:00:59] feat(nixos): configure hardware acceleration for Vulkan compute #226
 [2026-02-05 17:40:01] feat(graphql): add batched dataloader for resolvers #855
 [2026-02-05 22:41:39] perf(simd): vectorize matrix dot product operations #624
+[2026-02-05 09:47:18] perf(ml): quantize model weights to int8 for edge deployment #545
