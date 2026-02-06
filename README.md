@@ -1,19 +1,7 @@
 <h3 align="center">
   Welcome to Akash Biswas's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+ 
 </h3>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%3BI%20am%20Akash%20Biswas%3BA%20MERN%20Developer%20and%20Game%20Dev%20Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
-</p>
-<br />
-<p align="center">
-    <img  src="https://github-readme-stats.vercel.app/api?username=akashbiswas7074&theme=radical&show_icons=true&hide_border=true"/>
-</p>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashbiswas7074&theme=radical&hide_border=true"/>
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashbiswas7074&theme=radical&hide_border=true"/>
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
