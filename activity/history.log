@@ -2406,3 +2406,4 @@
 [2026-02-05 09:47:18] perf(ml): quantize model weights to int8 for edge deployment #545
 [2026-02-05 23:42:20] perf(cache): lru eviction policy with atomic locks #459
 [2026-02-05 23:58:08] fix(state): handle disconnected websocket re-subscription #642
+[2026-02-07 11:32:23] feat(graphql): add batched dataloader for resolvers #704
