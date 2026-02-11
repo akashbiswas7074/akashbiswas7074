@@ -3052,3 +3052,4 @@
 [2026-02-10 13:15:01] sync: test(e2e): enhance integration coverage for auth flows (2262)
 [2026-02-10 15:04:49] sync: chore(deps): bump toolchain packages and lint rules (5408)
 [2026-02-10 17:52:50] sync: feat(kernel): update nix flake modules for dev shell (9748)
+[2026-02-11 10:35:48] sync: feat(crypto): add ed25519 signature verification (3931)
