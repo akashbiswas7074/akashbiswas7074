@@ -2422,3 +2422,4 @@
 [2026-02-12 23:08:54] fix(memory): patch dangling pointer in audio pipeline #386
 [2026-02-12 16:59:24] feat(ml): refine training loss convergence thresholds #703
 [2026-02-12 23:19:15] feat(ml): refine training loss convergence thresholds #133
+[2026-02-12 15:35:04] refactor(ui): extract reusable glassmorphic UI primitives #794
