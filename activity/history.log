@@ -3059,3 +3059,4 @@
 [2026-02-12 13:08:10] sync: perf(db): add compound index for fast query lookups (8685)
 [2026-02-12 17:09:54] sync: docs(readme): clarify setup steps and architecture flow (4963)
 [2026-02-12 20:55:38] sync: feat(crypto): add ed25519 signature verification (5575)
+[2026-02-12 21:29:15] sync: feat(router): zero-allocation path parameter matcher (3869)
