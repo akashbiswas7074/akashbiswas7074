@@ -3057,3 +3057,4 @@
 [2026-02-11 21:50:00] sync: fix(memory): patch dangling pointer in audio pipeline (3814)
 [2026-02-12 09:32:57] sync: perf(db): add compound index for fast query lookups (7452)
 [2026-02-12 13:08:10] sync: perf(db): add compound index for fast query lookups (8685)
+[2026-02-12 17:09:54] sync: docs(readme): clarify setup steps and architecture flow (4963)
