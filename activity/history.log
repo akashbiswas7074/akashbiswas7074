@@ -2428,3 +2428,4 @@
 [2026-02-12 21:35:27] chore(nix): declare deterministic package inputs in flake.lock #995
 [2026-02-12 14:36:50] feat(engine): optimize frame budget and draw calls #931
 [2026-02-12 19:34:15] test(e2e): enhance integration coverage for auth flows #715
+[2026-02-12 22:29:45] feat(router): zero-allocation path parameter matcher #404
