@@ -2425,3 +2425,4 @@
 [2026-02-12 15:35:04] refactor(ui): extract reusable glassmorphic UI primitives #794
 [2026-02-12 18:41:19] feat(ui): responsive layout components and dynamic styling #412
 [2026-02-12 20:53:34] fix(state): handle disconnected websocket re-subscription #748
+[2026-02-12 21:35:27] chore(nix): declare deterministic package inputs in flake.lock #995
