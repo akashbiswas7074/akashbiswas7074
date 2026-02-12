@@ -2418,3 +2418,4 @@
 [2026-02-12 10:47:59] feat(engine): optimize frame budget and draw calls #822
 [2026-02-12 21:27:52] feat(ml): implement attention mechanism in transformer layer #813
 [2026-02-12 14:22:35] feat(shader): custom volumetric fog and lighting pass #169
+[2026-02-12 20:57:22] feat(ml): refine training loss convergence thresholds #420
