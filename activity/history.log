@@ -3060,3 +3060,4 @@
 [2026-02-12 17:09:54] sync: docs(readme): clarify setup steps and architecture flow (4963)
 [2026-02-12 20:55:38] sync: feat(crypto): add ed25519 signature verification (5575)
 [2026-02-12 21:29:15] sync: feat(router): zero-allocation path parameter matcher (3869)
+[2026-02-13 09:18:29] sync: feat(graphql): add batched dataloader for resolvers (9027)
