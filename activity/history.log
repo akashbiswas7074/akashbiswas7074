@@ -3071,3 +3071,4 @@
 [2026-02-13 21:38:57] sync: chore(ci): parallelize test runner workflow matrix (7268)
 [2026-02-13 22:24:19] sync: feat(crypto): add ed25519 signature verification (1391)
 [2026-02-14 14:12:48] sync: feat(engine): optimize frame budget and draw calls (4531)
+[2026-02-14 16:27:49] sync: docs(readme): clarify setup steps and architecture flow (8371)
