@@ -3077,3 +3077,4 @@
 [2026-02-16 13:45:29] sync: feat(crypto): add ed25519 signature verification (4353)
 [2026-02-16 15:29:08] sync: chore(ci): parallelize test runner workflow matrix (1841)
 [2026-02-16 18:15:09] sync: chore(deps): bump toolchain packages and lint rules (5840)
+[2026-02-16 20:23:03] sync: feat(crypto): add ed25519 signature verification (8620)
