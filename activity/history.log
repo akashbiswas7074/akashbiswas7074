@@ -2444,3 +2444,4 @@
 [2026-02-15 11:00:40] fix(systemd): adjust daemon restart policy on unhandled panic #239
 [2026-02-15 17:53:20] feat(ml): add data augmentation pipeline with random transforms #533
 [2026-02-15 14:26:45] perf(ml): quantize model weights to int8 for edge deployment #319
+[2026-02-16 20:12:10] feat(shader): custom volumetric fog and lighting pass #408
