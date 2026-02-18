@@ -2462,3 +2462,4 @@
 [2026-02-18 18:16:19] perf(ui): memoize heavy component renders and reduce re-flows #549
 [2026-02-18 17:56:18] feat(ml): fine-tune embedding projection dimensions #295
 [2026-02-18 18:50:49] feat(api): streaming response handlers with chunked transfer #165
+[2026-02-18 09:18:53] feat(engine): optimize frame budget and draw calls #192
