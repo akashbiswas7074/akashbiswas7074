@@ -2458,3 +2458,4 @@
 [2026-02-17 23:12:35] perf(cache): lru eviction policy with atomic locks #774
 [2026-02-17 22:53:47] fix(memory): patch dangling pointer in audio pipeline #718
 [2026-02-18 23:27:14] fix(systemd): adjust daemon restart policy on unhandled panic #137
+[2026-02-18 12:04:38] test(bench): benchmark p99 latency under sustained load #810
