@@ -2474,3 +2474,4 @@
 [2026-02-20 22:30:03] perf(db): add compound index for fast query lookups #516
 [2026-02-20 19:39:24] feat(ml): implement cosine learning rate annealing schedule #634
 [2026-02-20 10:39:33] fix(state): handle disconnected websocket re-subscription #841
+[2026-02-20 16:12:46] feat(shader): custom volumetric fog and lighting pass #891
