@@ -2465,3 +2465,4 @@
 [2026-02-18 09:18:53] feat(engine): optimize frame budget and draw calls #192
 [2026-02-18 18:16:31] fix(state): handle disconnected websocket re-subscription #488
 [2026-02-20 10:04:13] feat(ml): fine-tune embedding projection dimensions #778
+[2026-02-20 12:41:23] feat(ml): implement attention mechanism in transformer layer #368
