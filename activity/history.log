@@ -2473,3 +2473,4 @@
 [2026-02-20 16:58:00] feat(api): streaming response handlers with chunked transfer #956
 [2026-02-20 22:30:03] perf(db): add compound index for fast query lookups #516
 [2026-02-20 19:39:24] feat(ml): implement cosine learning rate annealing schedule #634
+[2026-02-20 10:39:33] fix(state): handle disconnected websocket re-subscription #841
