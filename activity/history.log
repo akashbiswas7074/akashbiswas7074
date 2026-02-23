@@ -2475,3 +2475,4 @@
 [2026-02-20 19:39:24] feat(ml): implement cosine learning rate annealing schedule #634
 [2026-02-20 10:39:33] fix(state): handle disconnected websocket re-subscription #841
 [2026-02-20 16:12:46] feat(shader): custom volumetric fog and lighting pass #891
+[2026-02-23 14:16:49] perf(simd): vectorize matrix dot product operations #555
