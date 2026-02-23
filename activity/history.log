@@ -3103,3 +3103,4 @@
 [2026-02-23 15:16:36] sync: perf(gc): reduce object allocation overhead in hot loop (9977)
 [2026-02-23 17:56:57] sync: fix(memory): patch dangling pointer in audio pipeline (6349)
 [2026-02-23 18:33:09] sync: test(bench): benchmark p99 latency under sustained load (9520)
+[2026-02-23 20:43:17] sync: feat(stream): reactive event stream with backpressure (5018)
