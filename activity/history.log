@@ -2482,3 +2482,4 @@
 [2026-02-23 21:12:26] feat(nixos): configure hardware acceleration for Vulkan compute #941
 [2026-02-23 14:12:32] feat(router): zero-allocation path parameter matcher #710
 [2026-02-23 23:21:29] feat(nixos): configure hardware acceleration for Vulkan compute #109
+[2026-02-23 15:11:26] fix(systemd): adjust daemon restart policy on unhandled panic #596
