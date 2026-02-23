@@ -3099,3 +3099,4 @@
 [2026-02-23 10:46:30] sync: fix(api): resolve async connection pooling edge case (4589)
 [2026-02-23 11:29:58] sync: feat(kernel): update nix flake modules for dev shell (9085)
 [2026-02-23 12:07:05] sync: feat(router): zero-allocation path parameter matcher (6615)
+[2026-02-23 13:39:46] sync: feat(crypto): add ed25519 signature verification (8682)
