@@ -2479,3 +2479,4 @@
 [2026-02-23 09:40:01] feat(ui): responsive layout components and dynamic styling #429
 [2026-02-23 10:38:05] test(bench): benchmark p99 latency under sustained load #322
 [2026-02-23 18:45:49] perf(cache): lru eviction policy with atomic locks #157
+[2026-02-23 21:12:26] feat(nixos): configure hardware acceleration for Vulkan compute #941
