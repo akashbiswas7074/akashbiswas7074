@@ -3096,3 +3096,4 @@
 [2026-02-20 20:14:02] sync: perf(db): add compound index for fast query lookups (5962)
 [2026-02-20 22:00:08] sync: test(e2e): enhance integration coverage for auth flows (7854)
 [2026-02-23 09:04:10] sync: perf(db): add compound index for fast query lookups (5350)
+[2026-02-23 10:46:30] sync: fix(api): resolve async connection pooling edge case (4589)
