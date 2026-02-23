@@ -2481,3 +2481,4 @@
 [2026-02-23 18:45:49] perf(cache): lru eviction policy with atomic locks #157
 [2026-02-23 21:12:26] feat(nixos): configure hardware acceleration for Vulkan compute #941
 [2026-02-23 14:12:32] feat(router): zero-allocation path parameter matcher #710
+[2026-02-23 23:21:29] feat(nixos): configure hardware acceleration for Vulkan compute #109
