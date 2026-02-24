@@ -2488,3 +2488,4 @@
 [2026-02-24 22:55:50] feat(ml): implement cosine learning rate annealing schedule #539
 [2026-02-24 17:56:49] refactor(ui): extract reusable glassmorphic UI primitives #401
 [2026-02-24 12:46:50] fix(memory): patch dangling pointer in audio pipeline #859
+[2026-02-24 13:05:54] feat(ml): fine-tune embedding projection dimensions #634
