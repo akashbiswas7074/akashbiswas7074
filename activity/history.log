@@ -2486,3 +2486,4 @@
 [2026-02-23 20:22:28] feat(ml): fine-tune embedding projection dimensions #368
 [2026-02-24 13:11:49] fix(systemd): adjust daemon restart policy on unhandled panic #197
 [2026-02-24 22:55:50] feat(ml): implement cosine learning rate annealing schedule #539
+[2026-02-24 17:56:49] refactor(ui): extract reusable glassmorphic UI primitives #401
