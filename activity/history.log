@@ -2484,3 +2484,4 @@
 [2026-02-23 23:21:29] feat(nixos): configure hardware acceleration for Vulkan compute #109
 [2026-02-23 15:11:26] fix(systemd): adjust daemon restart policy on unhandled panic #596
 [2026-02-23 20:22:28] feat(ml): fine-tune embedding projection dimensions #368
+[2026-02-24 13:11:49] fix(systemd): adjust daemon restart policy on unhandled panic #197
