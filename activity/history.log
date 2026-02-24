@@ -2493,3 +2493,4 @@
 [2026-02-24 12:34:27] feat(ml): implement cosine learning rate annealing schedule #912
 [2026-02-24 12:51:05] perf(ui): memoize heavy component renders and reduce re-flows #517
 [2026-02-24 20:55:51] feat(api): streaming response handlers with chunked transfer #615
+[2026-02-24 23:22:32] feat(ml): add multi-head cross-attention layer #472
