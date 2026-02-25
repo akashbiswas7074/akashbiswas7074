@@ -3108,3 +3108,4 @@
 [2026-02-25 12:51:55] sync: perf(cache): lru eviction policy with atomic locks (2744)
 [2026-02-25 13:52:09] sync: perf(gc): reduce object allocation overhead in hot loop (4663)
 [2026-02-25 14:54:50] sync: feat(ml): refine training loss convergence thresholds (5075)
+[2026-02-25 15:29:57] sync: docs(readme): clarify setup steps and architecture flow (2615)
