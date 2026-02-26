@@ -3113,3 +3113,4 @@
 [2026-02-25 17:26:47] sync: perf(simd): vectorize matrix dot product operations (7869)
 [2026-02-25 18:36:21] sync: refactor(ui): extract reusable component primitives (2329)
 [2026-02-25 22:15:10] sync: feat(stream): reactive event stream with backpressure (8883)
+[2026-02-26 09:52:27] sync: docs(readme): clarify setup steps and architecture flow (7786)
