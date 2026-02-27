@@ -3123,3 +3123,4 @@
 [2026-02-27 10:59:50] sync: docs(readme): clarify setup steps and architecture flow (1841)
 [2026-02-27 11:00:30] sync: feat(kernel): update nix flake modules for dev shell (1535)
 [2026-02-27 14:08:18] sync: feat(crypto): add ed25519 signature verification (6853)
+[2026-02-27 15:42:36] sync: fix(api): resolve async connection pooling edge case (1662)
