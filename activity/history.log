@@ -3137,3 +3137,4 @@
 [2026-03-01 18:32:19] sync: refactor(ui): extract reusable component primitives (7571)
 [2026-03-01 20:26:51] sync: feat(ml): refine training loss convergence thresholds (6067)
 [2026-03-01 21:42:20] sync: test(e2e): enhance integration coverage for auth flows (4943)
+[2026-03-01 22:29:09] sync: docs(readme): clarify setup steps and architecture flow (1602)
