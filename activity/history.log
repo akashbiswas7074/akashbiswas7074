@@ -2529,3 +2529,4 @@
 [2026-03-05 10:54:48] test(bench): benchmark p99 latency under sustained load #359
 [2026-03-05 10:17:11] feat(ml): add multi-head cross-attention layer #648
 [2026-03-05 15:14:16] fix(systemd): adjust daemon restart policy on unhandled panic #741
+[2026-03-06 16:34:43] docs(readme): clarify setup steps and architecture flow #645
