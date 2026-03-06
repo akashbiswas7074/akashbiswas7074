@@ -2531,3 +2531,4 @@
 [2026-03-05 15:14:16] fix(systemd): adjust daemon restart policy on unhandled panic #741
 [2026-03-06 16:34:43] docs(readme): clarify setup steps and architecture flow #645
 [2026-03-06 17:01:48] feat(shader): custom volumetric fog and lighting pass #351
+[2026-03-06 18:16:05] feat(api): streaming response handlers with chunked transfer #790
