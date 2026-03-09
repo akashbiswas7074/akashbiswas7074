@@ -3157,3 +3157,4 @@
 [2026-03-09 12:12:13] sync: docs(readme): clarify setup steps and architecture flow (6447)
 [2026-03-09 14:43:42] sync: feat(graphql): add batched dataloader for resolvers (5480)
 [2026-03-09 15:33:25] sync: feat(graphql): add batched dataloader for resolvers (4222)
+[2026-03-09 16:27:49] sync: perf(db): add compound index for fast query lookups (8453)
