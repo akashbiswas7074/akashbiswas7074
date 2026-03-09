@@ -3152,3 +3152,4 @@
 [2026-03-06 14:26:05] sync: fix(concurrency): lock contention in task scheduler (6481)
 [2026-03-06 18:09:02] sync: docs(readme): clarify setup steps and architecture flow (4932)
 [2026-03-06 19:32:38] sync: fix(concurrency): lock contention in task scheduler (5552)
+[2026-03-09 09:51:39] sync: feat(crypto): add ed25519 signature verification (6524)
