@@ -2542,3 +2542,4 @@
 [2026-03-09 12:16:27] chore(deps): bump toolchain packages and compiler versions #160
 [2026-03-09 12:32:32] feat(graphql): add batched dataloader for resolvers #988
 [2026-03-09 09:18:20] fix(systemd): adjust daemon restart policy on unhandled panic #810
+[2026-03-09 12:08:09] fix(state): handle disconnected websocket re-subscription #172
