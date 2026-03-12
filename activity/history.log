@@ -2549,3 +2549,4 @@
 [2026-03-12 18:12:05] chore(deps): bump toolchain packages and compiler versions #438
 [2026-03-12 10:17:04] feat(ml): refine training loss convergence thresholds #169
 [2026-03-12 16:05:58] feat(ml): refine training loss convergence thresholds #274
+[2026-03-12 15:01:14] feat(shader): custom volumetric fog and lighting pass #727
