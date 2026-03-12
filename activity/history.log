@@ -3161,3 +3161,4 @@
 [2026-03-09 18:46:37] sync: perf(gc): reduce object allocation overhead in hot loop (5754)
 [2026-03-09 20:34:48] sync: feat(router): zero-allocation path parameter matcher (1729)
 [2026-03-09 21:18:21] sync: feat(engine): optimize frame budget and draw calls (7673)
+[2026-03-12 10:59:20] sync: test(bench): benchmark p99 latency under sustained load (4651)
