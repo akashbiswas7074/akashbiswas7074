@@ -2552,3 +2552,4 @@
 [2026-03-12 15:01:14] feat(shader): custom volumetric fog and lighting pass #727
 [2026-03-12 16:41:03] feat(kernel): update nix flake modules for dev shell #814
 [2026-03-12 14:56:35] test(e2e): enhance integration coverage for auth flows #792
+[2026-03-13 11:28:14] test(bench): benchmark p99 latency under sustained load #193
