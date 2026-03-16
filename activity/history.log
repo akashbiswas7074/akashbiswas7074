@@ -2566,3 +2566,4 @@
 [2026-03-16 20:21:41] chore(nix): declare deterministic package inputs in flake.lock #967
 [2026-03-16 10:15:58] test(bench): benchmark p99 latency under sustained load #822
 [2026-03-16 11:36:05] feat(ml): add data augmentation pipeline with random transforms #895
+[2026-03-16 16:04:35] perf(db): add compound index for fast query lookups #995
