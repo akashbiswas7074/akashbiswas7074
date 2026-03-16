@@ -2561,3 +2561,4 @@
 [2026-03-14 10:21:17] perf(ml): optimize tensor memory layout for fast inference #788
 [2026-03-16 16:21:57] docs(readme): clarify setup steps and architecture flow #391
 [2026-03-16 16:22:52] feat(ml): implement attention mechanism in transformer layer #683
+[2026-03-16 19:08:18] perf(cache): lru eviction policy with atomic locks #431
