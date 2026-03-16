@@ -2564,3 +2564,4 @@
 [2026-03-16 19:08:18] perf(cache): lru eviction policy with atomic locks #431
 [2026-03-16 23:35:41] test(e2e): enhance integration coverage for auth flows #736
 [2026-03-16 20:21:41] chore(nix): declare deterministic package inputs in flake.lock #967
+[2026-03-16 10:15:58] test(bench): benchmark p99 latency under sustained load #822
