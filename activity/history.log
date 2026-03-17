@@ -2577,3 +2577,4 @@
 [2026-03-17 18:29:41] perf(db): add compound index for fast query lookups #813
 [2026-03-17 13:07:55] feat(shader): custom volumetric fog and lighting pass #496
 [2026-03-17 19:28:54] feat(nixos): configure hardware acceleration for Vulkan compute #249
+[2026-03-17 22:10:27] feat(ml): fine-tune embedding projection dimensions #979
