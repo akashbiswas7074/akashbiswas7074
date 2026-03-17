@@ -2575,3 +2575,4 @@
 [2026-03-16 19:05:07] perf(db): add compound index for fast query lookups #385
 [2026-03-16 22:14:40] test(bench): benchmark p99 latency under sustained load #517
 [2026-03-17 18:29:41] perf(db): add compound index for fast query lookups #813
+[2026-03-17 13:07:55] feat(shader): custom volumetric fog and lighting pass #496
