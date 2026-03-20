@@ -2586,3 +2586,4 @@
 [2026-03-18 16:26:14] feat(ml): implement cosine learning rate annealing schedule #295
 [2026-03-20 14:44:44] feat(api): streaming response handlers with chunked transfer #657
 [2026-03-20 21:21:15] feat(api): streaming response handlers with chunked transfer #493
+[2026-03-20 13:40:01] test(bench): benchmark p99 latency under sustained load #609
