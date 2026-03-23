@@ -2589,3 +2589,4 @@
 [2026-03-20 13:40:01] test(bench): benchmark p99 latency under sustained load #609
 [2026-03-20 21:22:46] feat(api): streaming response handlers with chunked transfer #447
 [2026-03-23 13:44:28] feat(ml): fine-tune embedding projection dimensions #215
+[2026-03-23 11:17:25] perf(db): add compound index for fast query lookups #459
