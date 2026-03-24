@@ -2596,3 +2596,4 @@
 [2026-03-23 14:27:20] feat(ml): refine training loss convergence thresholds #469
 [2026-03-23 12:52:13] feat(shader): custom volumetric fog and lighting pass #951
 [2026-03-24 10:23:59] fix(state): handle disconnected websocket re-subscription #537
+[2026-03-24 15:48:25] feat(ml): fine-tune embedding projection dimensions #967
