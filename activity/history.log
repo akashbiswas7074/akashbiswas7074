@@ -2599,3 +2599,4 @@
 [2026-03-24 15:48:25] feat(ml): fine-tune embedding projection dimensions #967
 [2026-03-24 22:38:41] test(bench): benchmark p99 latency under sustained load #776
 [2026-03-24 22:08:18] test(bench): benchmark p99 latency under sustained load #194
+[2026-03-24 11:20:49] feat(ml): add multi-head cross-attention layer #334
