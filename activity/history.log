@@ -2606,3 +2606,4 @@
 [2026-03-26 18:49:13] feat(nixos): configure hardware acceleration for Vulkan compute #558
 [2026-03-26 17:42:58] fix(state): handle disconnected websocket re-subscription #257
 [2026-03-27 09:03:49] feat(api): streaming response handlers with chunked transfer #471
+[2026-03-27 12:05:01] feat(nixos): configure hardware acceleration for Vulkan compute #291
