@@ -2614,3 +2614,4 @@
 [2026-03-27 12:19:29] feat(engine): optimize frame budget and draw calls #714
 [2026-03-27 17:42:16] feat(ml): refine training loss convergence thresholds #124
 [2026-03-27 12:10:39] perf(simd): vectorize matrix dot product operations #623
+[2026-03-27 14:41:48] feat(router): zero-allocation path parameter matcher #817
