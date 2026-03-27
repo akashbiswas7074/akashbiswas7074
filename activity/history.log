@@ -2609,3 +2609,4 @@
 [2026-03-27 12:05:01] feat(nixos): configure hardware acceleration for Vulkan compute #291
 [2026-03-27 09:25:52] docs(readme): clarify setup steps and architecture flow #432
 [2026-03-27 11:06:24] feat(ml): implement attention mechanism in transformer layer #857
+[2026-03-27 11:20:56] perf(cache): lru eviction policy with atomic locks #609
