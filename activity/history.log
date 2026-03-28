@@ -2617,3 +2617,4 @@
 [2026-03-27 14:41:48] feat(router): zero-allocation path parameter matcher #817
 [2026-03-27 22:02:39] chore(nix): declare deterministic package inputs in flake.lock #424
 [2026-03-27 13:50:56] test(e2e): enhance integration coverage for auth flows #907
+[2026-03-28 21:34:46] fix(memory): patch dangling pointer in audio pipeline #357
