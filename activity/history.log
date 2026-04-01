@@ -3236,3 +3236,4 @@
 [2026-04-01 10:44:08] sync: test(bench): benchmark p99 latency under sustained load (4020)
 [2026-04-01 13:52:41] sync: test(bench): benchmark p99 latency under sustained load (2965)
 [2026-04-01 16:42:15] sync: docs(readme): clarify setup steps and architecture flow (1658)
+[2026-04-01 18:14:15] sync: perf(db): add compound index for fast query lookups (2182)
