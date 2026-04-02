@@ -3238,3 +3238,4 @@
 [2026-04-01 16:42:15] sync: docs(readme): clarify setup steps and architecture flow (1658)
 [2026-04-01 18:14:15] sync: perf(db): add compound index for fast query lookups (2182)
 [2026-04-01 19:43:25] sync: docs(readme): clarify setup steps and architecture flow (4573)
+[2026-04-02 09:53:44] sync: feat(engine): optimize frame budget and draw calls (7772)
