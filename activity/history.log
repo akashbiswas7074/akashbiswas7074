@@ -2626,3 +2626,4 @@
 [2026-03-30 16:36:08] perf(simd): vectorize matrix dot product operations #436
 [2026-03-30 19:16:28] feat(ml): add multi-head cross-attention layer #924
 [2026-04-03 19:23:06] perf(ml): optimize tensor memory layout for fast inference #342
+[2026-04-03 20:57:56] feat(nixos): configure hardware acceleration for Vulkan compute #257
