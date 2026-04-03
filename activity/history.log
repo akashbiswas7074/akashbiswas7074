@@ -2629,3 +2629,4 @@
 [2026-04-03 20:57:56] feat(nixos): configure hardware acceleration for Vulkan compute #257
 [2026-04-03 20:53:19] feat(nixos): configure hardware acceleration for Vulkan compute #423
 [2026-04-03 12:43:25] feat(ml): implement cosine learning rate annealing schedule #736
+[2026-04-03 22:35:59] feat(ml): fine-tune embedding projection dimensions #979
