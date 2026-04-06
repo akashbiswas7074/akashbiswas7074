@@ -2637,3 +2637,4 @@
 [2026-04-06 21:18:15] feat(engine): optimize frame budget and draw calls #284
 [2026-04-06 17:15:34] feat(ml): implement attention mechanism in transformer layer #858
 [2026-04-06 21:36:51] feat(nixos): configure hardware acceleration for Vulkan compute #978
+[2026-04-06 19:16:55] feat(graphql): add batched dataloader for resolvers #624
