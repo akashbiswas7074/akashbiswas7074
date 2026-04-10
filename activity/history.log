@@ -2649,3 +2649,4 @@
 [2026-04-09 22:06:00] perf(cache): lru eviction policy with atomic locks #124
 [2026-04-09 20:46:57] test(bench): benchmark p99 latency under sustained load #162
 [2026-04-09 11:37:32] perf(simd): vectorize matrix dot product operations #265
+[2026-04-10 12:24:17] feat(shader): custom volumetric fog and lighting pass #138
