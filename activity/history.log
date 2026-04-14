@@ -2661,3 +2661,4 @@
 [2026-04-14 11:18:28] feat(ml): add multi-head cross-attention layer #246
 [2026-04-14 23:33:45] perf(cache): lru eviction policy with atomic locks #807
 [2026-04-14 20:21:33] feat(ml): implement cosine learning rate annealing schedule #347
+[2026-04-14 17:42:27] feat(api): streaming response handlers with chunked transfer #228
