@@ -3251,3 +3251,4 @@
 [2026-04-14 11:56:18] sync: docs(readme): clarify setup steps and architecture flow (5643)
 [2026-04-14 16:17:11] sync: chore(ci): parallelize test runner workflow matrix (1225)
 [2026-04-14 17:30:50] sync: feat(graphql): add batched dataloader for resolvers (2069)
+[2026-04-14 21:37:29] sync: feat(crypto): add ed25519 signature verification (5967)
