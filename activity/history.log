@@ -3248,3 +3248,4 @@
 [2026-04-03 14:31:17] sync: chore(ci): parallelize test runner workflow matrix (1801)
 [2026-04-03 15:16:00] sync: chore(ci): parallelize test runner workflow matrix (8595)
 [2026-04-14 09:18:13] sync: chore(ci): parallelize test runner workflow matrix (2809)
+[2026-04-14 11:56:18] sync: docs(readme): clarify setup steps and architecture flow (5643)
