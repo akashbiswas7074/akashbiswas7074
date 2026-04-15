@@ -2666,3 +2666,4 @@
 [2026-04-15 16:25:21] feat(ml): implement attention mechanism in transformer layer #642
 [2026-04-15 21:18:45] fix(state): handle disconnected websocket re-subscription #756
 [2026-04-15 12:08:44] docs(readme): clarify setup steps and architecture flow #455
+[2026-04-15 10:28:59] feat(router): zero-allocation path parameter matcher #607
