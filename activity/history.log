@@ -2664,3 +2664,4 @@
 [2026-04-14 17:42:27] feat(api): streaming response handlers with chunked transfer #228
 [2026-04-15 20:21:51] feat(engine): optimize frame budget and draw calls #512
 [2026-04-15 16:25:21] feat(ml): implement attention mechanism in transformer layer #642
+[2026-04-15 21:18:45] fix(state): handle disconnected websocket re-subscription #756
