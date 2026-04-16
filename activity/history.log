@@ -3253,3 +3253,4 @@
 [2026-04-14 17:30:50] sync: feat(graphql): add batched dataloader for resolvers (2069)
 [2026-04-14 21:37:29] sync: feat(crypto): add ed25519 signature verification (5967)
 [2026-04-16 10:28:57] sync: docs(readme): clarify setup steps and architecture flow (1280)
+[2026-04-16 11:49:15] sync: fix(concurrency): lock contention in task scheduler (7300)
