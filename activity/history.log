@@ -3257,3 +3257,4 @@
 [2026-04-16 12:14:35] sync: feat(graphql): add batched dataloader for resolvers (3370)
 [2026-04-16 13:07:17] sync: feat(crypto): add ed25519 signature verification (9552)
 [2026-04-16 14:16:44] sync: chore(deps): bump toolchain packages and lint rules (5453)
+[2026-04-16 15:55:42] sync: feat(graphql): add batched dataloader for resolvers (6082)
