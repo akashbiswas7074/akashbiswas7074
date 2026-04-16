@@ -2670,3 +2670,4 @@
 [2026-04-16 17:32:21] feat(ui): responsive layout components and dynamic styling #991
 [2026-04-16 18:14:32] feat(ml): add multi-head cross-attention layer #838
 [2026-04-16 14:26:45] fix(systemd): adjust daemon restart policy on unhandled panic #342
+[2026-04-16 13:26:12] refactor(ui): extract reusable glassmorphic UI primitives #802
