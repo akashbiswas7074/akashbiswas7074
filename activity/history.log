@@ -2676,3 +2676,4 @@
 [2026-04-17 18:22:33] chore(nix): declare deterministic package inputs in flake.lock #675
 [2026-04-17 13:43:28] feat(graphql): add batched dataloader for resolvers #487
 [2026-04-17 09:37:31] feat(shader): custom volumetric fog and lighting pass #579
+[2026-04-17 17:59:19] test(bench): benchmark p99 latency under sustained load #193
