@@ -2678,3 +2678,4 @@
 [2026-04-17 09:37:31] feat(shader): custom volumetric fog and lighting pass #579
 [2026-04-17 17:59:19] test(bench): benchmark p99 latency under sustained load #193
 [2026-04-17 14:50:15] feat(ml): fine-tune embedding projection dimensions #991
+[2026-04-17 15:48:53] feat(graphql): add batched dataloader for resolvers #798
