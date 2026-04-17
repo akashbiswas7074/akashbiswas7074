@@ -2680,3 +2680,4 @@
 [2026-04-17 14:50:15] feat(ml): fine-tune embedding projection dimensions #991
 [2026-04-17 15:48:53] feat(graphql): add batched dataloader for resolvers #798
 [2026-04-17 14:06:58] feat(graphql): add batched dataloader for resolvers #666
+[2026-04-17 20:40:45] chore(nix): declare deterministic package inputs in flake.lock #114
