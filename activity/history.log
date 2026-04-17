@@ -2675,3 +2675,4 @@
 [2026-04-17 21:40:29] perf(ml): optimize tensor memory layout for fast inference #348
 [2026-04-17 18:22:33] chore(nix): declare deterministic package inputs in flake.lock #675
 [2026-04-17 13:43:28] feat(graphql): add batched dataloader for resolvers #487
+[2026-04-17 09:37:31] feat(shader): custom volumetric fog and lighting pass #579
