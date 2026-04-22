@@ -2683,3 +2683,4 @@
 [2026-04-17 20:40:45] chore(nix): declare deterministic package inputs in flake.lock #114
 [2026-04-17 14:34:02] feat(engine): optimize frame budget and draw calls #175
 [2026-04-17 09:49:30] fix(state): handle disconnected websocket re-subscription #633
+[2026-04-22 20:50:08] feat(graphql): add batched dataloader for resolvers #966
