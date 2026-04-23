@@ -2690,3 +2690,4 @@
 [2026-04-23 17:20:34] feat(ml): implement cosine learning rate annealing schedule #245
 [2026-04-23 11:39:04] feat(ml): implement attention mechanism in transformer layer #742
 [2026-04-23 09:43:59] feat(ml): implement attention mechanism in transformer layer #498
+[2026-04-23 17:17:11] feat(router): zero-allocation path parameter matcher #927
