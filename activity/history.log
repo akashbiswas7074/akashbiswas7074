@@ -2698,3 +2698,4 @@
 [2026-04-23 10:01:48] feat(nixos): configure hardware acceleration for Vulkan compute #972
 [2026-04-23 17:16:16] feat(shader): custom volumetric fog and lighting pass #389
 [2026-04-23 17:10:44] test(e2e): enhance integration coverage for auth flows #200
+[2026-04-23 11:59:47] feat(shader): custom volumetric fog and lighting pass #456
