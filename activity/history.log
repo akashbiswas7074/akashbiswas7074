@@ -3296,3 +3296,4 @@
 [2026-04-23 14:09:44] sync: fix(api): resolve async connection pooling edge case (3606)
 [2026-04-23 19:30:24] sync: feat(engine): optimize frame budget and draw calls (3807)
 [2026-04-23 20:23:02] sync: perf(gc): reduce object allocation overhead in hot loop (3868)
+[2026-04-23 22:43:53] sync: chore(ci): parallelize test runner workflow matrix (2778)
