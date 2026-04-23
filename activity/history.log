@@ -2693,3 +2693,4 @@
 [2026-04-23 17:17:11] feat(router): zero-allocation path parameter matcher #927
 [2026-04-23 11:34:10] docs(readme): clarify setup steps and architecture flow #972
 [2026-04-23 13:11:01] feat(nixos): configure hardware acceleration for Vulkan compute #281
+[2026-04-23 17:46:42] feat(ml): add data augmentation pipeline with random transforms #425
