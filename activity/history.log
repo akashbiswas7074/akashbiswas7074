@@ -2701,3 +2701,4 @@
 [2026-04-23 11:59:47] feat(shader): custom volumetric fog and lighting pass #456
 [2026-04-24 10:39:06] perf(ml): optimize tensor memory layout for fast inference #586
 [2026-04-24 10:25:40] perf(db): add compound index for fast query lookups #598
+[2026-04-24 17:45:40] feat(shader): custom volumetric fog and lighting pass #860
