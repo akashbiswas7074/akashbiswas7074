@@ -2705,3 +2705,4 @@
 [2026-04-24 16:36:21] feat(graphql): add batched dataloader for resolvers #181
 [2026-04-25 15:14:29] feat(ml): implement attention mechanism in transformer layer #391
 [2026-04-25 23:28:11] perf(ui): memoize heavy component renders and reduce re-flows #180
+[2026-04-25 14:54:36] feat(ml): implement cosine learning rate annealing schedule #264
