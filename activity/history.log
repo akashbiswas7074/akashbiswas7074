@@ -2709,3 +2709,4 @@
 [2026-04-25 13:04:12] feat(ml): implement attention mechanism in transformer layer #464
 [2026-04-25 09:53:14] feat(ml): implement cosine learning rate annealing schedule #835
 [2026-04-27 15:08:50] docs(readme): clarify setup steps and architecture flow #513
+[2026-04-27 13:03:50] fix(systemd): adjust daemon restart policy on unhandled panic #452
