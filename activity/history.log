@@ -2712,3 +2712,4 @@
 [2026-04-27 13:03:50] fix(systemd): adjust daemon restart policy on unhandled panic #452
 [2026-04-27 17:44:16] feat(ml): implement cosine learning rate annealing schedule #426
 [2026-04-27 09:08:03] fix(state): handle disconnected websocket re-subscription #983
+[2026-04-27 22:56:13] feat(ml): fine-tune embedding projection dimensions #865
