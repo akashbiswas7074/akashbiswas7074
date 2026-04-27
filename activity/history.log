@@ -2720,3 +2720,4 @@
 [2026-04-27 10:29:54] chore(nix): declare deterministic package inputs in flake.lock #459
 [2026-04-27 19:47:25] test(e2e): enhance integration coverage for auth flows #721
 [2026-04-27 14:57:12] feat(shader): custom volumetric fog and lighting pass #997
+[2026-04-27 11:03:25] feat(kernel): update nix flake modules for dev shell #639
