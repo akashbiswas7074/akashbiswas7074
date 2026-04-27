@@ -2711,3 +2711,4 @@
 [2026-04-27 15:08:50] docs(readme): clarify setup steps and architecture flow #513
 [2026-04-27 13:03:50] fix(systemd): adjust daemon restart policy on unhandled panic #452
 [2026-04-27 17:44:16] feat(ml): implement cosine learning rate annealing schedule #426
+[2026-04-27 09:08:03] fix(state): handle disconnected websocket re-subscription #983
