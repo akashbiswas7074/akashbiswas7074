@@ -2724,3 +2724,4 @@
 [2026-04-27 12:41:59] docs(readme): clarify setup steps and architecture flow #786
 [2026-04-28 11:59:00] perf(cache): lru eviction policy with atomic locks #661
 [2026-04-28 18:01:02] chore(nix): declare deterministic package inputs in flake.lock #883
+[2026-04-28 12:05:33] feat(graphql): add batched dataloader for resolvers #447
