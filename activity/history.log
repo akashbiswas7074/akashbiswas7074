@@ -2740,3 +2740,4 @@
 [2026-04-29 22:42:09] feat(engine): optimize frame budget and draw calls #267
 [2026-04-29 23:06:41] perf(cache): lru eviction policy with atomic locks #461
 [2026-04-29 10:35:45] fix(state): handle disconnected websocket re-subscription #724
+[2026-04-29 21:52:11] feat(engine): optimize frame budget and draw calls #663
