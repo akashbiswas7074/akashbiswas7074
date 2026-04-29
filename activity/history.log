@@ -2739,3 +2739,4 @@
 [2026-04-29 16:57:49] feat(ml): implement attention mechanism in transformer layer #374
 [2026-04-29 22:42:09] feat(engine): optimize frame budget and draw calls #267
 [2026-04-29 23:06:41] perf(cache): lru eviction policy with atomic locks #461
+[2026-04-29 10:35:45] fix(state): handle disconnected websocket re-subscription #724
