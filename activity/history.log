@@ -2729,3 +2729,4 @@
 [2026-04-28 16:25:50] feat(api): streaming response handlers with chunked transfer #448
 [2026-04-28 14:33:21] chore(nix): declare deterministic package inputs in flake.lock #599
 [2026-04-28 10:35:14] feat(ml): fine-tune embedding projection dimensions #526
+[2026-04-29 16:14:12] test(e2e): enhance integration coverage for auth flows #968
