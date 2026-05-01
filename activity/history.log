@@ -2759,3 +2759,4 @@
 [2026-05-01 12:30:36] perf(simd): vectorize matrix dot product operations #275
 [2026-05-01 09:48:33] docs(readme): clarify setup steps and architecture flow #458
 [2026-05-01 13:24:50] chore(deps): bump toolchain packages and compiler versions #972
+[2026-05-01 13:10:24] feat(ml): add multi-head cross-attention layer #333
