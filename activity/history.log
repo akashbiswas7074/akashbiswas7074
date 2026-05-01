@@ -2753,3 +2753,4 @@
 [2026-05-01 17:44:48] feat(api): streaming response handlers with chunked transfer #168
 [2026-05-01 09:38:36] perf(simd): vectorize matrix dot product operations #151
 [2026-05-01 11:19:28] perf(db): add compound index for fast query lookups #842
+[2026-05-01 21:08:49] feat(engine): optimize frame budget and draw calls #803
