@@ -2747,3 +2747,4 @@
 [2026-04-30 11:47:38] feat(ml): fine-tune embedding projection dimensions #613
 [2026-04-30 11:56:20] test(bench): benchmark p99 latency under sustained load #620
 [2026-05-01 11:31:48] test(e2e): enhance integration coverage for auth flows #573
+[2026-05-01 12:20:44] perf(db): add compound index for fast query lookups #531
