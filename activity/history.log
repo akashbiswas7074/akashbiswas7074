@@ -3321,3 +3321,4 @@
 [2026-05-04 11:01:02] sync: feat(engine): optimize frame budget and draw calls (1447)
 [2026-05-04 13:49:42] sync: feat(engine): optimize frame budget and draw calls (1497)
 [2026-05-04 14:05:20] sync: feat(kernel): update nix flake modules for dev shell (2328)
+[2026-05-04 19:05:44] sync: test(e2e): enhance integration coverage for auth flows (8877)
