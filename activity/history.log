@@ -3323,3 +3323,4 @@
 [2026-05-04 14:05:20] sync: feat(kernel): update nix flake modules for dev shell (2328)
 [2026-05-04 19:05:44] sync: test(e2e): enhance integration coverage for auth flows (8877)
 [2026-05-05 10:28:50] sync: perf(gc): reduce object allocation overhead in hot loop (7087)
+[2026-05-05 21:03:50] sync: feat(stream): reactive event stream with backpressure (1423)
