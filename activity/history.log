@@ -3326,3 +3326,4 @@
 [2026-05-05 21:03:50] sync: feat(stream): reactive event stream with backpressure (1423)
 [2026-05-07 10:18:16] sync: feat(kernel): update nix flake modules for dev shell (2393)
 [2026-05-07 11:34:52] sync: docs(readme): clarify setup steps and architecture flow (9847)
+[2026-05-07 13:30:18] sync: fix(concurrency): lock contention in task scheduler (9556)
