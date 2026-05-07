@@ -2771,3 +2771,4 @@
 [2026-05-07 12:47:55] perf(cache): lru eviction policy with atomic locks #435
 [2026-05-07 15:26:57] chore(nix): declare deterministic package inputs in flake.lock #129
 [2026-05-07 10:34:48] test(e2e): enhance integration coverage for auth flows #997
+[2026-05-07 19:49:27] fix(systemd): adjust daemon restart policy on unhandled panic #226
