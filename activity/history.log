@@ -2777,3 +2777,4 @@
 [2026-05-08 23:16:13] test(bench): benchmark p99 latency under sustained load #468
 [2026-05-08 10:40:49] feat(shader): custom volumetric fog and lighting pass #473
 [2026-05-08 10:28:25] feat(ml): add data augmentation pipeline with random transforms #620
+[2026-05-08 09:16:36] perf(ml): quantize model weights to int8 for edge deployment #622
