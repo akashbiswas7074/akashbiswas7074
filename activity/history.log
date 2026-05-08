@@ -2774,3 +2774,4 @@
 [2026-05-07 19:49:27] fix(systemd): adjust daemon restart policy on unhandled panic #226
 [2026-05-07 10:27:08] feat(engine): optimize frame budget and draw calls #514
 [2026-05-08 17:22:25] feat(ml): add data augmentation pipeline with random transforms #747
+[2026-05-08 23:16:13] test(bench): benchmark p99 latency under sustained load #468
