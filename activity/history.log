@@ -2786,3 +2786,4 @@
 [2026-05-11 12:53:53] docs(readme): clarify setup steps and architecture flow #773
 [2026-05-11 17:39:01] fix(memory): patch dangling pointer in audio pipeline #882
 [2026-05-11 23:26:04] feat(nixos): configure hardware acceleration for Vulkan compute #284
+[2026-05-11 12:46:43] perf(ml): optimize tensor memory layout for fast inference #970
