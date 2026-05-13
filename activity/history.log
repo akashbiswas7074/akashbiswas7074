@@ -3353,3 +3353,4 @@
 [2026-05-12 22:44:25] sync: feat(stream): reactive event stream with backpressure (5835)
 [2026-05-13 11:26:19] sync: feat(kernel): update nix flake modules for dev shell (1339)
 [2026-05-13 13:15:56] sync: chore(ci): parallelize test runner workflow matrix (3138)
+[2026-05-13 17:23:46] sync: feat(graphql): add batched dataloader for resolvers (8059)
