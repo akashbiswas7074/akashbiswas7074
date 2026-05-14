@@ -3356,3 +3356,4 @@
 [2026-05-13 17:23:46] sync: feat(graphql): add batched dataloader for resolvers (8059)
 [2026-05-13 18:13:06] sync: refactor(ui): extract reusable component primitives (5126)
 [2026-05-13 20:05:29] sync: perf(db): add compound index for fast query lookups (7392)
+[2026-05-14 13:10:22] sync: feat(crypto): add ed25519 signature verification (5761)
