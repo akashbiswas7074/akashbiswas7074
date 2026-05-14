@@ -2795,3 +2795,4 @@
 [2026-05-13 23:51:27] feat(ml): add multi-head cross-attention layer #535
 [2026-05-14 15:01:02] feat(ui): responsive layout components and dynamic styling #287
 [2026-05-14 13:44:52] fix(state): handle disconnected websocket re-subscription #928
+[2026-05-14 16:05:30] fix(state): handle disconnected websocket re-subscription #383
