@@ -2797,3 +2797,4 @@
 [2026-05-14 13:44:52] fix(state): handle disconnected websocket re-subscription #928
 [2026-05-14 16:05:30] fix(state): handle disconnected websocket re-subscription #383
 [2026-05-14 15:42:33] feat(shader): custom volumetric fog and lighting pass #199
+[2026-05-14 18:30:45] perf(ml): quantize model weights to int8 for edge deployment #225
