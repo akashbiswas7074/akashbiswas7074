@@ -3366,3 +3366,4 @@
 [2026-05-15 14:46:06] sync: feat(crypto): add ed25519 signature verification (4955)
 [2026-05-15 17:35:44] sync: feat(graphql): add batched dataloader for resolvers (9499)
 [2026-05-15 19:11:53] sync: perf(cache): lru eviction policy with atomic locks (6432)
+[2026-05-15 22:46:08] sync: feat(router): zero-allocation path parameter matcher (2008)
