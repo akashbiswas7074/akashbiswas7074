@@ -2803,3 +2803,4 @@
 [2026-05-14 22:29:38] feat(ui): responsive layout components and dynamic styling #314
 [2026-05-16 19:17:51] perf(db): add compound index for fast query lookups #269
 [2026-05-16 17:57:04] perf(simd): vectorize matrix dot product operations #754
+[2026-05-16 21:08:08] perf(ml): quantize model weights to int8 for edge deployment #891
