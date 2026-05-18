@@ -2809,3 +2809,4 @@
 [2026-05-18 19:13:28] feat(kernel): update nix flake modules for dev shell #966
 [2026-05-18 21:29:43] perf(ml): optimize tensor memory layout for fast inference #468
 [2026-05-18 17:49:12] fix(systemd): adjust daemon restart policy on unhandled panic #569
+[2026-05-18 17:38:31] test(bench): benchmark p99 latency under sustained load #479
