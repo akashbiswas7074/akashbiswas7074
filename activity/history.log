@@ -3375,3 +3375,4 @@
 [2026-05-17 20:05:06] sync: feat(stream): reactive event stream with backpressure (8450)
 [2026-05-17 22:33:29] sync: chore(deps): bump toolchain packages and lint rules (9919)
 [2026-05-18 09:15:37] sync: fix(api): resolve async connection pooling edge case (4243)
+[2026-05-18 12:31:13] sync: docs(readme): clarify setup steps and architecture flow (7635)
