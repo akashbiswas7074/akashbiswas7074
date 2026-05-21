@@ -2822,3 +2822,4 @@
 [2026-05-19 18:24:42] feat(ml): refine training loss convergence thresholds #606
 [2026-05-19 14:11:00] feat(ml): refine training loss convergence thresholds #653
 [2026-05-19 12:33:03] chore(deps): bump toolchain packages and compiler versions #464
+[2026-05-21 17:20:03] fix(memory): patch dangling pointer in audio pipeline #879
