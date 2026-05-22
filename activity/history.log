@@ -3397,3 +3397,4 @@
 [2026-05-22 12:21:21] sync: chore(ci): parallelize test runner workflow matrix (2257)
 [2026-05-22 15:05:16] sync: perf(db): add compound index for fast query lookups (5816)
 [2026-05-22 18:08:33] sync: perf(gc): reduce object allocation overhead in hot loop (7672)
+[2026-05-22 19:47:02] sync: feat(crypto): add ed25519 signature verification (1348)
