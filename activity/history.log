@@ -3406,3 +3406,4 @@
 [2026-05-26 09:09:43] sync: feat(router): zero-allocation path parameter matcher (2190)
 [2026-05-26 10:20:47] sync: test(e2e): enhance integration coverage for auth flows (2637)
 [2026-05-26 12:11:49] sync: test(e2e): enhance integration coverage for auth flows (5161)
+[2026-05-26 14:57:21] sync: feat(crypto): add ed25519 signature verification (1852)
