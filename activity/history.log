@@ -3410,3 +3410,4 @@
 [2026-05-26 15:52:27] sync: feat(graphql): add batched dataloader for resolvers (4004)
 [2026-05-26 18:27:36] sync: chore(deps): bump toolchain packages and lint rules (8952)
 [2026-05-26 20:40:54] sync: fix(concurrency): lock contention in task scheduler (7954)
+[2026-05-26 22:48:35] sync: docs(readme): clarify setup steps and architecture flow (4454)
