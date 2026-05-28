@@ -3417,3 +3417,4 @@
 [2026-05-27 21:55:42] sync: perf(gc): reduce object allocation overhead in hot loop (9660)
 [2026-05-28 09:06:42] sync: feat(crypto): add ed25519 signature verification (8397)
 [2026-05-28 10:44:44] sync: feat(engine): optimize frame budget and draw calls (1778)
+[2026-05-28 11:32:23] sync: test(bench): benchmark p99 latency under sustained load (2062)
