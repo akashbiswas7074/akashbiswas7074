@@ -3426,3 +3426,4 @@
 [2026-05-29 10:34:50] sync: feat(crypto): add ed25519 signature verification (7293)
 [2026-05-29 11:40:36] sync: feat(ml): refine training loss convergence thresholds (3407)
 [2026-05-29 13:21:36] sync: chore(deps): bump toolchain packages and lint rules (5823)
+[2026-05-29 16:01:49] sync: feat(graphql): add batched dataloader for resolvers (6072)
