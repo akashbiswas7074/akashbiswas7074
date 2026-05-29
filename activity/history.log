@@ -2838,3 +2838,4 @@
 [2026-05-28 23:37:17] feat(nixos): configure hardware acceleration for Vulkan compute #818
 [2026-05-28 23:18:31] feat(shader): custom volumetric fog and lighting pass #310
 [2026-05-29 11:23:31] docs(readme): clarify setup steps and architecture flow #917
+[2026-05-29 09:55:25] feat(ml): implement cosine learning rate annealing schedule #414
