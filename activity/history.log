@@ -2837,3 +2837,4 @@
 [2026-05-28 13:09:26] fix(systemd): adjust daemon restart policy on unhandled panic #548
 [2026-05-28 23:37:17] feat(nixos): configure hardware acceleration for Vulkan compute #818
 [2026-05-28 23:18:31] feat(shader): custom volumetric fog and lighting pass #310
+[2026-05-29 11:23:31] docs(readme): clarify setup steps and architecture flow #917
