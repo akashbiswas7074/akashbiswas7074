@@ -3432,3 +3432,4 @@
 [2026-05-29 19:53:49] sync: feat(ml): refine training loss convergence thresholds (5823)
 [2026-05-29 20:49:09] sync: chore(ci): parallelize test runner workflow matrix (7622)
 [2026-05-29 21:36:35] sync: perf(db): add compound index for fast query lookups (7681)
+[2026-05-29 22:39:44] sync: feat(engine): optimize frame budget and draw calls (8749)
