@@ -3445,3 +3445,4 @@
 [2026-05-31 11:36:24] sync: feat(crypto): add ed25519 signature verification (7667)
 [2026-05-31 12:40:04] sync: test(e2e): enhance integration coverage for auth flows (1244)
 [2026-05-31 14:35:30] sync: chore(ci): parallelize test runner workflow matrix (2609)
+[2026-05-31 15:43:53] sync: docs(readme): clarify setup steps and architecture flow (4117)
