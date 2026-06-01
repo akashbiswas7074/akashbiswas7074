@@ -2849,3 +2849,4 @@
 [2026-05-31 18:04:38] feat(ml): implement cosine learning rate annealing schedule #337
 [2026-05-31 21:37:36] feat(ml): add data augmentation pipeline with random transforms #587
 [2026-06-01 22:55:04] feat(ml): refine training loss convergence thresholds #626
+[2026-06-01 16:29:21] perf(db): add compound index for fast query lookups #798
