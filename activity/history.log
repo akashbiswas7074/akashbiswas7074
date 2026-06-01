@@ -2848,3 +2848,4 @@
 [2026-05-31 20:21:25] feat(ml): fine-tune embedding projection dimensions #548
 [2026-05-31 18:04:38] feat(ml): implement cosine learning rate annealing schedule #337
 [2026-05-31 21:37:36] feat(ml): add data augmentation pipeline with random transforms #587
+[2026-06-01 22:55:04] feat(ml): refine training loss convergence thresholds #626
