@@ -2854,3 +2854,4 @@
 [2026-06-01 09:42:50] test(bench): benchmark p99 latency under sustained load #837
 [2026-06-01 18:25:48] perf(ml): quantize model weights to int8 for edge deployment #288
 [2026-06-03 21:15:12] feat(graphql): add batched dataloader for resolvers #475
+[2026-06-03 18:26:38] feat(nixos): configure hardware acceleration for Vulkan compute #554
