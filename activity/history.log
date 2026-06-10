@@ -2862,3 +2862,4 @@
 [2026-06-03 15:18:35] refactor(ui): extract reusable glassmorphic UI primitives #184
 [2026-06-08 16:45:26] fix(memory): patch dangling pointer in audio pipeline #701
 [2026-06-10 18:02:23] feat(shader): custom volumetric fog and lighting pass #779
+[2026-06-10 13:32:15] feat(shader): custom volumetric fog and lighting pass #741
