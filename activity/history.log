@@ -3475,3 +3475,4 @@
 [2026-06-10 10:05:59] sync: docs(readme): clarify setup steps and architecture flow (6147)
 [2026-06-10 12:22:45] sync: feat(kernel): update nix flake modules for dev shell (4319)
 [2026-06-10 13:22:58] sync: perf(simd): vectorize matrix dot product operations (2781)
+[2026-06-10 16:29:34] sync: fix(api): resolve async connection pooling edge case (8606)
