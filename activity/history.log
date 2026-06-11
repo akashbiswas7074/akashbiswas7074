@@ -2884,3 +2884,4 @@
 [2026-06-11 09:57:36] test(bench): benchmark p99 latency under sustained load #817
 [2026-06-11 17:25:11] feat(api): streaming response handlers with chunked transfer #234
 [2026-06-11 16:06:07] test(e2e): enhance integration coverage for auth flows #117
+[2026-06-11 11:13:40] feat(ml): add multi-head cross-attention layer #788
