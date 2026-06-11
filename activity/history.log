@@ -2882,3 +2882,4 @@
 [2026-06-11 15:47:12] chore(deps): bump toolchain packages and compiler versions #843
 [2026-06-11 19:18:53] test(bench): benchmark p99 latency under sustained load #207
 [2026-06-11 09:57:36] test(bench): benchmark p99 latency under sustained load #817
+[2026-06-11 17:25:11] feat(api): streaming response handlers with chunked transfer #234
