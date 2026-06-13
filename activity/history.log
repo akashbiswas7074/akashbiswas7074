@@ -3490,3 +3490,4 @@
 [2026-06-12 15:25:30] sync: perf(gc): reduce object allocation overhead in hot loop (2774)
 [2026-06-12 17:59:09] sync: feat(router): zero-allocation path parameter matcher (9186)
 [2026-06-12 22:42:32] sync: feat(kernel): update nix flake modules for dev shell (4058)
+[2026-06-13 09:05:56] sync: fix(concurrency): lock contention in task scheduler (9785)
