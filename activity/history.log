@@ -3504,3 +3504,4 @@
 [2026-06-16 16:55:31] sync: feat(ml): refine training loss convergence thresholds (7636)
 [2026-06-16 17:33:49] sync: docs(readme): clarify setup steps and architecture flow (1253)
 [2026-06-16 18:23:48] sync: feat(engine): optimize frame budget and draw calls (7162)
+[2026-06-16 19:34:09] sync: fix(api): resolve async connection pooling edge case (3800)
