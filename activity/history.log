@@ -2887,3 +2887,4 @@
 [2026-06-11 11:13:40] feat(ml): add multi-head cross-attention layer #788
 [2026-06-11 17:47:04] feat(router): zero-allocation path parameter matcher #271
 [2026-06-11 23:46:56] feat(ml): add multi-head cross-attention layer #931
+[2026-06-25 10:13:06] test(e2e): enhance integration coverage for auth flows #414
