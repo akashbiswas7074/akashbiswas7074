@@ -3513,3 +3513,4 @@
 [2026-06-27 13:35:37] sync: perf(gc): reduce object allocation overhead in hot loop (5399)
 [2026-06-27 14:15:27] sync: feat(stream): reactive event stream with backpressure (9877)
 [2026-06-27 15:18:50] sync: perf(gc): reduce object allocation overhead in hot loop (1264)
+[2026-06-27 17:10:08] sync: perf(db): add compound index for fast query lookups (6421)
