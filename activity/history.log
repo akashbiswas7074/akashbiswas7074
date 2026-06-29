@@ -3519,3 +3519,4 @@
 [2026-06-29 13:32:18] sync: docs(readme): clarify setup steps and architecture flow (5884)
 [2026-06-29 18:56:38] sync: fix(memory): patch dangling pointer in audio pipeline (9391)
 [2026-06-29 20:35:40] sync: fix(api): resolve async connection pooling edge case (2376)
+[2026-06-29 22:18:22] sync: feat(router): zero-allocation path parameter matcher (9940)
