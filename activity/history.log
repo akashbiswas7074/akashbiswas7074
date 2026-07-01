@@ -2901,3 +2901,4 @@
 [2026-07-01 10:31:57] feat(shader): custom volumetric fog and lighting pass #426
 [2026-07-01 13:12:13] chore(deps): bump toolchain packages and compiler versions #489
 [2026-07-01 09:26:00] fix(systemd): adjust daemon restart policy on unhandled panic #160
+[2026-07-01 13:22:38] feat(kernel): update nix flake modules for dev shell #987
