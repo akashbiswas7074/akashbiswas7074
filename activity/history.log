@@ -2896,3 +2896,4 @@
 [2026-06-29 11:17:23] feat(kernel): update nix flake modules for dev shell #574
 [2026-06-29 12:08:01] test(bench): benchmark p99 latency under sustained load #852
 [2026-06-29 17:11:55] feat(shader): custom volumetric fog and lighting pass #365
+[2026-07-01 13:16:16] feat(nixos): configure hardware acceleration for Vulkan compute #526
