@@ -2904,3 +2904,4 @@
 [2026-07-01 13:22:38] feat(kernel): update nix flake modules for dev shell #987
 [2026-07-01 15:25:19] perf(ui): memoize heavy component renders and reduce re-flows #544
 [2026-07-01 15:59:33] feat(ml): refine training loss convergence thresholds #248
+[2026-07-04 09:43:45] chore(nix): declare deterministic package inputs in flake.lock #769
