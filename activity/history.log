@@ -2906,3 +2906,4 @@
 [2026-07-01 15:59:33] feat(ml): refine training loss convergence thresholds #248
 [2026-07-04 09:43:45] chore(nix): declare deterministic package inputs in flake.lock #769
 [2026-07-05 20:47:42] feat(api): streaming response handlers with chunked transfer #508
+[2026-07-05 13:30:55] feat(ml): implement attention mechanism in transformer layer #294
