@@ -2912,3 +2912,4 @@
 [2026-07-05 21:07:17] fix(state): handle disconnected websocket re-subscription #853
 [2026-07-05 09:17:28] perf(simd): vectorize matrix dot product operations #734
 [2026-07-05 17:17:38] chore(nix): declare deterministic package inputs in flake.lock #169
+[2026-07-05 19:38:07] feat(api): streaming response handlers with chunked transfer #410
