@@ -2914,3 +2914,4 @@
 [2026-07-05 17:17:38] chore(nix): declare deterministic package inputs in flake.lock #169
 [2026-07-05 19:38:07] feat(api): streaming response handlers with chunked transfer #410
 [2026-07-05 10:42:30] chore(nix): declare deterministic package inputs in flake.lock #125
+[2026-07-05 10:32:20] fix(state): handle disconnected websocket re-subscription #736
