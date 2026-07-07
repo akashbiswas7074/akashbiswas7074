@@ -2922,3 +2922,4 @@
 [2026-07-07 19:47:08] feat(ml): add multi-head cross-attention layer #600
 [2026-07-07 15:59:27] chore(deps): bump toolchain packages and compiler versions #832
 [2026-07-07 17:28:27] test(e2e): enhance integration coverage for auth flows #789
+[2026-07-07 19:40:13] feat(graphql): add batched dataloader for resolvers #703
