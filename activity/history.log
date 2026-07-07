@@ -3566,3 +3566,4 @@
 [2026-07-07 16:54:20] sync: perf(db): add compound index for fast query lookups (1263)
 [2026-07-07 18:39:17] sync: docs(readme): clarify setup steps and architecture flow (2787)
 [2026-07-07 19:18:49] sync: fix(api): resolve async connection pooling edge case (1576)
+[2026-07-07 20:49:22] sync: feat(kernel): update nix flake modules for dev shell (8481)
