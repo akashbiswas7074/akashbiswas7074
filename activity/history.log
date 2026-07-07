@@ -2919,3 +2919,4 @@
 [2026-07-05 17:10:00] feat(ml): add data augmentation pipeline with random transforms #849
 [2026-07-05 18:56:57] feat(shader): custom volumetric fog and lighting pass #567
 [2026-07-07 17:20:49] perf(ml): optimize tensor memory layout for fast inference #827
+[2026-07-07 19:47:08] feat(ml): add multi-head cross-attention layer #600
