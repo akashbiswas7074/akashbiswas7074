@@ -3571,3 +3571,4 @@
 [2026-07-08 09:38:46] sync: docs(readme): clarify setup steps and architecture flow (8831)
 [2026-07-08 16:00:17] sync: feat(crypto): add ed25519 signature verification (3126)
 [2026-07-08 17:15:54] sync: feat(graphql): add batched dataloader for resolvers (9630)
+[2026-07-08 18:35:54] sync: feat(crypto): add ed25519 signature verification (7589)
