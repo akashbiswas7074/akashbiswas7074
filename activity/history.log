@@ -2935,3 +2935,4 @@
 [2026-07-10 23:50:45] feat(ui): responsive layout components and dynamic styling #269
 [2026-07-10 20:45:08] refactor(ui): extract reusable glassmorphic UI primitives #526
 [2026-07-11 13:39:22] feat(shader): custom volumetric fog and lighting pass #462
+[2026-07-11 17:54:51] perf(db): add compound index for fast query lookups #782
