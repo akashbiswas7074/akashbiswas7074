@@ -2938,3 +2938,4 @@
 [2026-07-11 17:54:51] perf(db): add compound index for fast query lookups #782
 [2026-07-11 16:54:38] feat(router): zero-allocation path parameter matcher #360
 [2026-07-11 17:19:18] feat(ui): responsive layout components and dynamic styling #185
+[2026-07-11 12:19:13] feat(nixos): configure hardware acceleration for Vulkan compute #208
