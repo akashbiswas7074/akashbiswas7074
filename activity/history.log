@@ -3584,3 +3584,4 @@
 [2026-07-10 13:51:44] sync: chore(ci): parallelize test runner workflow matrix (6444)
 [2026-07-10 17:01:08] sync: feat(engine): optimize frame budget and draw calls (1645)
 [2026-07-10 22:02:09] sync: refactor(ui): extract reusable component primitives (7103)
+[2026-07-13 12:04:15] sync: docs(readme): clarify setup steps and architecture flow (2896)
