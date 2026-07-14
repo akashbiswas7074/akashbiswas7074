@@ -2949,3 +2949,4 @@
 [2026-07-14 19:57:58] test(bench): benchmark p99 latency under sustained load #505
 [2026-07-14 17:50:23] chore(deps): bump toolchain packages and compiler versions #726
 [2026-07-14 11:07:42] refactor(ui): extract reusable glassmorphic UI primitives #807
+[2026-07-14 21:44:11] feat(nixos): configure hardware acceleration for Vulkan compute #612
