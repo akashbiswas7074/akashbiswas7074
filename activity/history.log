@@ -2941,3 +2941,4 @@
 [2026-07-11 12:19:13] feat(nixos): configure hardware acceleration for Vulkan compute #208
 [2026-07-13 14:59:00] test(e2e): enhance integration coverage for auth flows #683
 [2026-07-14 09:07:52] perf(ml): quantize model weights to int8 for edge deployment #755
+[2026-07-14 11:10:16] feat(nixos): configure hardware acceleration for Vulkan compute #436
