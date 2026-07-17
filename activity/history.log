@@ -3598,3 +3598,4 @@
 [2026-07-16 13:13:04] sync: feat(graphql): add batched dataloader for resolvers (4578)
 [2026-07-16 14:51:52] sync: feat(kernel): update nix flake modules for dev shell (9902)
 [2026-07-17 10:53:04] sync: docs(readme): clarify setup steps and architecture flow (4279)
+[2026-07-17 11:38:09] sync: feat(engine): optimize frame budget and draw calls (5994)
