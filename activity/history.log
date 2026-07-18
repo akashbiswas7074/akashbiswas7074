@@ -3609,3 +3609,4 @@
 [2026-07-18 13:35:40] sync: perf(cache): lru eviction policy with atomic locks (8927)
 [2026-07-18 14:08:24] sync: docs(readme): clarify setup steps and architecture flow (1535)
 [2026-07-18 16:20:09] sync: feat(stream): reactive event stream with backpressure (2478)
+[2026-07-18 17:32:52] sync: feat(router): zero-allocation path parameter matcher (7265)
