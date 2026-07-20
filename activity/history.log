@@ -2969,3 +2969,4 @@
 [2026-07-20 14:06:13] feat(nixos): configure hardware acceleration for Vulkan compute #737
 [2026-07-20 20:55:07] test(e2e): enhance integration coverage for auth flows #807
 [2026-07-20 21:59:08] feat(kernel): update nix flake modules for dev shell #482
+[2026-07-20 15:29:11] chore(nix): declare deterministic package inputs in flake.lock #650
