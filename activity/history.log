@@ -2963,3 +2963,4 @@
 [2026-07-20 12:53:30] chore(deps): bump toolchain packages and compiler versions #522
 [2026-07-20 18:46:09] feat(ml): fine-tune embedding projection dimensions #340
 [2026-07-20 16:37:21] test(bench): benchmark p99 latency under sustained load #282
+[2026-07-20 10:23:26] feat(ml): implement cosine learning rate annealing schedule #323
