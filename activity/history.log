@@ -2967,3 +2967,4 @@
 [2026-07-20 14:33:13] refactor(ui): extract reusable glassmorphic UI primitives #294
 [2026-07-20 18:39:09] perf(simd): vectorize matrix dot product operations #808
 [2026-07-20 14:06:13] feat(nixos): configure hardware acceleration for Vulkan compute #737
+[2026-07-20 20:55:07] test(e2e): enhance integration coverage for auth flows #807
