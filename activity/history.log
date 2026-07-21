@@ -3611,3 +3611,4 @@
 [2026-07-18 16:20:09] sync: feat(stream): reactive event stream with backpressure (2478)
 [2026-07-18 17:32:52] sync: feat(router): zero-allocation path parameter matcher (7265)
 [2026-07-18 20:57:42] sync: perf(gc): reduce object allocation overhead in hot loop (4950)
+[2026-07-21 09:55:11] sync: feat(router): zero-allocation path parameter matcher (2981)
