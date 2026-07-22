@@ -2976,3 +2976,4 @@
 [2026-07-22 12:41:26] fix(state): handle disconnected websocket re-subscription #179
 [2026-07-22 09:38:29] fix(systemd): adjust daemon restart policy on unhandled panic #598
 [2026-07-22 19:15:14] fix(state): handle disconnected websocket re-subscription #663
+[2026-07-22 16:41:10] perf(db): add compound index for fast query lookups #134
