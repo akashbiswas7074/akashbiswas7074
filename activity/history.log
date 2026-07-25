@@ -2980,3 +2980,4 @@
 [2026-07-23 14:05:27] perf(cache): lru eviction policy with atomic locks #209
 [2026-07-23 13:06:04] docs(readme): clarify setup steps and architecture flow #302
 [2026-07-25 10:00:09] perf(ml): optimize tensor memory layout for fast inference #490
+[2026-07-25 19:41:46] feat(ml): refine training loss convergence thresholds #714
