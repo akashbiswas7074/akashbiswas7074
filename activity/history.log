@@ -3636,3 +3636,4 @@
 [2026-07-27 17:08:50] sync: feat(crypto): add ed25519 signature verification (7506)
 [2026-07-27 18:46:50] sync: perf(db): add compound index for fast query lookups (9978)
 [2026-07-27 19:12:11] sync: perf(db): add compound index for fast query lookups (1728)
+[2026-07-27 21:16:48] sync: perf(gc): reduce object allocation overhead in hot loop (9010)
