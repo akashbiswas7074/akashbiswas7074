@@ -2982,3 +2982,4 @@
 [2026-07-25 10:00:09] perf(ml): optimize tensor memory layout for fast inference #490
 [2026-07-25 19:41:46] feat(ml): refine training loss convergence thresholds #714
 [2026-07-25 11:43:27] feat(nixos): configure hardware acceleration for Vulkan compute #355
+[2026-07-27 15:44:22] feat(ml): fine-tune embedding projection dimensions #402
