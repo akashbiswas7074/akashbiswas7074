@@ -3651,3 +3651,4 @@
 [2026-07-30 12:12:30] sync: perf(cache): lru eviction policy with atomic locks (9378)
 [2026-07-30 18:12:03] sync: feat(stream): reactive event stream with backpressure (4216)
 [2026-07-30 22:58:00] sync: test(bench): benchmark p99 latency under sustained load (7808)
+[2026-07-31 09:25:03] sync: docs(readme): clarify setup steps and architecture flow (3486)
