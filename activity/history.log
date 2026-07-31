@@ -2990,3 +2990,4 @@
 [2026-07-31 14:12:01] perf(cache): lru eviction policy with atomic locks #176
 [2026-07-31 23:58:51] feat(nixos): configure hardware acceleration for Vulkan compute #974
 [2026-07-31 14:29:33] feat(shader): custom volumetric fog and lighting pass #842
+[2026-07-31 09:12:49] feat(engine): optimize frame budget and draw calls #348
