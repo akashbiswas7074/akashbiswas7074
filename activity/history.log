@@ -2994,3 +2994,4 @@
 [2026-07-31 15:52:51] feat(router): zero-allocation path parameter matcher #259
 [2026-08-02 11:16:41] feat(router): zero-allocation path parameter matcher #563
 [2026-08-02 21:20:11] feat(kernel): update nix flake modules for dev shell #670
+[2026-08-02 16:18:39] perf(ml): optimize tensor memory layout for fast inference #679
