@@ -3003,3 +3003,4 @@
 [2026-08-03 15:31:10] feat(ml): add multi-head cross-attention layer #488
 [2026-08-03 15:48:10] feat(router): zero-allocation path parameter matcher #645
 [2026-08-03 16:23:33] feat(engine): optimize frame budget and draw calls #177
+[2026-08-03 22:08:21] docs(readme): clarify setup steps and architecture flow #495
