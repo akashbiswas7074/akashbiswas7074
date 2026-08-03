@@ -3000,3 +3000,4 @@
 [2026-08-02 20:02:01] feat(api): streaming response handlers with chunked transfer #791
 [2026-08-02 17:27:06] feat(ml): add multi-head cross-attention layer #648
 [2026-08-03 23:27:50] chore(nix): declare deterministic package inputs in flake.lock #447
+[2026-08-03 15:31:10] feat(ml): add multi-head cross-attention layer #488
