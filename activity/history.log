@@ -3673,3 +3673,4 @@
 [2026-08-03 14:51:59] sync: test(e2e): enhance integration coverage for auth flows (6656)
 [2026-08-03 16:08:49] sync: test(bench): benchmark p99 latency under sustained load (9135)
 [2026-08-03 17:52:01] sync: chore(deps): bump toolchain packages and lint rules (4749)
+[2026-08-03 18:29:07] sync: docs(readme): clarify setup steps and architecture flow (5513)
