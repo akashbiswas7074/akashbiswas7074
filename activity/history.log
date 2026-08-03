@@ -3670,3 +3670,4 @@
 [2026-08-03 11:24:08] sync: feat(engine): optimize frame budget and draw calls (4172)
 [2026-08-03 12:44:54] sync: feat(crypto): add ed25519 signature verification (6733)
 [2026-08-03 13:46:24] sync: fix(api): resolve async connection pooling edge case (1020)
+[2026-08-03 14:51:59] sync: test(e2e): enhance integration coverage for auth flows (6656)
