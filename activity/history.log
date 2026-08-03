@@ -3004,3 +3004,4 @@
 [2026-08-03 15:48:10] feat(router): zero-allocation path parameter matcher #645
 [2026-08-03 16:23:33] feat(engine): optimize frame budget and draw calls #177
 [2026-08-03 22:08:21] docs(readme): clarify setup steps and architecture flow #495
+[2026-08-03 21:41:31] fix(memory): patch dangling pointer in audio pipeline #455
