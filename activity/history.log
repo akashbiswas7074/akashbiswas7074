@@ -3677,3 +3677,4 @@
 [2026-08-03 20:12:27] sync: feat(crypto): add ed25519 signature verification (6351)
 [2026-08-03 21:34:23] sync: perf(simd): vectorize matrix dot product operations (6028)
 [2026-08-03 22:48:59] sync: docs(readme): clarify setup steps and architecture flow (4473)
+[2026-08-04 09:04:56] sync: docs(readme): clarify setup steps and architecture flow (1420)
