@@ -3679,3 +3679,4 @@
 [2026-08-03 22:48:59] sync: docs(readme): clarify setup steps and architecture flow (4473)
 [2026-08-04 09:04:56] sync: docs(readme): clarify setup steps and architecture flow (1420)
 [2026-08-04 13:09:30] sync: perf(db): add compound index for fast query lookups (7921)
+[2026-08-04 22:07:23] sync: feat(stream): reactive event stream with backpressure (3653)
