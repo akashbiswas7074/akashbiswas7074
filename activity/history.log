@@ -3009,3 +3009,4 @@
 [2026-08-03 19:52:40] feat(engine): optimize frame budget and draw calls #240
 [2026-08-03 21:27:01] perf(ml): optimize tensor memory layout for fast inference #710
 [2026-08-05 14:17:06] feat(ml): refine training loss convergence thresholds #155
+[2026-08-05 09:20:27] feat(graphql): add batched dataloader for resolvers #448
