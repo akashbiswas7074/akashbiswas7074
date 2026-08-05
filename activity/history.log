@@ -3010,3 +3010,4 @@
 [2026-08-03 21:27:01] perf(ml): optimize tensor memory layout for fast inference #710
 [2026-08-05 14:17:06] feat(ml): refine training loss convergence thresholds #155
 [2026-08-05 09:20:27] feat(graphql): add batched dataloader for resolvers #448
+[2026-08-05 09:55:58] feat(nixos): configure hardware acceleration for Vulkan compute #639
