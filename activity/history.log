@@ -3681,3 +3681,4 @@
 [2026-08-04 13:09:30] sync: perf(db): add compound index for fast query lookups (7921)
 [2026-08-04 22:07:23] sync: feat(stream): reactive event stream with backpressure (3653)
 [2026-08-06 09:38:39] sync: perf(db): add compound index for fast query lookups (8259)
+[2026-08-06 11:46:46] sync: fix(api): resolve async connection pooling edge case (8065)
