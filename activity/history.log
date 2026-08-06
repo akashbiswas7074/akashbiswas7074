@@ -3686,3 +3686,4 @@
 [2026-08-06 13:26:14] sync: docs(readme): clarify setup steps and architecture flow (3072)
 [2026-08-06 16:55:18] sync: feat(graphql): add batched dataloader for resolvers (2753)
 [2026-08-06 17:21:20] sync: perf(cache): lru eviction policy with atomic locks (3598)
+[2026-08-06 22:52:56] sync: feat(engine): optimize frame budget and draw calls (4634)
