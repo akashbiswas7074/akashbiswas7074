@@ -3683,3 +3683,4 @@
 [2026-08-06 09:38:39] sync: perf(db): add compound index for fast query lookups (8259)
 [2026-08-06 11:46:46] sync: fix(api): resolve async connection pooling edge case (8065)
 [2026-08-06 12:27:55] sync: test(bench): benchmark p99 latency under sustained load (1366)
+[2026-08-06 13:26:14] sync: docs(readme): clarify setup steps and architecture flow (3072)
