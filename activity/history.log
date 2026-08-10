@@ -3691,3 +3691,4 @@
 [2026-08-07 13:39:23] sync: perf(simd): vectorize matrix dot product operations (9132)
 [2026-08-07 20:36:58] sync: feat(router): zero-allocation path parameter matcher (7038)
 [2026-08-07 22:27:57] sync: refactor(ui): extract reusable component primitives (2063)
+[2026-08-10 14:43:49] sync: feat(crypto): add ed25519 signature verification (7094)
