@@ -3020,3 +3020,4 @@
 [2026-08-12 13:38:25] refactor(ui): extract reusable glassmorphic UI primitives #399
 [2026-08-12 13:31:35] chore(nix): declare deterministic package inputs in flake.lock #684
 [2026-08-12 21:14:06] feat(ml): add multi-head cross-attention layer #357
+[2026-08-12 21:28:07] docs(readme): clarify setup steps and architecture flow #859
