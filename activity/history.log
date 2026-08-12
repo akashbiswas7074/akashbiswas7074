@@ -3025,3 +3025,4 @@
 [2026-08-12 12:59:58] feat(ml): add multi-head cross-attention layer #677
 [2026-08-12 21:36:42] chore(deps): bump toolchain packages and compiler versions #433
 [2026-08-12 20:05:45] perf(cache): lru eviction policy with atomic locks #344
+[2026-08-12 18:27:20] feat(ml): implement cosine learning rate annealing schedule #963
