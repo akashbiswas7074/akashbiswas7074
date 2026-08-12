@@ -3694,3 +3694,4 @@
 [2026-08-10 14:43:49] sync: feat(crypto): add ed25519 signature verification (7094)
 [2026-08-10 16:18:27] sync: feat(kernel): update nix flake modules for dev shell (5032)
 [2026-08-10 18:16:30] sync: chore(deps): bump toolchain packages and lint rules (3242)
+[2026-08-12 21:16:29] sync: chore(ci): parallelize test runner workflow matrix (1044)
