@@ -3027,3 +3027,4 @@
 [2026-08-12 20:05:45] perf(cache): lru eviction policy with atomic locks #344
 [2026-08-12 18:27:20] feat(ml): implement cosine learning rate annealing schedule #963
 [2026-08-14 23:43:20] feat(ml): fine-tune embedding projection dimensions #295
+[2026-08-14 18:16:19] feat(graphql): add batched dataloader for resolvers #581
