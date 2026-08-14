@@ -3032,3 +3032,4 @@
 [2026-08-14 13:13:13] perf(cache): lru eviction policy with atomic locks #727
 [2026-08-14 11:13:08] perf(ml): quantize model weights to int8 for edge deployment #286
 [2026-08-14 15:54:42] feat(nixos): configure hardware acceleration for Vulkan compute #956
+[2026-08-14 20:31:12] feat(graphql): add batched dataloader for resolvers #399
