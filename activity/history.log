@@ -3703,3 +3703,4 @@
 [2026-08-15 09:28:06] sync: docs(readme): clarify setup steps and architecture flow (1499)
 [2026-08-15 10:55:46] sync: chore(deps): bump toolchain packages and lint rules (6615)
 [2026-08-15 14:45:03] sync: feat(router): zero-allocation path parameter matcher (2383)
+[2026-08-15 17:12:32] sync: perf(db): add compound index for fast query lookups (7694)
