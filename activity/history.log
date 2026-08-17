@@ -3043,3 +3043,4 @@
 [2026-08-16 18:58:19] feat(ml): add multi-head cross-attention layer #361
 [2026-08-16 13:08:12] feat(ml): add data augmentation pipeline with random transforms #337
 [2026-08-16 23:59:20] fix(systemd): adjust daemon restart policy on unhandled panic #726
+[2026-08-17 09:47:21] fix(state): handle disconnected websocket re-subscription #996
