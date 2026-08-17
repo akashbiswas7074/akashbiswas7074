@@ -3045,3 +3045,4 @@
 [2026-08-16 23:59:20] fix(systemd): adjust daemon restart policy on unhandled panic #726
 [2026-08-17 09:47:21] fix(state): handle disconnected websocket re-subscription #996
 [2026-08-17 12:02:04] feat(shader): custom volumetric fog and lighting pass #358
+[2026-08-17 23:48:08] chore(nix): declare deterministic package inputs in flake.lock #595
