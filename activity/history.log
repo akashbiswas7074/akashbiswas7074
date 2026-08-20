@@ -3725,3 +3725,4 @@
 [2026-08-20 09:36:48] sync: perf(cache): lru eviction policy with atomic locks (1049)
 [2026-08-20 10:20:15] sync: fix(api): resolve async connection pooling edge case (6188)
 [2026-08-20 12:50:11] sync: perf(db): add compound index for fast query lookups (5186)
+[2026-08-20 13:39:38] sync: feat(graphql): add batched dataloader for resolvers (1620)
