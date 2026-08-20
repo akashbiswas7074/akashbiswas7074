@@ -3723,3 +3723,4 @@
 [2026-08-19 21:48:04] sync: chore(deps): bump toolchain packages and lint rules (1828)
 [2026-08-19 22:28:37] sync: fix(concurrency): lock contention in task scheduler (8657)
 [2026-08-20 09:36:48] sync: perf(cache): lru eviction policy with atomic locks (1049)
+[2026-08-20 10:20:15] sync: fix(api): resolve async connection pooling edge case (6188)
