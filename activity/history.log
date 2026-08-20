@@ -3060,3 +3060,4 @@
 [2026-08-19 12:58:19] feat(kernel): update nix flake modules for dev shell #529
 [2026-08-19 18:16:28] perf(db): add compound index for fast query lookups #458
 [2026-08-19 15:43:26] perf(ml): quantize model weights to int8 for edge deployment #281
+[2026-08-20 21:55:50] feat(ml): add data augmentation pipeline with random transforms #308
