@@ -3072,3 +3072,4 @@
 [2026-08-21 12:46:16] feat(ml): add multi-head cross-attention layer #624
 [2026-08-23 09:06:35] feat(ml): fine-tune embedding projection dimensions #152
 [2026-08-23 14:39:09] feat(shader): custom volumetric fog and lighting pass #728
+[2026-08-23 19:50:59] feat(ml): refine training loss convergence thresholds #638
