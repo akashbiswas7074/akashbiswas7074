@@ -3079,3 +3079,4 @@
 [2026-08-24 14:54:07] test(e2e): enhance integration coverage for auth flows #495
 [2026-08-25 17:31:44] test(bench): benchmark p99 latency under sustained load #844
 [2026-08-25 19:30:56] perf(db): add compound index for fast query lookups #359
+[2026-08-25 17:29:14] fix(state): handle disconnected websocket re-subscription #259
