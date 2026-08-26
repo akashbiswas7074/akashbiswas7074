@@ -3088,3 +3088,4 @@
 [2026-08-26 22:27:16] feat(ml): implement attention mechanism in transformer layer #153
 [2026-08-26 18:21:24] feat(api): streaming response handlers with chunked transfer #935
 [2026-08-26 10:19:33] fix(memory): patch dangling pointer in audio pipeline #979
+[2026-08-26 12:16:36] feat(router): zero-allocation path parameter matcher #412
