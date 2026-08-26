@@ -3093,3 +3093,4 @@
 [2026-08-26 22:36:34] docs(readme): clarify setup steps and architecture flow #740
 [2026-08-26 14:05:47] feat(kernel): update nix flake modules for dev shell #196
 [2026-08-26 18:56:36] chore(nix): declare deterministic package inputs in flake.lock #146
+[2026-08-26 11:12:56] feat(ml): add data augmentation pipeline with random transforms #745
