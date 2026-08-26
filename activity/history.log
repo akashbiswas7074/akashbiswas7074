@@ -3082,3 +3082,4 @@
 [2026-08-25 17:29:14] fix(state): handle disconnected websocket re-subscription #259
 [2026-08-25 19:22:27] test(bench): benchmark p99 latency under sustained load #243
 [2026-08-25 23:45:07] feat(ml): add data augmentation pipeline with random transforms #966
+[2026-08-26 19:31:24] fix(systemd): adjust daemon restart policy on unhandled panic #959
