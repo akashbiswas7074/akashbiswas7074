@@ -3752,3 +3752,4 @@
 [2026-08-27 19:34:08] sync: feat(kernel): update nix flake modules for dev shell (2970)
 [2026-08-27 20:28:56] sync: feat(crypto): add ed25519 signature verification (9551)
 [2026-08-28 12:36:28] sync: feat(graphql): add batched dataloader for resolvers (7124)
+[2026-08-28 17:28:59] sync: feat(engine): optimize frame budget and draw calls (9832)
