@@ -3114,3 +3114,4 @@
 [2026-08-31 22:26:35] feat(ml): fine-tune embedding projection dimensions #275
 [2026-08-31 16:31:20] docs(readme): clarify setup steps and architecture flow #531
 [2026-08-31 12:55:00] fix(state): handle disconnected websocket re-subscription #855
+[2026-08-31 17:19:37] test(bench): benchmark p99 latency under sustained load #253
