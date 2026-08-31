@@ -3757,3 +3757,4 @@
 [2026-08-31 09:53:53] sync: feat(kernel): update nix flake modules for dev shell (4095)
 [2026-08-31 10:24:36] sync: fix(api): resolve async connection pooling edge case (5907)
 [2026-08-31 14:38:25] sync: fix(api): resolve async connection pooling edge case (2376)
+[2026-08-31 15:59:10] sync: feat(graphql): add batched dataloader for resolvers (9186)
