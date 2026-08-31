@@ -3118,3 +3118,4 @@
 [2026-08-31 19:17:54] feat(engine): optimize frame budget and draw calls #294
 [2026-08-31 09:01:12] test(e2e): enhance integration coverage for auth flows #852
 [2026-08-31 15:13:28] feat(ml): refine training loss convergence thresholds #382
+[2026-08-31 22:35:00] perf(db): add compound index for fast query lookups #860
