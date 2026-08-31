@@ -3112,3 +3112,4 @@
 [2026-08-29 09:15:15] feat(nixos): configure hardware acceleration for Vulkan compute #733
 [2026-08-31 23:31:15] feat(ml): fine-tune embedding projection dimensions #231
 [2026-08-31 22:26:35] feat(ml): fine-tune embedding projection dimensions #275
+[2026-08-31 16:31:20] docs(readme): clarify setup steps and architecture flow #531
