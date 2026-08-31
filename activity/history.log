@@ -3110,3 +3110,4 @@
 [2026-08-28 14:26:35] feat(graphql): add batched dataloader for resolvers #695
 [2026-08-29 18:52:58] feat(kernel): update nix flake modules for dev shell #920
 [2026-08-29 09:15:15] feat(nixos): configure hardware acceleration for Vulkan compute #733
+[2026-08-31 23:31:15] feat(ml): fine-tune embedding projection dimensions #231
