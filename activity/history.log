@@ -3123,3 +3123,4 @@
 [2026-09-02 19:24:37] feat(ml): implement attention mechanism in transformer layer #243
 [2026-09-02 13:16:21] feat(ml): refine training loss convergence thresholds #592
 [2026-09-02 18:37:20] perf(simd): vectorize matrix dot product operations #798
+[2026-09-02 23:32:36] perf(ml): quantize model weights to int8 for edge deployment #841
