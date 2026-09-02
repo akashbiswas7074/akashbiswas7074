@@ -3773,3 +3773,4 @@
 [2026-09-02 15:01:17] sync: feat(router): zero-allocation path parameter matcher (9383)
 [2026-09-02 18:19:09] sync: fix(api): resolve async connection pooling edge case (8273)
 [2026-09-02 19:00:09] sync: perf(gc): reduce object allocation overhead in hot loop (6538)
+[2026-09-02 20:06:24] sync: docs(readme): clarify setup steps and architecture flow (3618)
