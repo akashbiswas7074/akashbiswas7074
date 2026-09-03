@@ -3127,3 +3127,4 @@
 [2026-09-02 09:59:06] feat(kernel): update nix flake modules for dev shell #853
 [2026-09-03 13:16:21] test(bench): benchmark p99 latency under sustained load #894
 [2026-09-03 22:17:58] feat(ml): add multi-head cross-attention layer #667
+[2026-09-03 10:02:15] feat(ml): implement cosine learning rate annealing schedule #583
