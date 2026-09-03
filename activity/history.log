@@ -3126,3 +3126,4 @@
 [2026-09-02 23:32:36] perf(ml): quantize model weights to int8 for edge deployment #841
 [2026-09-02 09:59:06] feat(kernel): update nix flake modules for dev shell #853
 [2026-09-03 13:16:21] test(bench): benchmark p99 latency under sustained load #894
+[2026-09-03 22:17:58] feat(ml): add multi-head cross-attention layer #667
