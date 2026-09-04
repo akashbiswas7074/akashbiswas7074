@@ -3784,3 +3784,4 @@
 [2026-09-03 19:01:39] sync: fix(api): resolve async connection pooling edge case (2461)
 [2026-09-03 22:19:04] sync: test(e2e): enhance integration coverage for auth flows (2850)
 [2026-09-04 11:06:14] sync: test(e2e): enhance integration coverage for auth flows (8784)
+[2026-09-04 12:46:26] sync: feat(engine): optimize frame budget and draw calls (6598)
