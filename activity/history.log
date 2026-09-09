@@ -3144,3 +3144,4 @@
 [2026-09-09 18:36:00] docs(readme): clarify setup steps and architecture flow #243
 [2026-09-09 19:56:43] test(bench): benchmark p99 latency under sustained load #530
 [2026-09-09 12:05:26] feat(ml): fine-tune embedding projection dimensions #122
+[2026-09-09 19:36:28] test(bench): benchmark p99 latency under sustained load #913
