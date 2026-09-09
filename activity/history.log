@@ -3141,3 +3141,4 @@
 [2026-09-09 23:42:09] feat(ml): implement attention mechanism in transformer layer #341
 [2026-09-09 09:00:51] feat(ui): responsive layout components and dynamic styling #559
 [2026-09-09 23:50:22] feat(graphql): add batched dataloader for resolvers #171
+[2026-09-09 18:36:00] docs(readme): clarify setup steps and architecture flow #243
