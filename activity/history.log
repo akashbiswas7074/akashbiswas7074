@@ -3151,3 +3151,4 @@
 [2026-09-10 09:10:10] feat(nixos): configure hardware acceleration for Vulkan compute #566
 [2026-09-10 10:08:57] test(bench): benchmark p99 latency under sustained load #227
 [2026-09-10 12:34:55] feat(router): zero-allocation path parameter matcher #331
+[2026-09-10 21:20:24] feat(api): streaming response handlers with chunked transfer #555
