@@ -3808,3 +3808,4 @@
 [2026-09-10 09:07:39] sync: docs(readme): clarify setup steps and architecture flow (3958)
 [2026-09-10 10:03:54] sync: fix(concurrency): lock contention in task scheduler (6919)
 [2026-09-10 13:15:44] sync: perf(simd): vectorize matrix dot product operations (1728)
+[2026-09-10 14:22:07] sync: fix(api): resolve async connection pooling edge case (8773)
