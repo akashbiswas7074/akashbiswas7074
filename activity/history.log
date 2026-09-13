@@ -3155,3 +3155,4 @@
 [2026-09-12 18:19:01] test(e2e): enhance integration coverage for auth flows #275
 [2026-09-13 11:36:48] test(bench): benchmark p99 latency under sustained load #504
 [2026-09-13 22:49:22] feat(ml): add multi-head cross-attention layer #103
+[2026-09-13 13:37:41] fix(systemd): adjust daemon restart policy on unhandled panic #107
