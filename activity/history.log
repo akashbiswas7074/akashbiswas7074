@@ -3158,3 +3158,4 @@
 [2026-09-13 13:37:41] fix(systemd): adjust daemon restart policy on unhandled panic #107
 [2026-09-13 23:32:35] fix(systemd): adjust daemon restart policy on unhandled panic #413
 [2026-09-14 19:55:51] perf(ui): memoize heavy component renders and reduce re-flows #251
+[2026-09-14 19:40:25] test(e2e): enhance integration coverage for auth flows #287
