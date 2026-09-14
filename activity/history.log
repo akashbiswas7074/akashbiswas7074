@@ -3162,3 +3162,4 @@
 [2026-09-14 18:02:53] fix(memory): patch dangling pointer in audio pipeline #103
 [2026-09-14 13:28:06] chore(nix): declare deterministic package inputs in flake.lock #522
 [2026-09-14 13:57:44] refactor(ui): extract reusable glassmorphic UI primitives #796
+[2026-09-14 13:59:58] fix(state): handle disconnected websocket re-subscription #870
