@@ -3841,3 +3841,4 @@
 [2026-09-17 18:06:30] sync: test(bench): benchmark p99 latency under sustained load (9458)
 [2026-09-18 15:31:35] sync: docs(readme): clarify setup steps and architecture flow (4209)
 [2026-09-18 16:55:05] sync: feat(kernel): update nix flake modules for dev shell (6871)
+[2026-09-18 20:28:59] sync: feat(engine): optimize frame budget and draw calls (5476)
