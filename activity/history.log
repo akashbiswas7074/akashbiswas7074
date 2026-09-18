@@ -3169,3 +3169,4 @@
 [2026-09-15 23:56:03] test(e2e): enhance integration coverage for auth flows #801
 [2026-09-18 21:46:44] feat(api): streaming response handlers with chunked transfer #891
 [2026-09-18 16:06:08] feat(ml): add data augmentation pipeline with random transforms #287
+[2026-09-18 19:33:08] fix(state): handle disconnected websocket re-subscription #437
