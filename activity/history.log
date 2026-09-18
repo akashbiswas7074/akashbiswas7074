@@ -3839,3 +3839,4 @@
 [2026-09-17 14:34:51] sync: feat(graphql): add batched dataloader for resolvers (7361)
 [2026-09-17 15:03:00] sync: perf(gc): reduce object allocation overhead in hot loop (1245)
 [2026-09-17 18:06:30] sync: test(bench): benchmark p99 latency under sustained load (9458)
+[2026-09-18 15:31:35] sync: docs(readme): clarify setup steps and architecture flow (4209)
