@@ -3847,3 +3847,4 @@
 [2026-09-19 11:14:27] sync: feat(crypto): add ed25519 signature verification (7322)
 [2026-09-19 13:55:48] sync: perf(gc): reduce object allocation overhead in hot loop (1787)
 [2026-09-19 14:29:35] sync: feat(crypto): add ed25519 signature verification (3765)
+[2026-09-19 15:23:16] sync: feat(graphql): add batched dataloader for resolvers (3864)
