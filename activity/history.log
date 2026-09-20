@@ -3855,3 +3855,4 @@
 [2026-09-19 22:19:41] sync: feat(crypto): add ed25519 signature verification (5672)
 [2026-09-20 11:54:56] sync: fix(api): resolve async connection pooling edge case (2825)
 [2026-09-20 12:08:12] sync: docs(readme): clarify setup steps and architecture flow (8331)
+[2026-09-20 14:18:49] sync: perf(gc): reduce object allocation overhead in hot loop (9048)
