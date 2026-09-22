@@ -3861,3 +3861,4 @@
 [2026-09-22 12:41:43] sync: feat(kernel): update nix flake modules for dev shell (9016)
 [2026-09-22 13:10:01] sync: test(e2e): enhance integration coverage for auth flows (9829)
 [2026-09-22 19:24:43] sync: feat(kernel): update nix flake modules for dev shell (2192)
+[2026-09-22 21:57:30] sync: feat(crypto): add ed25519 signature verification (1206)
