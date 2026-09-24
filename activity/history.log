@@ -3187,3 +3187,4 @@
 [2026-09-23 19:37:07] fix(state): handle disconnected websocket re-subscription #711
 [2026-09-23 15:41:11] feat(ml): fine-tune embedding projection dimensions #701
 [2026-09-24 16:42:38] perf(ui): memoize heavy component renders and reduce re-flows #623
+[2026-09-24 23:57:12] feat(kernel): update nix flake modules for dev shell #954
