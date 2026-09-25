@@ -3197,3 +3197,4 @@
 [2026-09-25 18:59:25] perf(ml): quantize model weights to int8 for edge deployment #533
 [2026-09-25 19:13:27] feat(ml): add multi-head cross-attention layer #290
 [2026-09-25 11:20:19] feat(ml): refine training loss convergence thresholds #171
+[2026-09-25 22:52:17] perf(ml): quantize model weights to int8 for edge deployment #192
