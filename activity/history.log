@@ -3195,3 +3195,4 @@
 [2026-09-25 09:40:04] perf(ml): quantize model weights to int8 for edge deployment #998
 [2026-09-25 18:35:57] feat(api): streaming response handlers with chunked transfer #910
 [2026-09-25 18:59:25] perf(ml): quantize model weights to int8 for edge deployment #533
+[2026-09-25 19:13:27] feat(ml): add multi-head cross-attention layer #290
