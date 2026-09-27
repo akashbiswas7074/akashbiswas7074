@@ -3879,3 +3879,4 @@
 [2026-09-25 17:41:38] sync: chore(deps): bump toolchain packages and lint rules (3409)
 [2026-09-25 18:34:29] sync: feat(graphql): add batched dataloader for resolvers (9396)
 [2026-09-25 21:42:16] sync: perf(gc): reduce object allocation overhead in hot loop (7324)
+[2026-09-27 11:44:38] sync: perf(db): add compound index for fast query lookups (6014)
