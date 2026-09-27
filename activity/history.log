@@ -3882,3 +3882,4 @@
 [2026-09-27 11:44:38] sync: perf(db): add compound index for fast query lookups (6014)
 [2026-09-27 15:20:30] sync: test(bench): benchmark p99 latency under sustained load (3176)
 [2026-09-27 17:53:30] sync: chore(deps): bump toolchain packages and lint rules (5493)
+[2026-09-27 18:53:28] sync: docs(readme): clarify setup steps and architecture flow (5158)
