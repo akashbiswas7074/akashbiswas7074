@@ -3900,3 +3900,4 @@
 [2026-09-29 14:23:24] sync: fix(api): resolve async connection pooling edge case (5731)
 [2026-09-29 15:03:58] sync: feat(ml): refine training loss convergence thresholds (5740)
 [2026-09-29 16:59:20] sync: feat(ml): refine training loss convergence thresholds (2393)
+[2026-09-29 18:37:32] sync: perf(db): add compound index for fast query lookups (8906)
