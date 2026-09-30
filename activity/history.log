@@ -3904,3 +3904,4 @@
 [2026-09-29 21:17:26] sync: perf(gc): reduce object allocation overhead in hot loop (3265)
 [2026-09-29 22:12:20] sync: refactor(ui): extract reusable component primitives (7695)
 [2026-09-30 14:50:06] sync: perf(db): add compound index for fast query lookups (1059)
+[2026-09-30 18:12:46] sync: feat(engine): optimize frame budget and draw calls (8488)
