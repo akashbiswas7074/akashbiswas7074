@@ -3208,3 +3208,4 @@
 [2026-10-01 15:02:52] feat(ml): add multi-head cross-attention layer #558
 [2026-10-01 17:50:51] feat(graphql): add batched dataloader for resolvers #973
 [2026-10-01 21:43:13] fix(state): handle disconnected websocket re-subscription #183
+[2026-10-01 13:03:33] perf(ui): memoize heavy component renders and reduce re-flows #874
