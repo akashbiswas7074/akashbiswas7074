@@ -3213,3 +3213,4 @@
 [2026-10-02 23:48:06] fix(memory): patch dangling pointer in audio pipeline #671
 [2026-10-02 11:21:12] perf(db): add compound index for fast query lookups #327
 [2026-10-02 10:35:15] chore(deps): bump toolchain packages and compiler versions #254
+[2026-10-02 23:25:46] feat(shader): custom volumetric fog and lighting pass #351
