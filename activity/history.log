@@ -3211,3 +3211,4 @@
 [2026-10-01 13:03:33] perf(ui): memoize heavy component renders and reduce re-flows #874
 [2026-10-01 22:45:35] feat(ml): implement attention mechanism in transformer layer #143
 [2026-10-02 23:48:06] fix(memory): patch dangling pointer in audio pipeline #671
+[2026-10-02 11:21:12] perf(db): add compound index for fast query lookups #327
