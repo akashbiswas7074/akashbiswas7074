@@ -3220,3 +3220,4 @@
 [2026-10-02 22:18:10] docs(readme): clarify setup steps and architecture flow #388
 [2026-10-02 11:44:19] feat(kernel): update nix flake modules for dev shell #879
 [2026-10-02 22:27:37] fix(state): handle disconnected websocket re-subscription #467
+[2026-10-02 16:47:24] feat(router): zero-allocation path parameter matcher #850
