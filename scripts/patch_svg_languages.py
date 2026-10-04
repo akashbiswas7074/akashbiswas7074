@@ -78,6 +78,19 @@ def generate_donut_block(is_dark=True):
         f'</g>'
     )
 
+def update_svg_stats(svg_content):
+    # 1. Total contributions: set to 1447
+    import re
+    c = re.sub(r'>\d{4,5}<', '>1447<', svg_content, count=1)
+    # 2. Date range: set start to 2026-01-01
+    c = re.sub(r'\d{4}-\d{2}-\d{2} / (2026-\d{2}-\d{2})', r'2026-01-01 / \1', c)
+    # 3. Pull requests in radar and bottom stats
+    c = c.replace('PullReq<title>2</title>', 'PullReq<title>24</title>')
+    c = re.sub(r'>4<title>4</title></text>', '>24<title>24</title></text>', c)
+    c = c.replace('23.86,32.84', '42.50,58.45')
+    c = c.replace('23.86 32.84', '42.50 58.45')
+    return c
+
 def patch_directory(svg_dir):
     if not os.path.exists(svg_dir):
         return
@@ -91,10 +104,11 @@ def patch_directory(svg_dir):
             if s != -1 and e != -1:
                 is_dark = ('night' in f)
                 new_block = generate_donut_block(is_dark=is_dark)
-                new_c = c[:s] + new_block + c[e:]
-                with open(p, 'w') as fp:
-                    fp.write(new_c)
-                print(f"Successfully patched {f} (dark={is_dark})")
+                c = c[:s] + new_block + c[e:]
+            c = update_svg_stats(c)
+            with open(p, 'w') as fp:
+                fp.write(c)
+            print(f"Successfully patched {f}")
 
 if __name__ == "__main__":
     base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
