@@ -1,19 +1,67 @@
 import os
 import re
+import math
 
-SVG_DIR = "/home/akashbiswas/Downloads/akashbiswas7074/profile-3d-contrib"
+SVG_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "profile-3d-contrib")
 
-# The target custom donut chart with TypeScript (28%), Python (24%), C++ (18%), C (12%), Jupyter Notebook (10%), Blockchain (8%)
-CUSTOM_DONUT_XML = '''<g transform="translate(40, 520)"><g transform="translate(273, 0)"><rect x="0" y="35" width="18" height="18" fill="#3178c6" stroke="#ffffff" stroke-width="1px"><animate attributeName="fill-opacity" values="0;0.2;0.4;0.6;0.8;1;1;1;1;1" dur="3s" repeatCount="1"></animate></rect><rect x="0" y="63" width="18" height="18" fill="#3572A5" stroke="#ffffff" stroke-width="1px"><animate attributeName="fill-opacity" values="0;0;0.2;0.4;0.6;0.8;1;1;1;1" dur="3s" repeatCount="1"></animate></rect><rect x="0" y="91" width="18" height="18" fill="#f34b7d" stroke="#ffffff" stroke-width="1px"><animate attributeName="fill-opacity" values="0;0;0;0.2;0.4;0.6;0.8;1;1;1" dur="3s" repeatCount="1"></animate></rect><rect x="0" y="119" width="18" height="18" fill="#555555" stroke="#ffffff" stroke-width="1px"><animate attributeName="fill-opacity" values="0;0;0;0;0.2;0.4;0.6;0.8;1;1" dur="3s" repeatCount="1"></animate></rect><rect x="0" y="147" width="18" height="18" fill="#DA5B0B" stroke="#ffffff" stroke-width="1px"><animate attributeName="fill-opacity" values="0;0;0;0;0;0.2;0.4;0.6;0.8;1" dur="3s" repeatCount="1"></animate></rect><rect x="0" y="175" width="18" height="18" fill="#f7931a" stroke="#ffffff" stroke-width="1px"><animate attributeName="fill-opacity" values="0;0;0;0;0;0;0.2;0.4;0.6;0.8;1" dur="3s" repeatCount="1"></animate></rect><text dominant-baseline="middle" x="26" y="44" fill="#eeeeff" font-size="16px">TypeScript<animate attributeName="fill-opacity" values="0;0.2;0.4;0.6;0.8;1;1;1;1;1" dur="3s" repeatCount="1"></animate></text><text dominant-baseline="middle" x="26" y="72" fill="#eeeeff" font-size="16px">Python<animate attributeName="fill-opacity" values="0;0;0.2;0.4;0.6;0.8;1;1;1;1" dur="3s" repeatCount="1"></animate></text><text dominant-baseline="middle" x="26" y="100" fill="#eeeeff" font-size="16px">C++<animate attributeName="fill-opacity" values="0;0;0;0.2;0.4;0.6;0.8;1;1;1" dur="3s" repeatCount="1"></animate></text><text dominant-baseline="middle" x="26" y="128" fill="#eeeeff" font-size="16px">C<animate attributeName="fill-opacity" values="0;0;0;0;0.2;0.4;0.6;0.8;1;1" dur="3s" repeatCount="1"></animate></text><text dominant-baseline="middle" x="26" y="156" fill="#eeeeff" font-size="16px">Jupyter Notebook<animate attributeName="fill-opacity" values="0;0;0;0;0;0.2;0.4;0.6;0.8;1" dur="3s" repeatCount="1"></animate></text><text dominant-baseline="middle" x="26" y="184" fill="#eeeeff" font-size="16px">Blockchain<animate attributeName="fill-opacity" values="0;0;0;0;0;0;0.2;0.4;0.6;0.8;1" dur="3s" repeatCount="1"></animate></text></g><g transform="translate(130, 130)"><path d="M7.164183775012016e-15,-117A117,117,0,0,1,114.77258411246194,-22.748367468875323L63.762546729145524,-12.637981927152957A65,65,0,0,0,3.980102097228898e-15,-65Z" style="fill: #3178c6;" stroke="#00000f" stroke-width="2px"><title>TypeScript (28%)</title><animate attributeName="fill-opacity" values="0;0.2;0.4;0.6;0.8;1;1;1;1;1" dur="3s" repeatCount="1"></animate></path><path d="M114.77258411246194,-22.748367468875323A117,117,0,0,1,14.685954460627582,116.07474427503816L8.158863589237546,64.48596904168787A65,65,0,0,0,63.762546729145524,-12.637981927152957Z" style="fill: #3572A5;" stroke="#00000f" stroke-width="2px"><title>Python (24%)</title><animate attributeName="fill-opacity" values="0;0;0.2;0.4;0.6;0.8;1;1;1;1" dur="3s" repeatCount="1"></animate></path><path d="M14.685954460627582,116.07474427503816A117,117,0,0,1,-105.15867205423854,51.353724855422896L-58.42148447457697,28.52984714190161A65,65,0,0,0,8.158863589237546,64.48596904168787Z" style="fill: #f34b7d;" stroke="#00000f" stroke-width="2px"><title>C++ (18%)</title><animate attributeName="fill-opacity" values="0;0;0;0.2;0.4;0.6;0.8;1;1;1" dur="3s" repeatCount="1"></animate></path><path d="M-105.15867205423854,51.353724855422896A117,117,0,0,1,-111.27305699619947,-36.15582305590924L-61.81836499788859,-20.08656836439402A65,65,0,0,0,-58.42148447457697,28.52984714190161Z" style="fill: #555555;" stroke="#00000f" stroke-width="2px"><title>C (12%)</title><animate attributeName="fill-opacity" values="0;0;0;0;0.2;0.4;0.6;0.8;1;1" dur="3s" repeatCount="1"></animate></path><path d="M-111.27305699619947,-36.15582305590924A117,117,0,0,1,-56.309734914110325,-102.50293026330999L-31.283186063394625,-56.94607236850555A65,65,0,0,0,-61.81836499788859,-20.08656836439402Z" style="fill: #DA5B0B;" stroke="#00000f" stroke-width="2px"><title>Jupyter Notebook (10%)</title><animate attributeName="fill-opacity" values="0;0;0;0;0;0.2;0.4;0.6;0.8;1" dur="3s" repeatCount="1"></animate></path><path d="M-56.309734914110325,-102.50293026330999A117,117,0,0,1,-8.24243237798786e-14,-117L-4.5791290988821444e-14,-65A65,65,0,0,0,-31.283186063394625,-56.94607236850555Z" style="fill: #f7931a;" stroke="#00000f" stroke-width="2px"><title>Blockchain (8%)</title><animate attributeName="fill-opacity" values="0;0;0;0;0;0;0.2;0.4;0.6;0.8;1" dur="3s" repeatCount="1"></animate></path></g></g>'''
+slices = [
+    ('Jupyter Notebook', 32, '#DA5B0B'),
+    ('TypeScript', 26, '#3178c6'),
+    ('C++', 16, '#f34b7d'),
+    ('C', 12, '#555555'),
+    ('Rust', 8, '#dea584'),
+    ('Nix', 6, '#7e7eff'),
+]
+
+R = 117
+r = 65
+
+current_angle = 0.0
+total_pct = sum(s[1] for s in slices)
+
+legend_rects = []
+legend_texts = []
+paths = []
+
+y_start = 35
+spacing = 28
+
+for idx, (name, pct, color) in enumerate(slices):
+    y = y_start + idx * spacing
+    text_y = y + 9
+    legend_rects.append(f'<rect x="0" y="{y}" width="18" height="18" fill="{color}" stroke="#ffffff" stroke-width="1px"><animate attributeName="fill-opacity" values="0;0.2;0.4;0.6;0.8;1;1;1;1;1" dur="3s" repeatCount="1"></animate></rect>')
+    legend_texts.append(f'<text dominant-baseline="middle" x="26" y="{text_y}" fill="#eeeeff" font-size="16px">{name}<animate attributeName="fill-opacity" values="0;0.2;0.4;0.6;0.8;1;1;1;1;1" dur="3s" repeatCount="1"></animate></text>')
+
+    angle_span = 2 * math.pi * (pct / total_pct)
+    a1 = current_angle
+    a2 = current_angle + angle_span
+    current_angle = a2
+    
+    x1_out = R * math.sin(a1)
+    y1_out = -R * math.cos(a1)
+    x2_out = R * math.sin(a2)
+    y2_out = -R * math.cos(a2)
+    
+    x1_in = r * math.sin(a1)
+    y1_in = -r * math.cos(a1)
+    x2_in = r * math.sin(a2)
+    y2_in = -r * math.cos(a2)
+    
+    large_arc = 1 if (a2 - a1) > math.pi else 0
+    
+    d = f'M{x1_out:.4f},{y1_out:.4f}A{R},{R},0,{large_arc},1,{x2_out:.4f},{y2_out:.4f}L{x2_in:.4f},{y2_in:.4f}A{r},{r},0,{large_arc},0,{x1_in:.4f},{y1_in:.4f}Z'
+    paths.append(f'<path d="{d}" style="fill: {color};" stroke="#00000f" stroke-width="2px"><title>{name} ({pct}%)</title><animate attributeName="fill-opacity" values="0;0.2;0.4;0.6;0.8;1;1;1;1;1" dur="3s" repeatCount="1"></animate></path>')
+
+custom_donut_xml = f'<g transform="translate(40, 520)"><g transform="translate(273, 0)">{"".join(legend_rects)}{"".join(legend_texts)}</g><g transform="translate(130, 130)">{"".join(paths)}</g></g>'
 
 pattern = re.compile(r'<g transform="translate\(40, 520\)">.*?</g></g>', re.DOTALL)
 
 for f in os.listdir(SVG_DIR):
     if f.endswith('.svg'):
-        filepath = os.path.join(SVG_DIR, f)
-        with open(filepath, 'r') as fp:
-            content = fp.read()
-        new_content = pattern.sub(CUSTOM_DONUT_XML, content)
-        with open(filepath, 'w') as fp:
-            fp.write(new_content)
-        print(f"Patched {f}")
+        p = os.path.join(SVG_DIR, f)
+        with open(p, 'r') as fp:
+            c = fp.read()
+        nc = pattern.sub(custom_donut_xml, c)
+        with open(p, 'w') as fp:
+            fp.write(nc)
+        print(f'Patched {f}')
