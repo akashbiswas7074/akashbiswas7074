@@ -20,6 +20,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: akashbiswas7074
+          github_token: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
           outputs: |
             dist/snake.svg?palette=github-dark
             dist/snake-dark.svg?palette=github-dark&color_snake=cyan&color_dots=#1e1e2e,#313244,#45475a,#585b70,#cdd6f4
