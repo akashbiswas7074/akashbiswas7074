@@ -40,7 +40,7 @@
 
 <div align="center">
   <img src="https://github-stats-eta-two.vercel.app/api/stats/akashbiswas7074?show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=4AF626&text_color=C9D1D9&icon_color=1793D1&border_color=30363D" width="46%"/>
-  <img src="https://streak-stats.demolab.com/?user=akashbiswas7074&hide_border=true&background=0D1117&stroke=30363D&ring=4AF626&fire=E95420&currStreakLabel=4AF626&currStreakNum=E6EDF3&sideLabels=C9D1D9&sideNums=8B949E&dates=8B949E" width="46%"/>
+  <img src="assets/streak-stats.svg" width="46%"/>
 </div>
 
 ### `┌──(akash@nixos)-[~/metrics]`

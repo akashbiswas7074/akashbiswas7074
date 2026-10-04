@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 495 195" width="495px" height="195px">
+  <style>
+    @keyframes currstreak {
+      0% { font-size: 3px; opacity: 0.2; }
+      80% { font-size: 32px; opacity: 1; }
+      100% { font-size: 28px; opacity: 1; }
+    }
+    @keyframes fadein {
+      0% { opacity: 0; }
+      100% { opacity: 1; }
+    }
+    .num { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 700; font-size: 28px; fill: #E6EDF3; }
+    .label { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 400; font-size: 14px; fill: #C9D1D9; }
+    .dates { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 400; font-size: 12px; fill: #8B949E; }
+  </style>
+  <rect x="0.5" y="0.5" width="494" height="194" rx="6" fill="#0D1117" stroke="#30363D"/>
+  
+  <!-- Divider lines -->
+  <line x1="165" y1="28" x2="165" y2="170" stroke="#30363D" stroke-width="1"/>
+  <line x1="330" y1="28" x2="330" y2="170" stroke="#30363D" stroke-width="1"/>
+  
+  <!-- Total Contributions Column -->
+  <g transform="translate(82.5, 75)">
+    <text class="num" x="0" y="0" text-anchor="middle">4,428</text>
+    <text class="label" x="0" y="32" text-anchor="middle">Total Contributions</text>
+    <text class="dates" x="0" y="58" text-anchor="middle">May 7, 2023 - Present</text>
+  </g>
+  
+  <!-- Current Streak Column (Center with Neon Ring and Fire) -->
+  <g transform="translate(247.5, 0)">
+    <!-- Ring -->
+    <circle cx="0" cy="74" r="40" fill="none" stroke="#21262d" stroke-width="5"/>
+    <circle cx="0" cy="74" r="40" fill="none" stroke="#4AF626" stroke-width="5" stroke-dasharray="210 45" stroke-linecap="round" transform="rotate(-90 0 74)"/>
+    
+    <!-- Fire Icon -->
+    <g transform="translate(-12, 18) scale(1.1)">
+      <path fill="#E95420" d="M12.9 1.7c.3.5.4 1.1.2 1.6-.3.9-.9 1.7-1.3 2.5-.5.9-.9 1.8-.9 2.7 0 .3 0 .6.1.9-.4-.3-.8-.7-1.1-1.2-.5-.8-.7-1.7-.7-2.6 0-.6.1-1.2.4-1.7.2-.5.1-1.1-.3-1.5-.4-.4-1-.5-1.5-.2-2.1 1.4-3.7 3.5-4.4 5.9C1.9 9.3 2 11.2 2.7 13c.7 1.8 2 3.3 3.6 4.3 1.6 1 3.5 1.5 5.4 1.5 2.1 0 4.1-.6 5.8-1.8 1.7-1.2 2.9-2.9 3.5-4.8.6-2 .5-4.1-.3-6-.8-1.9-2.2-3.4-3.9-4.5-.4-.3-1-.2-1.3.2-.2.4-.2.9 0 1.3.4.9.7 1.8.8 2.7 0 .4-.1.7-.3 1-.3-.6-.8-1-1.3-1.4-.7-.5-1.3-1.1-1.7-1.8-.4-.7-.6-1.5-.6-2.3 0-.6.2-1.1.5-1.6.3-.5.2-1.1-.2-1.5-.4-.4-1-.5-1.5-.2z"/>
+    </g>
+    
+    <!-- Big Number inside Ring -->
+    <text class="num" x="0" y="84" text-anchor="middle" style="animation: currstreak 0.6s linear forwards">36</text>
+    
+    <!-- Label & Dates -->
+    <text class="label" x="0" y="138" text-anchor="middle" fill="#4AF626" font-weight="700">Current Streak</text>
+    <text class="dates" x="0" y="162" text-anchor="middle">Aug 30 - Present</text>
+  </g>
+  
+  <!-- Longest Streak Column -->
+  <g transform="translate(412.5, 75)">
+    <text class="num" x="0" y="0" text-anchor="middle">78</text>
+    <text class="label" x="0" y="32" text-anchor="middle">Longest Streak</text>
+    <text class="dates" x="0" y="58" text-anchor="middle">Mar 12 - May 18, 2024</text>
+  </g>
+</svg>
