@@ -1,0 +1,41 @@
+name: Auto Contribution & Streak Keeper
+
+on:
+  schedule:
+    # Runs daily at 23:50 UTC (05:20 AM IST) to guarantee active daily contribution
+    - cron: "50 23 * * *"
+  workflow_dispatch:
+    inputs:
+      commits_count:
+        description: "Number of contributions to generate"
+        required: false
+        default: "1"
+
+jobs:
+  contribute:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
+          fetch-depth: 1
+
+      - name: Record Contribution Commit
+        run: |
+          git config user.name "akashbiswas7074"
+          git config user.email "abworkhouse01@gmail.com"
+          
+          mkdir -p activity
+          COUNT=${{ github.event.inputs.commits_count || '1' }}
+          
+          for i in $(seq 1 $COUNT); do
+            echo "Developer activity ping $i on $(date -u) [$(uuidgen || echo $RANDOM)]" >> activity/heartbeat.log
+            git add activity/heartbeat.log
+            git commit -m "chore(pulse): dev heartbeat $(date -u +'%Y-%m-%d %H:%M:%S') #$i"
+          done
+          
+          git push origin main
