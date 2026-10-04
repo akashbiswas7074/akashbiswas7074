@@ -1,17 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="520" viewBox="0 0 800 520" font-family="ui-monospace, 'SF Mono', 'Cascadia Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace">
-  <defs>
+    <defs>
+    <linearGradient id="yujiroBorder" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF2A55"/>
+      <stop offset="50%" stop-color="#FF5400"/>
+      <stop offset="100%" stop-color="#800F2F"/>
+    </linearGradient>
+    <radialGradient id="ogreGlow" cx="20%" cy="40%" r="50%">
+      <stop offset="0%" stop-color="#FF2A55" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+    </radialGradient>
     <clipPath id="tbar"><rect x="1.5" y="1.5" width="797" height="39" rx="8.5"/></clipPath>
   </defs>
-  <rect x="1.5" y="1.5" width="797" height="517" rx="10" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+  <rect x="1.5" y="1.5" width="797" height="517" rx="10" fill="#0D1117" stroke="url(#yujiroBorder)" stroke-width="1.5"/>\n  <rect x="1.5" y="1.5" width="797" height="517" rx="10" fill="url(#ogreGlow)"/>
   <rect x="1.5" y="1.5" width="797" height="39" fill="#161B22" clip-path="url(#tbar)"/>
   <line x1="1.5" y1="40.5" x2="798.5" y2="40.5" stroke="#30363D" stroke-width="1"/>
   <circle cx="26" cy="20.5" r="6" fill="#FF5F56"/>
-  <circle cx="47" cy="20.5" r="6" fill="#FFBD2E"/>
-  <circle cx="68" cy="20.5" r="6" fill="#27C93F"/>
+  <circle cx="47" cy="20.5" r="6" fill="#FF6B35"/>
+  <circle cx="68" cy="20.5" r="6" fill="#FFB703"/>
   <text x="400.0" y="25" text-anchor="middle" font-size="12.5" fill="#8B949E">akash@nixos: ~</text>
 
-  <text x="28" y="70" font-size="14"><tspan fill="#4AF626">┌──(akash@nixos)-[~]</tspan></text>
-  <text x="28" y="94" font-size="14"><tspan fill="#4AF626" font-weight="700">└─$</tspan><tspan fill="#E6EDF3" font-weight="700"> fastfetch --structure Title:OS:Host:Kernel:Uptime:Packages:Shell:DE:Terminal:CPU:GPU:Memory</tspan></text>
+  <text x="28" y="70" font-size="14"><tspan fill="#FF2A55">┌──(akash@nixos)-[~]</tspan></text>
+  <text x="28" y="94" font-size="14"><tspan fill="#FF2A55" font-weight="700">└─$</tspan><tspan fill="#E6EDF3" font-weight="700"> fastfetch --structure Title:OS:Host:Kernel:Uptime:Packages:Shell:DE:Terminal:CPU:GPU:Memory</tspan></text>
 
   <!-- Genuine Vector NixOS Snowflake -->
   <svg x="40" y="130" width="280" height="270" viewBox="0 0 501.70361 435.14028">
@@ -21,15 +30,15 @@
        
        id="linearGradient5562">
       <stop
-         style="stop-color:#699ad7;stop-opacity:1"
+         style="stop-color:#FF4D6D;stop-opacity:1"
          offset="0"
          id="stop5564" />
       <stop
          id="stop5566"
          offset="0.24345198"
-         style="stop-color:#7eb1dd;stop-opacity:1" />
+         style="stop-color:#FF758F;stop-opacity:1" />
       <stop
-         style="stop-color:#7ebae4;stop-opacity:1"
+         style="stop-color:#FF8FA3;stop-opacity:1"
          offset="1"
          id="stop5568" />
     </linearGradient>
@@ -37,15 +46,15 @@
        
        id="linearGradient5053">
       <stop
-         style="stop-color:#415e9a;stop-opacity:1"
+         style="stop-color:#800F2F;stop-opacity:1"
          offset="0"
          id="stop5055" />
       <stop
          id="stop5057"
          offset="0.23168644"
-         style="stop-color:#4a6baf;stop-opacity:1" />
+         style="stop-color:#A4133C;stop-opacity:1" />
       <stop
-         style="stop-color:#5277c3;stop-opacity:1"
+         style="stop-color:#FF2A55;stop-opacity:1"
          offset="1"
          id="stop5059" />
     </linearGradient>
@@ -55,29 +64,29 @@
       <stop
          id="stop5962"
          offset="0"
-         style="stop-color:#637ddf;stop-opacity:1" />
+         style="stop-color:#FF0055;stop-opacity:1" />
       <stop
-         style="stop-color:#649afa;stop-opacity:1"
+         style="stop-color:#FF5400;stop-opacity:1"
          offset="0.23168644"
          id="stop5964" />
       <stop
          id="stop5966"
          offset="1"
-         style="stop-color:#719efa;stop-opacity:1" />
+         style="stop-color:#FF7B00;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        
        id="linearGradient5867">
       <stop
-         style="stop-color:#7363df;stop-opacity:1"
+         style="stop-color:#C9184A;stop-opacity:1"
          offset="0"
          id="stop5869" />
       <stop
          id="stop5871"
          offset="0.23168644"
-         style="stop-color:#6478fa;stop-opacity:1" />
+         style="stop-color:#E63946;stop-opacity:1" />
       <stop
-         style="stop-color:#719efa;stop-opacity:1"
+         style="stop-color:#FF7B00;stop-opacity:1"
          offset="1"
          id="stop5873" />
     </linearGradient>
@@ -279,25 +288,25 @@
      transform="translate(-156.33871,933.1905)"
      >
     <path
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#5277c3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#FF2A55;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="m 309.40365,-710.2521 122.19683,211.6751 -56.15706,0.5268 -32.6236,-56.8692 -32.85645,56.5653 -27.90237,-0.011 -14.29086,-24.6896 46.81047,-80.4902 -33.22946,-57.8256 z"
        id="path4861"
        
         />
     <path
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#7ebae4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#FF8FA3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="m 353.50926,-797.4433 -122.21756,211.6631 -28.53477,-48.37 32.93839,-56.6875 -65.41521,-0.1719 -13.9414,-24.1698 14.23637,-24.721 93.11177,0.2939 33.46371,-57.6903 z"
        id="use4863"
        
         />
     <path
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#7ebae4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#FF8FA3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="m 362.88537,-628.243 244.41439,0.012 -27.62229,48.8968 -65.56199,-0.1817 32.55876,56.7371 -13.96098,24.1585 -28.52722,0.032 -46.3013,-80.7841 -66.69317,-0.1353 z"
        id="use4865"
        
         />
     <path
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#7ebae4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#FF8FA3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="m 505.14318,-720.9886 -122.19683,-211.6751 56.15706,-0.5268 32.6236,56.8692 32.85645,-56.5653 27.90237,0.011 14.29086,24.6896 -46.81047,80.4902 33.22946,57.8256 z"
        id="use4867"
        
@@ -307,19 +316,19 @@
        
        id="path4873"
        d="m 309.40365,-710.2521 122.19683,211.6751 -56.15706,0.5268 -32.6236,-56.8692 -32.85645,56.5653 -27.90237,-0.011 -14.29086,-24.6896 46.81047,-80.4902 -33.22946,-57.8256 z"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#5277c3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#FF2A55;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <path
        
        
        id="use4875"
        d="m 451.3364,-803.53264 -244.4144,-0.012 27.62229,-48.89685 65.56199,0.18175 -32.55875,-56.73717 13.96097,-24.15851 28.52722,-0.0315 46.3013,80.78414 66.69317,0.13524 z"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#5277c3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#FF2A55;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <path
        
        
        id="use4877"
        d="m 460.87178,-633.8425 122.21757,-211.66304 28.53477,48.37003 -32.93839,56.68751 65.4152,0.1718 13.9414,24.1698 -14.23636,24.7211 -93.11177,-0.294 -33.46371,57.6904 z"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#5277c3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#FF2A55;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <g
        id="layer2"
        
@@ -473,39 +482,49 @@
        x="0"
        style="display:inline" />
   </g>
-  </svg>
+  
+  <!-- Pulsing border glow -->
+  <rect x="1.5" y="1.5" width="797" height="518" rx="10" fill="none" stroke="#FF2A55" stroke-width="3" opacity="0">
+    <animate attributeName="opacity" values="0;0.5;0" dur="2.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
 
   <!-- Specs on right side -->
-  <text x="350" y="132" font-size="16" font-weight="700" fill="#4AF626">akash@nixos</text>
+  <text x="350" y="132" font-size="16" font-weight="700" fill="#FF2A55">akash@nixos</text>
   <text x="350" y="148" font-size="13" fill="#8B949E">────────────────────────────────────────</text>
 
   <g font-size="13">
-    <text x="350" y="170"><tspan fill="#5277C3" font-weight="700">OS:         </tspan><tspan fill="#E6EDF3">NixOS 26.11 (Zokor) x86_64</tspan></text>
-    <text x="350" y="192"><tspan fill="#5277C3" font-weight="700">Host:       </tspan><tspan fill="#E6EDF3">Kalyani, India · Software Craftsman</tspan></text>
-    <text x="350" y="214"><tspan fill="#5277C3" font-weight="700">Kernel:     </tspan><tspan fill="#E6EDF3">6.18.46-nixos SMP PREEMPT_DYNAMIC</tspan></text>
-    <text x="350" y="236"><tspan fill="#5277C3" font-weight="700">Uptime:     </tspan><tspan fill="#E6EDF3">3+ years of code, learning &amp; shipping</tspan></text>
-    <text x="350" y="258"><tspan fill="#5277C3" font-weight="700">Shell:      </tspan><tspan fill="#E6EDF3">bash 5.2 / zsh / nix-shell</tspan></text>
-    <text x="350" y="280"><tspan fill="#5277C3" font-weight="700">DE / WM:    </tspan><tspan fill="#E6EDF3">Niri / Hyprland (Wayland)</tspan></text>
-    <text x="350" y="302"><tspan fill="#5277C3" font-weight="700">Editor:     </tspan><tspan fill="#E6EDF3">VS Code + Neovim (Dark Mode)</tspan></text>
-    <text x="350" y="324"><tspan fill="#5277C3" font-weight="700">CPU:        </tspan><tspan fill="#E6EDF3">12th Gen Intel Core i7-12700H (20)</tspan></text>
-    <text x="350" y="346"><tspan fill="#5277C3" font-weight="700">GPU:        </tspan><tspan fill="#E6EDF3">NVIDIA GeForce RTX 3050 Ti Laptop</tspan></text>
-    <text x="350" y="368"><tspan fill="#5277C3" font-weight="700">Memory:     </tspan><tspan fill="#E6EDF3">16GB DDR5 / Endless Curiosity</tspan></text>
-    <text x="350" y="390"><tspan fill="#5277C3" font-weight="700">Interests:  </tspan><tspan fill="#E6EDF3">MERN, 3D Games, AI/ML, Nix Flakes</tspan></text>
-    <text x="350" y="412"><tspan fill="#5277C3" font-weight="700">Philosophy: </tspan><tspan fill="#E6EDF3">Understand deeply, build fearlessly</tspan></text>
+    <text x="350" y="170"><tspan fill="#FF4D6D" font-weight="700">OS:         </tspan><tspan fill="#E6EDF3">NixOS 26.11 (Zokor) x86_64</tspan></text>
+    <text x="350" y="192"><tspan fill="#FF4D6D" font-weight="700">Host:       </tspan><tspan fill="#E6EDF3">Kalyani, India · AI/ML Engineer &amp; Craftsman</tspan></text>
+    <text x="350" y="214"><tspan fill="#FF4D6D" font-weight="700">Kernel:     </tspan><tspan fill="#E6EDF3">6.18.46-nixos SMP PREEMPT_DYNAMIC</tspan></text>
+    <text x="350" y="236"><tspan fill="#FF4D6D" font-weight="700">Uptime:     </tspan><tspan fill="#E6EDF3">3+ years of code, learning &amp; shipping</tspan></text>
+    <text x="350" y="258"><tspan fill="#FF4D6D" font-weight="700">Shell:      </tspan><tspan fill="#E6EDF3">bash 5.2 / zsh / nix-shell</tspan></text>
+    <text x="350" y="280"><tspan fill="#FF4D6D" font-weight="700">DE / WM:    </tspan><tspan fill="#E6EDF3">Niri / Hyprland (Wayland)</tspan></text>
+    <text x="350" y="302"><tspan fill="#FF4D6D" font-weight="700">Editor:     </tspan><tspan fill="#E6EDF3">VS Code + Neovim (Dark Mode)</tspan></text>
+    <text x="350" y="324"><tspan fill="#FF4D6D" font-weight="700">CPU:        </tspan><tspan fill="#E6EDF3">12th Gen Intel Core i7-12700H (20)</tspan></text>
+    <text x="350" y="346"><tspan fill="#FF4D6D" font-weight="700">GPU:        </tspan><tspan fill="#E6EDF3">NVIDIA GeForce RTX 3050 Ti Laptop</tspan></text>
+    <text x="350" y="368"><tspan fill="#FF4D6D" font-weight="700">Memory:     </tspan><tspan fill="#E6EDF3">16GB DDR5 / Endless Curiosity</tspan></text>
+    <text x="350" y="390"><tspan fill="#FF4D6D" font-weight="700">Stack:      </tspan><tspan fill="#E6EDF3">AI/ML (PyTorch, TF), MERN, Mobile, Unreal</tspan></text>
+    <text x="350" y="412"><tspan fill="#FF4D6D" font-weight="700">Focus:      </tspan><tspan fill="#E6EDF3">Deep Neural Nets, Cloud Computing, Linux, UI/UX</tspan></text>
   </g>
 
   <!-- Color Palette -->
   <g transform="translate(350, 436)">
     <rect x="0" y="0" width="20" height="12" fill="#0D1117"/>
     <rect x="22" y="0" width="20" height="12" fill="#FF5F56"/>
-    <rect x="44" y="0" width="20" height="12" fill="#27C93F"/>
-    <rect x="66" y="0" width="20" height="12" fill="#FFBD2E"/>
-    <rect x="88" y="0" width="20" height="12" fill="#5277C3"/>
+    <rect x="44" y="0" width="20" height="12" fill="#FFB703"/>
+    <rect x="66" y="0" width="20" height="12" fill="#FF6B35"/>
+    <rect x="88" y="0" width="20" height="12" fill="#FF4D6D"/>
     <rect x="110" y="0" width="20" height="12" fill="#A371F7"/>
-    <rect x="132" y="0" width="20" height="12" fill="#7EBAE4"/>
+    <rect x="132" y="0" width="20" height="12" fill="#FF8FA3"/>
     <rect x="154" y="0" width="20" height="12" fill="#E6EDF3"/>
   </g>
 
   <!-- Prompt -->
-  <text x="28" y="485" font-size="14"><tspan fill="#4AF626" font-weight="700">akash@nixos</tspan><tspan fill="#E6EDF3">:~$ </tspan><tspan fill="#4AF626" font-weight="700">█<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/></tspan></text>
+  <text x="28" y="485" font-size="14"><tspan fill="#FF2A55" font-weight="700">akash@nixos</tspan><tspan fill="#E6EDF3">:~$ </tspan><tspan fill="#FF2A55" font-weight="700">█<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/></tspan></text>
+
+  <!-- Pulsing border glow -->
+  <rect x="1.5" y="1.5" width="797" height="518" rx="10" fill="none" stroke="#FF2A55" stroke-width="3" opacity="0">
+    <animate attributeName="opacity" values="0;0.5;0" dur="2.5s" repeatCount="indefinite"/>
+  </rect>
 </svg>

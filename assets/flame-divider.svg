@@ -1,0 +1,238 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120" width="800" height="120">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#CC0020"/>
+      <stop offset="55%" stop-color="#FF2240" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#FF5566" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#AA0015"/>
+      <stop offset="50%" stop-color="#FF1133" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#FF4455" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="g3" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#FF3300"/>
+      <stop offset="50%" stop-color="#FF6622" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#FFAA44" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="100%" r="60%">
+      <stop offset="0%" stop-color="#990015" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#030005" stop-opacity="1"/>
+    </radialGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="3"/></filter>
+    <filter id="blur2"><feGaussianBlur stdDeviation="1.5"/></filter>
+  </defs>
+
+  <!-- BG -->
+  <rect width="800" height="120" fill="#060008"/>
+  <rect width="800" height="120" fill="url(#glow)"/>
+
+  <!-- ── FLAME TONGUE 1 (far left) ── -->
+  <path fill="url(#g1)">
+    <animate attributeName="d" dur="1.2s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"
+      values="M20,120 C18,100 14,75 22,50 C30,25 38,15 35,5 C32,-5 28,10 25,30 C22,50 18,85 20,120;
+              M20,120 C22,98 18,70 28,44 C38,18 44,8 40,0 C36,-8 30,8 27,28 C24,48 19,88 20,120;
+              M20,120 C18,100 14,75 22,50 C30,25 38,15 35,5 C32,-5 28,10 25,30 C22,50 18,85 20,120"/>
+  </path>
+  <!-- Tongue 1 inner -->
+  <path fill="url(#g3)" filter="url(#blur2)">
+    <animate attributeName="d" dur="1.0s" begin="0.1s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"
+      values="M24,120 C23,105 20,85 26,65 C32,45 36,32 34,20 C32,8 28,20 26,38 C24,56 22,95 24,120;
+              M24,120 C25,102 22,80 29,58 C36,36 40,24 37,14 C34,4 30,18 28,36 C26,54 23,98 24,120;
+              M24,120 C23,105 20,85 26,65 C32,45 36,32 34,20 C32,8 28,20 26,38 C24,56 22,95 24,120"/>
+  </path>
+
+  <!-- ── FLAME TONGUE 2 ── -->
+  <path fill="url(#g2)">
+    <animate attributeName="d" dur="1.4s" begin="0.2s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"
+      values="M70,120 C68,95 62,65 72,35 C82,5 92,-5 88,8 C84,21 78,48 74,78 C70,98 68,110 70,120;
+              M70,120 C72,92 66,60 78,30 C90,0 98,-10 93,5 C88,20 80,50 76,80 C72,100 69,112 70,120;
+              M70,120 C68,95 62,65 72,35 C82,5 92,-5 88,8 C84,21 78,48 74,78 C70,98 68,110 70,120"/>
+  </path>
+  <path fill="url(#g3)" filter="url(#blur2)">
+    <animate attributeName="d" dur="1.1s" begin="0.15s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"
+      values="M73,120 C72,100 68,74 76,50 C84,26 90,12 87,22 C84,32 78,58 75,85 C72,102 71,114 73,120;
+              M73,120 C74,97 70,68 79,44 C88,20 93,8 90,18 C87,28 80,55 77,82 C74,100 72,115 73,120;
+              M73,120 C72,100 68,74 76,50 C84,26 90,12 87,22 C84,32 78,58 75,85 C72,102 71,114 73,120"/>
+  </path>
+
+  <!-- ── FLAME TONGUE 3 ── -->
+  <path fill="url(#g1)">
+    <animate attributeName="d" dur="1.0s" begin="0.4s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"
+      values="M130,120 C128,100 122,72 132,42 C142,12 150,2 146,14 C142,26 136,58 132,88 C129,105 128,114 130,120;
+              M130,120 C132,97 126,68 137,38 C148,8 155,-2 150,12 C145,26 138,60 134,90 C130,106 128,115 130,120;
+              M130,120 C128,100 122,72 132,42 C142,12 150,2 146,14 C142,26 136,58 132,88 C129,105 128,114 130,120"/>
+  </path>
+  <path fill="url(#g3)" filter="url(#blur2)">
+    <animate attributeName="d" dur="0.85s" begin="0.35s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"
+      values="M133,120 C132,105 128,80 136,58 C144,36 149,22 146,32 C143,42 138,68 135,92 C133,108 132,116 133,120;
+              M133,120 C134,102 130,76 139,52 C148,28 152,15 149,25 C146,35 140,62 137,88 C134,106 132,117 133,120;
+              M133,120 C132,105 128,80 136,58 C144,36 149,22 146,32 C143,42 138,68 135,92 C133,108 132,116 133,120"/>
+  </path>
+
+  <!-- ── FLAME TONGUE 4 ── -->
+  <path fill="url(#g2)">
+    <animate attributeName="d" dur="1.3s" begin="0.1s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"
+      values="M195,120 C193,98 186,68 196,38 C206,8 214,-2 210,12 C206,26 200,58 196,88 C193,105 192,114 195,120;
+              M195,120 C197,95 190,62 202,32 C214,2 220,-8 215,8 C210,24 202,56 198,86 C194,106 192,115 195,120;
+              M195,120 C193,98 186,68 196,38 C206,8 214,-2 210,12 C206,26 200,58 196,88 C193,105 192,114 195,120"/>
+  </path>
+  <path fill="url(#g3)" filter="url(#blur2)">
+    <animate attributeName="d" dur="1.05s" begin="0.08s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"
+      values="M198,120 C197,103 192,78 200,55 C208,32 213,18 210,28 C207,38 202,65 199,90 C197,107 196,116 198,120;
+              M198,120 C199,100 194,72 203,49 C212,26 216,13 213,23 C210,33 204,60 201,87 C198,106 196,117 198,120;
+              M198,120 C197,103 192,78 200,55 C208,32 213,18 210,28 C207,38 202,65 199,90 C197,107 196,116 198,120"/>
+  </path>
+
+  <!-- ── TONGUE 5 ── -->
+  <path fill="url(#g1)">
+    <animate attributeName="d" dur="1.15s" begin="0.55s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"
+      values="M260,120 C258,97 252,67 262,37 C272,7 280,-3 276,12 C272,27 266,57 262,87 C259,104 258,114 260,120;
+              M260,120 C262,94 256,62 267,32 C278,2 285,-8 280,8 C275,24 268,55 264,85 C260,105 258,115 260,120;
+              M260,120 C258,97 252,67 262,37 C272,7 280,-3 276,12 C272,27 266,57 262,87 C259,104 258,114 260,120"/>
+  </path>
+  <path fill="url(#g3)" filter="url(#blur2)">
+    <animate attributeName="d" dur="0.9s" begin="0.5s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"
+      values="M263,120 C262,102 258,76 265,54 C272,32 277,18 274,28 C271,38 266,64 263,90 C261,107 260,116 263,120;
+              M263,120 C264,99 260,70 268,47 C276,24 280,11 277,21 C274,31 268,58 265,86 C262,106 260,117 263,120;
+              M263,120 C262,102 258,76 265,54 C272,32 277,18 274,28 C271,38 266,64 263,90 C261,107 260,116 263,120"/>
+  </path>
+
+  <!-- ── TONGUE 6 (center-left) ── -->
+  <path fill="url(#g2)">
+    <animate attributeName="d" dur="1.35s" begin="0.25s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"
+      values="M330,120 C328,95 322,62 333,30 C344,-2 353,-12 348,5 C343,22 336,54 332,84 C329,103 328,114 330,120;
+              M330,120 C332,92 326,58 338,26 C350,-6 357,-16 352,2 C347,20 339,52 335,82 C331,102 328,113 330,120;
+              M330,120 C328,95 322,62 333,30 C344,-2 353,-12 348,5 C343,22 336,54 332,84 C329,103 328,114 330,120"/>
+  </path>
+  <path fill="url(#g3)" filter="url(#blur2)">
+    <animate attributeName="d" dur="1.05s" begin="0.2s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"
+      values="M333,120 C332,100 328,72 337,48 C346,24 351,10 348,20 C345,30 340,58 337,84 C334,103 332,115 333,120;
+              M333,120 C334,97 330,66 340,42 C350,18 354,5 351,15 C348,25 342,54 339,80 C336,101 332,114 333,120;
+              M333,120 C332,100 328,72 337,48 C346,24 351,10 348,20 C345,30 340,58 337,84 C334,103 332,115 333,120"/>
+  </path>
+
+  <!-- ── TONGUE 7 (center) ── -->
+  <path fill="url(#g1)">
+    <animate attributeName="d" dur="1.05s" begin="0.6s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"
+      values="M395,120 C393,95 387,60 398,28 C409,-4 418,-14 413,4 C408,22 401,55 397,85 C394,103 393,114 395,120;
+              M395,120 C397,92 391,55 403,23 C415,-9 422,-19 416,0 C410,19 403,52 399,82 C395,102 393,113 395,120;
+              M395,120 C393,95 387,60 398,28 C409,-4 418,-14 413,4 C408,22 401,55 397,85 C394,103 393,114 395,120"/>
+  </path>
+  <path fill="url(#g3)" filter="url(#blur2)">
+    <animate attributeName="d" dur="0.82s" begin="0.55s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"
+      values="M398,120 C397,100 393,70 401,46 C409,22 414,8 411,18 C408,28 403,58 400,85 C397,104 396,115 398,120;
+              M398,120 C399,97 395,65 404,40 C413,15 417,3 414,13 C411,23 405,54 402,81 C399,102 396,114 398,120;
+              M398,120 C397,100 393,70 401,46 C409,22 414,8 411,18 C408,28 403,58 400,85 C397,104 396,115 398,120"/>
+  </path>
+
+  <!-- ── TONGUE 8 ── -->
+  <path fill="url(#g2)">
+    <animate attributeName="d" dur="1.2s" begin="0.35s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"
+      values="M460,120 C458,97 452,65 462,33 C472,1 481,-10 476,8 C471,26 464,57 460,87 C457,104 456,114 460,120;
+              M460,120 C462,94 456,60 467,28 C478,-4 485,-15 480,4 C475,23 467,55 463,85 C459,104 457,115 460,120;
+              M460,120 C458,97 452,65 462,33 C472,1 481,-10 476,8 C471,26 464,57 460,87 C457,104 456,114 460,120"/>
+  </path>
+  <path fill="url(#g3)" filter="url(#blur2)">
+    <animate attributeName="d" dur="0.95s" begin="0.3s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"
+      values="M463,120 C462,102 458,75 466,51 C474,27 479,13 476,23 C473,33 468,62 465,88 C462,106 461,116 463,120;
+              M463,120 C464,99 460,70 469,45 C478,20 482,7 479,17 C476,27 470,57 467,84 C464,104 461,115 463,120;
+              M463,120 C462,102 458,75 466,51 C474,27 479,13 476,23 C473,33 468,62 465,88 C462,106 461,116 463,120"/>
+  </path>
+
+  <!-- ── TONGUE 9 ── -->
+  <path fill="url(#g1)">
+    <animate attributeName="d" dur="1.1s" begin="0.7s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"
+      values="M525,120 C523,98 517,68 527,38 C537,8 546,-3 541,14 C536,31 529,60 525,90 C522,106 521,115 525,120;
+              M525,120 C527,95 521,62 532,32 C543,2 550,-8 545,10 C540,28 532,58 528,88 C524,106 521,116 525,120;
+              M525,120 C523,98 517,68 527,38 C537,8 546,-3 541,14 C536,31 529,60 525,90 C522,106 521,115 525,120"/>
+  </path>
+  <path fill="url(#g3)" filter="url(#blur2)">
+    <animate attributeName="d" dur="0.88s" begin="0.65s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"
+      values="M528,120 C527,103 523,78 530,55 C537,32 542,18 539,28 C536,38 531,65 528,91 C526,108 525,117 528,120;
+              M528,120 C529,100 525,73 533,49 C541,25 545,12 542,22 C539,32 533,60 530,87 C527,107 525,117 528,120;
+              M528,120 C527,103 523,78 530,55 C537,32 542,18 539,28 C536,38 531,65 528,91 C526,108 525,117 528,120"/>
+  </path>
+
+  <!-- ── TONGUE 10 ── -->
+  <path fill="url(#g2)">
+    <animate attributeName="d" dur="1.25s" begin="0.45s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"
+      values="M590,120 C588,96 582,64 593,32 C604,0 612,-10 608,8 C604,26 597,57 593,87 C590,104 589,114 590,120;
+              M590,120 C592,93 586,59 598,27 C610,-5 617,-16 612,3 C607,22 599,54 595,85 C591,104 589,115 590,120;
+              M590,120 C588,96 582,64 593,32 C604,0 612,-10 608,8 C604,26 597,57 593,87 C590,104 589,114 590,120"/>
+  </path>
+  <path fill="url(#g3)" filter="url(#blur2)">
+    <animate attributeName="d" dur="0.98s" begin="0.42s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"
+      values="M593,120 C592,101 588,74 596,50 C604,26 609,12 606,22 C603,32 598,60 595,87 C592,106 591,116 593,120;
+              M593,120 C594,98 590,69 599,44 C608,19 612,6 609,16 C606,26 600,55 597,83 C594,104 591,115 593,120;
+              M593,120 C592,101 588,74 596,50 C604,26 609,12 606,22 C603,32 598,60 595,87 C592,106 591,116 593,120"/>
+  </path>
+
+  <!-- ── TONGUE 11 ── -->
+  <path fill="url(#g1)">
+    <animate attributeName="d" dur="1.18s" begin="0.15s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"
+      values="M655,120 C653,97 647,66 657,35 C667,4 676,-7 671,10 C666,27 659,58 655,88 C652,105 651,114 655,120;
+              M655,120 C657,94 651,61 662,30 C673,-1 681,-12 676,6 C671,24 663,56 659,86 C655,105 651,115 655,120;
+              M655,120 C653,97 647,66 657,35 C667,4 676,-7 671,10 C666,27 659,58 655,88 C652,105 651,114 655,120"/>
+  </path>
+  <path fill="url(#g3)" filter="url(#blur2)">
+    <animate attributeName="d" dur="0.92s" begin="0.12s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"
+      values="M658,120 C657,102 653,76 660,53 C667,30 672,16 669,26 C666,36 661,63 658,89 C656,107 655,116 658,120;
+              M658,120 C659,99 655,71 663,47 C671,23 675,10 672,20 C669,30 663,58 660,85 C657,105 655,116 658,120;
+              M658,120 C657,102 653,76 660,53 C667,30 672,16 669,26 C666,36 661,63 658,89 C656,107 655,116 658,120"/>
+  </path>
+
+  <!-- ── TONGUE 12 (far right) ── -->
+  <path fill="url(#g2)">
+    <animate attributeName="d" dur="1.3s" begin="0.5s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"
+      values="M720,120 C718,97 712,65 722,34 C732,3 741,-8 736,10 C731,28 724,58 720,88 C717,105 716,114 720,120;
+              M720,120 C722,94 716,60 727,29 C738,-2 746,-13 740,6 C734,25 726,56 722,86 C718,105 716,115 720,120;
+              M720,120 C718,97 712,65 722,34 C732,3 741,-8 736,10 C731,28 724,58 720,88 C717,105 716,114 720,120"/>
+  </path>
+  <path fill="url(#g3)" filter="url(#blur2)">
+    <animate attributeName="d" dur="1.02s" begin="0.46s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"
+      values="M723,120 C722,102 718,74 726,51 C734,28 739,14 736,24 C733,34 728,62 725,88 C722,107 721,116 723,120;
+              M723,120 C724,99 720,69 729,45 C738,21 742,8 739,18 C736,28 730,57 727,84 C724,106 721,116 723,120;
+              M723,120 C722,102 718,74 726,51 C734,28 739,14 736,24 C733,34 728,62 725,88 C722,107 721,116 723,120"/>
+  </path>
+
+  <!-- ── TONGUE 13 (far right edge) ── -->
+  <path fill="url(#g1)">
+    <animate attributeName="d" dur="1.08s" begin="0.8s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"
+      values="M778,120 C776,100 770,70 780,40 C790,10 798,0 795,16 C792,32 786,60 782,90 C779,107 778,116 778,120;
+              M778,120 C780,97 774,64 785,34 C796,4 803,-6 799,12 C795,30 787,59 783,89 C779,107 777,116 778,120;
+              M778,120 C776,100 770,70 780,40 C790,10 798,0 795,16 C792,32 786,60 782,90 C779,107 778,116 778,120"/>
+  </path>
+
+  <!-- ── BASE GLOW (blurred wide wash at bottom) ── -->
+  <rect x="0" y="90" width="800" height="30" fill="#CC0022" opacity="0" filter="url(#blur)">
+    <animate attributeName="opacity" values="0;0.5;0.3;0.6;0" dur="1.8s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- ── FLOATING PIXEL SPARKS ── -->
+  <circle r="2" fill="#FF4466" opacity="0">
+    <animate attributeName="cx" values="90;96;88;93" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="110;70;35;5" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.9;0.6;0" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="1.5" fill="#FF2244" opacity="0">
+    <animate attributeName="cx" values="260;267;255;262" dur="2.6s" begin="0.8s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="110;65;28;0" dur="2.6s" begin="0.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0.6;0" dur="2.6s" begin="0.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="2.5" fill="#FF6688" opacity="0">
+    <animate attributeName="cx" values="400;408;396;403" dur="3.5s" begin="1.2s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="115;70;30;0" dur="3.5s" begin="1.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.8;0.5;0" dur="3.5s" begin="1.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="1.5" fill="#FF0044" opacity="0">
+    <animate attributeName="cx" values="590;596;585;592" dur="2.8s" begin="0.4s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="112;68;32;2" dur="2.8s" begin="0.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.9;0.6;0" dur="2.8s" begin="0.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="2" fill="#FF3355" opacity="0">
+    <animate attributeName="cx" values="740;748;736;743" dur="3.2s" begin="2s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="112;65;28;0" dur="3.2s" begin="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.85;0.55;0" dur="3.2s" begin="2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
