@@ -1,100 +1,107 @@
-<h3 align="center">
-  Welcome to Akash Biswas's profile!
- 
-</h3>
+<div align="center">
+  <img src="assets/terminal-header.svg" alt="akash@nixos — booting profile"/>
+</div>
 
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.blender.org/" target="_blank"> 
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.gtk.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> 
-  </a> 
-  <a href="https://heroku.com" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://opencv.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a>  
-  <a href="https://scikit-learn.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.sqlite.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-  <a href="https://unity.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
-  </a> 
-  <a href="https://unrealengine.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.rust-lang.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/> 
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="illustrator" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="premiere" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" alt="aftereffects" width="40" height="40"/> 
-  </a>
-</p>
+[![OS](https://img.shields.io/badge/OS-NixOS_Linux-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](https://nixos.org/)
+[![Profile Views](https://komarev.com/ghpvc/?username=akashbiswas7074&style=for-the-badge&color=4AF626)](https://github.com/akashbiswas7074)
+[![Followers](https://img.shields.io/github/followers/akashbiswas7074?style=for-the-badge&color=1793D1&logo=github)](https://github.com/akashbiswas7074?tab=followers)
+[![Stars](https://img.shields.io/github/stars/akashbiswas7074?style=for-the-badge&color=E95420&logo=github)](https://github.com/akashbiswas7074?tab=repositories)
+[![Email](https://img.shields.io/badge/Email-abworkhouse01%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abworkhouse01@gmail.com)
 
+</div>
+
+---
+
+### `┌──(akash@nixos)-[~]`
+### `└─$ whoami && neofetch`
+
+<div align="center">
+  <img src="assets/neofetch.svg" alt="neofetch — akash@nixos system info"/>
+</div>
+
+### `┌──(akash@nixos)-[/var/log]`
+### `└─$ tail -f life.log`
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=17&duration=3500&pause=700&color=4AF626&background=0D1117&center=true&vCenter=true&width=800&height=50&lines=%3E+MERN+Stack+%26+Mobile+App+Engineer%3B;%3E+Architecting+3D+Worlds+in+Unreal+%26+Unity%3B;%3E+Training+AI%2FML+Models+%26+Deep+Neural+Nets%3B;%3E+NixOS+Enthusiast+%7C+Reproducible+Systems%3B;%3E+grep+-ri+%22breakthrough%22+%7E%2Fbrain" alt="tail -f life.log"/>
+</div>
+
+### `┌──(akash@nixos)-[~/stack]`
+### `└─$ ls -la`
+
+<div align="center">
+  <img src="assets/tech-stack.svg" alt="Tech Stack"/>
+</div>
+
+### `┌──(akash@nixos)-[~/stats]`
+### `└─$ htop --github`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akashbiswas7074&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=4AF626&text_color=C9D1D9&icon_color=1793D1&border_color=30363D" width="46%"/>
+  <img src="https://streak-stats.demolab.com/?user=akashbiswas7074&hide_border=true&background=0D1117&stroke=30363D&ring=4AF626&fire=E95420&currStreakLabel=4AF626&currStreakNum=E6EDF3&sideLabels=C9D1D9&sideNums=8B949E&dates=8B949E" width="46%"/>
+</div>
+
+### `┌──(akash@nixos)-[~/metrics]`
+### `└─$ cat productive-hours.log`
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akashbiswas7074&theme=github_dark&utcOffset=5.5&bg_color=0D1117&title_color=4AF626&text_color=C9D1D9&icon_color=1793D1&border_color=30363D&chart_color=4AF626" alt="Productive time — commits per hour of day (IST)"/>
+</div>
+
+### `┌──(akash@nixos)-[~/repo]`
+### `└─$ git log --graph --3d`
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-green-animate.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-south-season-animate.svg"/>
+    <img alt="3D contributions" src="profile-3d-contrib/profile-south-season-animate.svg" width="100%"/>
+  </picture>
+</div>
+
+### `┌──(akash@nixos)-[~/services]`
+### `└─$ systemctl status developer.service`
+
+<div align="center">
+  <img src="assets/developer-systemctl.svg" alt="systemctl status developer.service"/>
+</div>
+
+### `┌──(akash@nixos)-[~/scripts]`
+### `└─$ python3 snake.py`
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akashbiswas7074/akashbiswas7074/output/snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akashbiswas7074/akashbiswas7074/output/snake.svg"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/akashbiswas7074/akashbiswas7074/output/snake.svg" width="100%"/>
+  </picture>
+</div>
+
+---
+
+### `┌──(visitor@git)-[~]`
+### `└─$ ssh akash@nixos`
+
+<div align="center">
+  <a href="https://github.com/akashbiswas7074"><img src="assets/social-github.svg" width="48" alt="GitHub"/></a>
+  &nbsp;
+  <a href="mailto:abworkhouse01@gmail.com"><img src="assets/social-gmail.svg" width="48" alt="Email"/></a>
+  &nbsp;
+  <a href="https://linkedin.com"><img src="assets/social-linkedin.svg" width="48" alt="LinkedIn"/></a>
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
+</div>
+
+<div align="center">
+  <img src="assets/echo-funfact.svg" alt="echo $FUN_FACT"/>
+</div>
+
+<div align="center">
+  <code>logout</code> — connection to <b>nixos</b> closed · <code>exit 0</code>
+</div>
+
+<p align="center"><i>Made with ❄️ NixOS, 🐧 Linux, ❤️ Code &amp; <code>neovim</code> — <code>:wq</code></i></p>
