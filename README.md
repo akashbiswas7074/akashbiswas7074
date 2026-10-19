@@ -130,11 +130,5 @@
 <br/>
 
 <div align="center">
-  <code>logout</code> — connection to <b>nixos</b> closed · <code>exit 0</code>
+  <img src="assets/hanma-footer.jpg" alt="Yujiro Hanma — The Strongest Creature on Earth" width="100%"/>
 </div>
-
-<p align="center">
-  <b>🔥 "The Strongest Code is Forged in Flames" — Hanma Doctrine 🔥</b>
-</p>
-
-<p align="center"><i>Made with 🔥 NixOS · 🐧 Linux · ❤️ Code · <code>neovim</code> — <code>:wq</code></i></p>
